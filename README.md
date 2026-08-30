@@ -215,3 +215,11 @@ optical flow 피처는 팀원이 진행 중이었고, VideoMAE는 GPU 비용으�
 
 Python 3.10, PyTorch 2.12, torchvision, OpenCV, scikit-learn, Streamlit, Flask, Hugging Face Hub, CVAT
 품질 게이트는 mypy strict + ruff이며 두 도구 모두 에러 0을 유지했습니다.
+
+---
+
+## 라이선스
+
+코드는 [MIT](LICENSE)입니다.
+라벨이 파생된 원 데이터셋은 각자의 라이선스를 따르며(XD-Violence는 research only),
+자세한 내용은 [LICENSE](LICENSE) 하단에 정리했습니다.
