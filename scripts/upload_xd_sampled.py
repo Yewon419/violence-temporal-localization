@@ -1,11 +1,13 @@
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 from huggingface_hub import HfApi
 
-TOKEN = Path(r"C:/Users/windg/Desktop/PROJECT/_keys/DEproject2/HF_TOKEN.txt").read_text(encoding="utf-8").strip()
-SRC = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence_curated_500")
+TOKEN = os.environ["HF_TOKEN"]
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+SRC = PROJECT_ROOT / "data/processed/violence_curated_500"
 REPO = "DEteam4/movie-rating-violence"
 
 

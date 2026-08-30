@@ -1,5 +1,10 @@
 # Drama frames v2 — 우선순위 3·4 vision 샘플 검수 보고서
 
+> **아카이브 문서입니다.**
+> 폐기된 객체검출 트랙의 작업 기록으로, 당시 상태를 그대로 보존한 것입니다.
+> 현재 파이프라인은 [저장소 README](../../README.md)를 참고하세요.
+> 이 트랙을 왜 접었는지는 README의 「전환 1」 절에 정리했습니다.
+
 **검수 일자**: 2026-05-30
 **방식**: 핸드오프 전략대로 **전수가 아닌 층화 샘플링** (object 라벨은 FP 낮음·unknown은 패턴 가이드용). 박스별 단독 하이라이트 이미지(`scripts/vision_review_prep.py`)를 score·raw_label 층화로 추출해 vision Read.
 
@@ -79,4 +84,4 @@ raw_label 기준 분류:
 | 3 | unknown | 373 | 샘플 20 | clean keep 0 → **일괄 삭제 권고** |
 | 4 | bottle·cup·cigarette | 373 | 샘플 35 | hard FP 0, ~74% 진짜 → **일괄 유지 권고** |
 
-**핵심**: GD 확장 prompt에서 **violence 이벤트·행위 라벨(explosion/car_accident/blood/abuse/riot)은 거의 노이즈**, **object 라벨(bottle/cup/cigarette/gun)은 신뢰 가능**. unknown은 저신뢰 잡탕. 검수자(대표님) 액션은 사실상 ①·③ 라벨 일괄 제거 + ② 마약왕 장총·AK47 keep·검 relabel + ④ object 유지로 수렴.
+**핵심**: GD 확장 prompt에서 **violence 이벤트·행위 라벨(explosion/car_accident/blood/abuse/riot)은 거의 노이즈**, **object 라벨(bottle/cup/cigarette/gun)은 신뢰 가능**. unknown은 저신뢰 잡탕. 검수 액션은 사실상 ①·③ 라벨 일괄 제거 + ② 마약왕 장총·AK47 keep·검 relabel + ④ object 유지로 수렴.

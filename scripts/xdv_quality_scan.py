@@ -6,7 +6,8 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-ROOT = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT_ROOT / "data/processed/violence"
 XDV_DIRS = ["Abuse", "Car Accident", "Explosion", "Fighting", "Riot", "Shooting"]
 OUT = ROOT.parent / "vision_review" / "xdv_quality_scores.json"
 
@@ -52,10 +53,10 @@ def main() -> None:
     for d in XDV_DIRS:
         folder = ROOT / d
         files = sorted(folder.glob("*.jpg"))
-        for i, f in enumerate(files):
+        for f in files:
             try:
                 m = analyze(f)
-            except Exception as e:  # noqa: BLE001
+            except Exception as e:
                 m = {"error": str(e)}
             m["cat"] = d
             m["name"] = f.name

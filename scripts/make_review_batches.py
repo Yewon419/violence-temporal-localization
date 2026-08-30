@@ -4,7 +4,8 @@ import json
 import math
 from pathlib import Path
 
-ROOT = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT_ROOT / "data/processed/violence"
 REV = ROOT.parent / "vision_review"
 BATCH = 52
 CATS = ["Abuse", "Explosion", "Fighting", "Riot", "Shooting"]

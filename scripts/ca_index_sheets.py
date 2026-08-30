@@ -5,8 +5,9 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
-ROOT = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence/Car Accident")
-REV = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/vision_review")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT_ROOT / "data/processed/violence/Car Accident"
+REV = PROJECT_ROOT / "data/processed/vision_review"
 SHEETDIR = REV / "ca_sheets"
 
 TILE = 200
@@ -17,7 +18,7 @@ CAP = 22
 
 try:
     FONT = ImageFont.truetype("DejaVuSans-Bold.ttf", 18)
-except Exception:  # noqa: BLE001
+except Exception:
     FONT = ImageFont.load_default()
 
 
@@ -39,7 +40,7 @@ def main() -> None:
                 im = Image.open(f).convert("RGB")
                 im = ImageOps.autocontrast(im, cutoff=1)  # lift dark night frames
                 im.thumbnail((TILE, TILE))
-            except Exception:  # noqa: BLE001
+            except Exception:
                 im = Image.new("RGB", (TILE, TILE), (80, 0, 0))
             x, y = c * TILE, r * (TILE + CAP)
             canvas.paste(im, (x, y))

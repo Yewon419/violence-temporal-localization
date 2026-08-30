@@ -14,7 +14,7 @@ Python이 설치돼 있어야 합니다.
 
 ```powershell
 # 1) 이 폴더로 이동
-cd "C:\Users\windg\Desktop\SCHOOL\3-1\데이터엔지니어링\project2\violence_annotator"
+cd violence_annotator
 
 # 2) 필요한 패키지 설치
 pip install -r requirements.txt

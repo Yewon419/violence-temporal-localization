@@ -1,5 +1,10 @@
 # 드라마 frame 데이터 파이프라인 — 사용 안내
 
+> **아카이브 문서입니다.**
+> 폐기된 객체검출 트랙의 작업 기록으로, 당시 상태를 그대로 보존한 것입니다.
+> 현재 파이프라인은 [저장소 README](../../README.md)를 참고하세요.
+> 이 트랙을 왜 접었는지는 README의 「전환 1」 절에 정리했습니다.
+
 mp4 영상이 준비된 후, 아래 순서대로 진행하면 됩니다.
 각 단계의 코드 블록은 노션에서 복사 → Python 또는 PowerShell에 그대로 paste 가능합니다.
 
@@ -105,7 +110,7 @@ for mp4 in VIDEO_DIR.glob("*.mp4"):
 
 ### 토큰 준비
 
-`_keys\DEproject2\HF_TOKEN.txt`에 본인 HF write 토큰 저장.
+`<키 보관 폴더>/HF_TOKEN.txt`에 본인 HF write 토큰 저장.
 
 ### 코드
 
@@ -117,7 +122,7 @@ from huggingface_hub import HfApi, CommitOperationAdd
 
 REPO_ID = "DEteam4/movie-rating-violence"
 FRAMES_DIR = Path("data/processed/yt_drama_frames")
-TOKEN_PATH = Path(r"C:\Users\windg\Desktop\PROJECT\_keys\DEproject2\HF_TOKEN.txt")
+TOKEN_PATH = Path(r"<키 보관 폴더>\HF_TOKEN.txt")
 TARGETS = ("smoking/drama_frames", "drinking/drama_frames")
 
 token = TOKEN_PATH.read_text(encoding="utf-8").strip()
@@ -369,7 +374,7 @@ docker exec -it cvat_server bash -c "python3 manage.py createsuperuser"
 
 ### 토큰 준비
 
-`_keys\DEproject2\CVAT_username.txt` + `CVAT_password.txt`.
+`<키 보관 폴더>/CVAT_username.txt` + `CVAT_password.txt`.
 
 ### Task 자동 생성 코드
 
@@ -386,7 +391,7 @@ from cvat_sdk.api_client.models import (
 CVAT_HOST = "http://localhost:8080"
 PROJECT_NAME = "DEproject2"
 CVAT_IMPORT = Path("data/processed/cvat_import")
-KEYS = Path(r"C:\Users\windg\Desktop\PROJECT\_keys\DEproject2")
+KEYS = Path(r"<키 보관 폴더>")
 
 u = (KEYS / "CVAT_username.txt").read_text(encoding="utf-8").strip()
 p = (KEYS / "CVAT_password.txt").read_text(encoding="utf-8").strip()
@@ -565,7 +570,7 @@ from huggingface_hub import HfApi, CommitOperationAdd
 REPO_ID = "DEteam4/movie-rating-violence"
 EXPORT_ZIP = Path("data/processed/cvat_export/yolo.zip")  # CVAT에서 다운받은 위치
 EXPORT_DIR = Path("data/processed/cvat_export/extracted")
-TOKEN_PATH = Path(r"C:\Users\windg\Desktop\PROJECT\_keys\DEproject2\HF_TOKEN.txt")
+TOKEN_PATH = Path(r"<키 보관 폴더>\HF_TOKEN.txt")
 TARGETS = ("smoking/drama_frames_labels", "drinking/drama_frames_labels")
 
 # zip 해제

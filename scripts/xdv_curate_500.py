@@ -6,7 +6,8 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
-ROOT = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT_ROOT / "data/processed/violence"
 DEST = ROOT.parent / "violence_curated_500"
 REV = ROOT.parent / "vision_review"
 TARGET = 500

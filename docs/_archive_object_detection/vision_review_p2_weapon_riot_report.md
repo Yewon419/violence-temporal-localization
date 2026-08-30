@@ -1,5 +1,10 @@
 # Drama frames v2 — 우선순위 2 — weapon_knife·riot·weapon_gun vision 전수 검수 보고서
 
+> **아카이브 문서입니다.**
+> 폐기된 객체검출 트랙의 작업 기록으로, 당시 상태를 그대로 보존한 것입니다.
+> 현재 파이프라인은 [저장소 README](../../README.md)를 참고하세요.
+> 이 트랙을 왜 접었는지는 README의 「전환 1」 절에 정리했습니다.
+
 **대상**: CVAT v2 import 중 `weapon_knife`·`riot`·`weapon_gun` 라벨 50 bbox 전수
 **방법**: 박스별 단독 하이라이트 이미지 생성 후 vision Read 전수 판정
 **검수 일자**: 2026-05-30

@@ -5,7 +5,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw
 
-ROOT = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT_ROOT / "data/processed/violence"
 DEST = ROOT.parent / "violence_curated_500"
 REV = ROOT.parent / "vision_review"
 MAN = json.loads((REV / "xdv_curated_500_manifest.json").read_text(encoding="utf-8"))["picks"]
@@ -27,7 +28,7 @@ def make_sheet(cat: str) -> None:
         try:
             im = Image.open(DEST / cat / name).convert("RGB")
             im.thumbnail((TILE, TILE))
-        except Exception:  # noqa: BLE001
+        except Exception:
             im = Image.new("RGB", (TILE, TILE), (80, 0, 0))
         x, y = c * TILE, r * (TILE + 14)
         canvas.paste(im, (x, y))

@@ -1,11 +1,16 @@
 # CVAT 워크플로우 — drama_frames false positive 검수
 
+> **아카이브 문서입니다.**
+> 폐기된 객체검출 트랙의 작업 기록으로, 당시 상태를 그대로 보존한 것입니다.
+> 현재 파이프라인은 [저장소 README](../../README.md)를 참고하세요.
+> 이 트랙을 왜 접었는지는 README의 「전환 1」 절에 정리했습니다.
+
 GD가 생성한 bbox를 CVAT에 미리 깔아두고 팀원 6명이 검수하는 흐름.
-대표님 자체 호스팅 → 팀원 invite → Project/Task/Job 분담 → YOLO export → HF push.
+로컬 자체 호스팅 → 팀원 invite → Project/Task/Job 분담 → YOLO export → HF push.
 
 ---
 
-## 1. CVAT 셋업 (대표님 PC 1회만)
+## 1. CVAT 셋업 (호스팅 PC에서 1회만)
 
 ### 1.1 사전 조건
 - Docker Desktop (AutoStock 운영 중이라 이미 설치됨)
@@ -31,7 +36,7 @@ docker compose ps
 docker exec -it cvat_server bash -c "python3 manage.py createsuperuser"
 ```
 - username: `yewon` (또는 본인 ID)
-- email: `windgarden05@gmail.com`
+- email: `<본인 이메일>`
 - password: 강력하게
 
 ### 1.4 첫 접속
@@ -167,7 +172,7 @@ docker exec -it cvat_server bash -c "python3 manage.py createsuperuser"
 
 ## 8. 다음 단계
 
-1. **대표님**: 1·2번 셋업 직접 진행 + 막히는 부분 본인에게 보고
+1. **호스팅 담당**: 1·2번 셋업 진행
 2. **본인**: GD → COCO 변환 스크립트(`scripts/gd_to_cvat_coco.py`) 작성
 3. **회의**: label class 7개 확정 + 검수 규칙 합의
-4. **팀원 onboarding**: 본 문서 정제판 공유 + Slack/Zoom 30분 시연
+4. **팀원 onboarding**: 본 문서 공유 + 화면 공유로 시연

@@ -1,5 +1,10 @@
 # Drama frames v2 — 우선순위 1 vision 전수 검수 보고서
 
+> **아카이브 문서입니다.**
+> 폐기된 객체검출 트랙의 작업 기록으로, 당시 상태를 그대로 보존한 것입니다.
+> 현재 파이프라인은 [저장소 README](../../README.md)를 참고하세요.
+> 이 트랙을 왜 접었는지는 README의 「전환 1」 절에 정리했습니다.
+
 **대상**: CVAT v2 import 중 `explosion`·`car_accident`·`blood`·`abuse` 라벨 119 bbox 전수
 **방법**: 박스별 단독 하이라이트 이미지 생성 후 vision Read 전수 판정
 **검수 일자**: 2026-05-30
@@ -35,7 +40,7 @@
 | idx | 영상 | frame | 라벨 | score | 이미지 | 관찰 |
 |---:|---|---|---|---:|---|---|
 | 114 | x2PjLCMrfTk | x2PjLCMrfTk_frame_01238.jpg | car_accident | 0.31 | `114_x2PjLCMrfTk_01238_car_accident.jpg` | ★ 진짜 car_accident — 트럭이 다수 차량과 충돌, 차량 박살·파편 비산 (황해 엔딩 추돌) |
-| 117 | x2PjLCMrfTk | x2PjLCMrfTk_frame_01651.jpg | car_accident | 0.31 | `117_x2PjLCMrfTk_01651_car_accident.jpg` | 앞범퍼 파손 차량(사고 후 차량 가능성, borderline — 대표님 최종 확인 권장) |
+| 117 | x2PjLCMrfTk | x2PjLCMrfTk_frame_01651.jpg | car_accident | 0.31 | `117_x2PjLCMrfTk_01651_car_accident.jpg` | 앞범퍼 파손 차량(사고 후 차량 가능성, borderline, 최종 확인 필요) |
 
 ## DELETE 목록 (삭제 권고 — 전체)
 

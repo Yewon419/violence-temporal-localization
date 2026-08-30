@@ -1,5 +1,10 @@
 # dataset_Ver2 — 데이터셋 집계 리포트
 
+> **아카이브 문서입니다.**
+> 폐기된 객체검출 트랙의 작업 기록으로, 당시 상태를 그대로 보존한 것입니다.
+> 현재 파이프라인은 [저장소 README](../../README.md)를 참고하세요.
+> 이 트랙을 왜 접었는지는 README의 「전환 1」 절에 정리했습니다.
+
 > 작성: 2026-06-01 · 대상: [DEteam4/dataset_Ver2](https://huggingface.co/datasets/DEteam4/dataset_Ver2)
 > Ultralytics YOLO Detection 1.0 포맷 · `images/{split}/...` + `labels/{split}/...` 미러 구조
 

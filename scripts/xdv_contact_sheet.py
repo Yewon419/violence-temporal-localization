@@ -1,12 +1,12 @@
 from __future__ import annotations
 
 import json
-import sys
 from pathlib import Path
 
 from PIL import Image, ImageDraw
 
-ROOT = Path(r"C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/violence")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT_ROOT / "data/processed/violence"
 REV = ROOT.parent / "vision_review"
 DATA = json.loads((REV / "xdv_quality_scores.json").read_text(encoding="utf-8"))
 
@@ -25,7 +25,7 @@ def sheet(items: list[dict], out: Path, label: str) -> None:
         try:
             im = Image.open(p).convert("RGB")
             im.thumbnail((TILE, TILE))
-        except Exception:  # noqa: BLE001
+        except Exception:
             im = Image.new("RGB", (TILE, TILE), (80, 0, 0))
         x, y = c * TILE, r * cell_h
         canvas.paste(im, (x, y))

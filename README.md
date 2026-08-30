@@ -159,9 +159,10 @@ streamlit run DE_PJ2/demo_app.py
 ├── labels/                  라벨과 검수 판정 기록 (json·txt, 약 13MB)
 ├── datasetVer3/             YOLO 데이터셋 빌드 + 어노테이션 jsonl
 ├── docs/
+│   ├── README.md                       문서 인덱스
 │   ├── demo_violence_localization.md   데모 전체 사양 (가장 상세한 문서)
-│   ├── annotation_guide.md             어노테이션 기준
-│   └── _archive_object_detection/      폐기한 객체검출 트랙 기록
+│   ├── annotation_guide.md             어노테이션 판단 기준
+│   └── _archive_object_detection/      폐기한 객체검출 트랙 기록 13건
 └── build_clips.py           클립 생성
 ```
 

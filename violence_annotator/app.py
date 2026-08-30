@@ -160,7 +160,7 @@ def _run_extract(video_path: Path, movie_id: str) -> None:
     """백그라운드 추출 스레드. 예외는 삼키지 않고 PROGRESS로 노출(스레드 밖 전파 불가)."""
     try:
         extract_frames(video_path, movie_id)
-    except Exception as exc:  # noqa: BLE001 - 스레드 경계: 진행률로 surface
+    except Exception as exc:
         PROGRESS[movie_id] = {"saved": 0, "total": 1, "done": True, "error": str(exc)}
 
 

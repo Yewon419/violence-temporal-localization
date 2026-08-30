@@ -1,10 +1,11 @@
+import os
 import re
+
 import numpy as np
 import torch
 import torchvision.models as models
 import torchvision.transforms as transforms
 from PIL import Image
-import os
 
 # ========================================
 # ⚠️ 여기만 수정
@@ -39,7 +40,7 @@ def build_clips_local(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
     frames_dir = os.path.join(BASE_PATH, 'images', movie_id)
 
     scenes = []
-    with open(txt_path, 'r', encoding='utf-8') as f:
+    with open(txt_path, encoding='utf-8') as f:
         for line in f:
             match = re.match(r'\[(.+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\w+)\]', line.strip())
             if match:
@@ -95,7 +96,7 @@ print(f'\n총 클립: {len(X_clips)}개')
 print(f'violence: {y_clips.count("violence")}개')
 print(f'neg_easy: {y_clips.count("neg_easy")}개')
 print(f'파일 위치: {SAVE_PATH}')
-print(f'이 파일들을 Jen에게 전달해주세요:')
+print('이 파일들을 Jen에게 전달해주세요:')
 print(f'  {SAVE_NAME}_X.npy')
 print(f'  {SAVE_NAME}_y.npy')
 print(f'  {SAVE_NAME}_movie_ids.npy')
