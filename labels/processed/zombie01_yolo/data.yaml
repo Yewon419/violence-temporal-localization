@@ -1,0 +1,5 @@
+path: C:/Users/windg/Desktop/SCHOOL/3-1/데이터엔지니어링/project2/data/processed/zombie01_yolo
+train: images/train
+val: images/train
+nc: 4
+names: ['weapon_gun', 'weapon_knife', 'weapon_blunt', 'blood']

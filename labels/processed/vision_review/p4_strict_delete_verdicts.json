@@ -1,0 +1,1970 @@
+[
+ {
+  "idx": 0,
+  "frame": "3auH8hGUezI_frame_00021.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1031.9,
+   676.6,
+   89.9,
+   30.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 1,
+  "frame": "3auH8hGUezI_frame_00031.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   0.2,
+   613.2,
+   30.2,
+   53.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 2,
+  "frame": "3auH8hGUezI_frame_00031.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   0.2,
+   664.1,
+   50.8,
+   41.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 3,
+  "frame": "3auH8hGUezI_frame_00051.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   0.6,
+   636.2,
+   76.6,
+   70.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 5,
+  "frame": "3auH8hGUezI_frame_00254.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   745.3,
+   492.8,
+   51.2,
+   100.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 6,
+  "frame": "3auH8hGUezI_frame_00254.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1134.2,
+   476.5,
+   53.7,
+   28.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 7,
+  "frame": "3auH8hGUezI_frame_00254.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   819.0,
+   535.7,
+   51.0,
+   55.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 8,
+  "frame": "3auH8hGUezI_frame_00254.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   723.0,
+   545.9,
+   28.2,
+   30.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 9,
+  "frame": "3auH8hGUezI_frame_00376.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1100.7,
+   12.2,
+   177.5,
+   360.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 10,
+  "frame": "3auH8hGUezI_frame_00386.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   570.6,
+   611.6,
+   97.2,
+   94.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 11,
+  "frame": "3auH8hGUezI_frame_00406.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1054.0,
+   407.8,
+   44.1,
+   125.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 12,
+  "frame": "3auH8hGUezI_frame_00406.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   454.9,
+   183.0,
+   34.3,
+   90.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 13,
+  "frame": "3auH8hGUezI_frame_00406.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1209.9,
+   476.9,
+   50.1,
+   99.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 14,
+  "frame": "3auH8hGUezI_frame_00406.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   453.4,
+   183.9,
+   36.7,
+   140.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 15,
+  "frame": "3auH8hGUezI_frame_00609.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   637.5,
+   298.7,
+   16.3,
+   44.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 16,
+  "frame": "3auH8hGUezI_frame_00609.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   612.1,
+   266.0,
+   20.8,
+   59.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 17,
+  "frame": "3auH8hGUezI_frame_00609.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   620.5,
+   386.5,
+   15.6,
+   42.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 18,
+  "frame": "3auH8hGUezI_frame_00649.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   927.9,
+   353.2,
+   38.8,
+   109.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 19,
+  "frame": "3auH8hGUezI_frame_00731.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   364.4,
+   410.9,
+   94.0,
+   159.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 27,
+  "frame": "3auH8hGUezI_frame_00812.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   206.8,
+   658.7,
+   30.3,
+   48.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 38,
+  "frame": "3auH8hGUezI_frame_00984.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   926.8,
+   503.9,
+   70.0,
+   178.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 39,
+  "frame": "69RJZ7TwDrQ_frame_00036.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   300.2,
+   76.0,
+   350.3,
+   326.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 40,
+  "frame": "69RJZ7TwDrQ_frame_00194.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   814.7,
+   449.5,
+   34.2,
+   61.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 50,
+  "frame": "69RJZ7TwDrQ_frame_00317.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   755.4,
+   390.9,
+   57.3,
+   117.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 51,
+  "frame": "69RJZ7TwDrQ_frame_00317.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   652.4,
+   486.7,
+   42.3,
+   33.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 53,
+  "frame": "69RJZ7TwDrQ_frame_00317.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   396.4,
+   531.9,
+   83.7,
+   77.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 57,
+  "frame": "69RJZ7TwDrQ_frame_00441.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   18.4,
+   653.1,
+   114.5,
+   54.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 58,
+  "frame": "69RJZ7TwDrQ_frame_00494.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1025.6,
+   134.9,
+   252.2,
+   574.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 59,
+  "frame": "69RJZ7TwDrQ_frame_00546.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   885.9,
+   247.4,
+   106.3,
+   87.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 60,
+  "frame": "69RJZ7TwDrQ_frame_00634.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   373.3,
+   307.5,
+   20.4,
+   60.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 62,
+  "frame": "69RJZ7TwDrQ_frame_00705.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1155.6,
+   640.4,
+   96.8,
+   65.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 63,
+  "frame": "69RJZ7TwDrQ_frame_00705.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1224.1,
+   567.4,
+   54.3,
+   46.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 64,
+  "frame": "69RJZ7TwDrQ_frame_00705.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1073.6,
+   685.2,
+   70.8,
+   22.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 76,
+  "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   506.4,
+   542.4,
+   93.3,
+   88.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 77,
+  "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   585.8,
+   600.3,
+   105.2,
+   95.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 78,
+  "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   771.1,
+   493.1,
+   73.6,
+   174.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 79,
+  "frame": "69RJZ7TwDrQ_frame_00934.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   531.2,
+   542.3,
+   102.9,
+   96.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 80,
+  "frame": "69RJZ7TwDrQ_frame_00934.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   442.8,
+   453.7,
+   56.5,
+   127.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 101,
+  "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   0.5,
+   646.8,
+   48.8,
+   60.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 102,
+  "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1011.6,
+   562.4,
+   112.4,
+   110.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 111,
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1086.6,
+   375.0,
+   20.4,
+   36.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 112,
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   31.7,
+   440.7,
+   51.3,
+   57.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 113,
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   911.9,
+   613.1,
+   70.5,
+   88.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 114,
+  "frame": "LkSY-EuTb1E_frame_00010.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   608.8,
+   375.7,
+   140.6,
+   209.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 115,
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   704.2,
+   374.0,
+   145.6,
+   127.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 116,
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   340.5,
+   336.3,
+   118.1,
+   144.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 117,
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   340.5,
+   367.4,
+   117.8,
+   113.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 118,
+  "frame": "LkSY-EuTb1E_frame_00042.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   795.6,
+   337.8,
+   110.3,
+   176.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 119,
+  "frame": "LkSY-EuTb1E_frame_00042.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   813.2,
+   478.7,
+   102.7,
+   143.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 120,
+  "frame": "LkSY-EuTb1E_frame_00051.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   455.2,
+   307.7,
+   20.8,
+   46.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 121,
+  "frame": "LkSY-EuTb1E_frame_00051.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   562.0,
+   454.6,
+   20.6,
+   28.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 122,
+  "frame": "LkSY-EuTb1E_frame_00079.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1222.3,
+   424.2,
+   51.0,
+   149.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 123,
+  "frame": "LkSY-EuTb1E_frame_00079.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   664.8,
+   569.3,
+   35.6,
+   33.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 124,
+  "frame": "LkSY-EuTb1E_frame_00079.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   580.2,
+   591.0,
+   39.8,
+   28.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 125,
+  "frame": "LkSY-EuTb1E_frame_00083.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1053.4,
+   343.2,
+   82.5,
+   192.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 126,
+  "frame": "LkSY-EuTb1E_frame_00088.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1157.6,
+   305.4,
+   50.2,
+   69.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 127,
+  "frame": "LkSY-EuTb1E_frame_00097.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   592.3,
+   191.7,
+   198.0,
+   299.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 128,
+  "frame": "LkSY-EuTb1E_frame_00097.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   485.8,
+   329.4,
+   53.6,
+   76.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 129,
+  "frame": "LkSY-EuTb1E_frame_00097.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   647.7,
+   100.1,
+   125.0,
+   142.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 130,
+  "frame": "LkSY-EuTb1E_frame_00097.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   436.6,
+   186.0,
+   145.5,
+   251.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 132,
+  "frame": "LkSY-EuTb1E_frame_00111.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   630.9,
+   550.0,
+   77.8,
+   64.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 133,
+  "frame": "LkSY-EuTb1E_frame_00134.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   538.8,
+   480.8,
+   45.9,
+   31.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 134,
+  "frame": "LkSY-EuTb1E_frame_00134.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1033.3,
+   248.8,
+   45.1,
+   39.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 135,
+  "frame": "LkSY-EuTb1E_frame_00138.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   540.0,
+   480.9,
+   44.6,
+   39.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 136,
+  "frame": "LkSY-EuTb1E_frame_00138.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1033.1,
+   248.6,
+   45.3,
+   39.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 137,
+  "frame": "LkSY-EuTb1E_frame_00147.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   112.3,
+   558.2,
+   52.2,
+   64.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 138,
+  "frame": "LkSY-EuTb1E_frame_00147.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   0.7,
+   409.0,
+   84.4,
+   214.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 149,
+  "frame": "LkSY-EuTb1E_frame_00184.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   722.1,
+   494.1,
+   142.4,
+   129.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 150,
+  "frame": "LkSY-EuTb1E_frame_00184.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   722.5,
+   227.8,
+   179.9,
+   396.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 151,
+  "frame": "LkSY-EuTb1E_frame_00193.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   443.7,
+   417.5,
+   126.3,
+   202.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 152,
+  "frame": "LkSY-EuTb1E_frame_00244.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   466.0,
+   477.7,
+   156.4,
+   145.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 153,
+  "frame": "LkSY-EuTb1E_frame_00244.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   318.7,
+   349.7,
+   90.4,
+   80.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 154,
+  "frame": "LkSY-EuTb1E_frame_00244.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   318.9,
+   349.8,
+   303.4,
+   272.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 155,
+  "frame": "LkSY-EuTb1E_frame_00322.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   61.1,
+   366.4,
+   47.5,
+   72.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 156,
+  "frame": "LkSY-EuTb1E_frame_00326.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   61.3,
+   366.4,
+   46.3,
+   72.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 157,
+  "frame": "LkSY-EuTb1E_frame_00331.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1226.8,
+   476.2,
+   52.1,
+   145.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 158,
+  "frame": "LkSY-EuTb1E_frame_00340.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   152.1,
+   179.1,
+   87.3,
+   110.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 159,
+  "frame": "LkSY-EuTb1E_frame_00340.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1091.9,
+   110.1,
+   103.7,
+   126.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 160,
+  "frame": "LkSY-EuTb1E_frame_00368.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   911.8,
+   245.5,
+   10.9,
+   24.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 161,
+  "frame": "LkSY-EuTb1E_frame_00391.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   719.4,
+   90.8,
+   292.8,
+   531.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 162,
+  "frame": "LkSY-EuTb1E_frame_00391.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   635.2,
+   90.5,
+   377.8,
+   532.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 163,
+  "frame": "LkSY-EuTb1E_frame_00423.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   204.4,
+   426.1,
+   253.6,
+   196.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 164,
+  "frame": "Rqlf3zNPqgQ_frame_00001.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   299.2,
+   370.5,
+   20.4,
+   21.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 165,
+  "frame": "Rqlf3zNPqgQ_frame_00001.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   352.8,
+   346.4,
+   15.5,
+   57.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 166,
+  "frame": "Rqlf3zNPqgQ_frame_00001.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   364.9,
+   356.9,
+   18.8,
+   46.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 174,
+  "frame": "Rqlf3zNPqgQ_frame_00062.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   259.1,
+   573.4,
+   78.4,
+   42.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 176,
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   627.8,
+   424.7,
+   52.0,
+   72.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 177,
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   328.3,
+   535.1,
+   84.6,
+   80.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 178,
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   803.9,
+   471.8,
+   59.2,
+   45.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 179,
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   438.8,
+   524.3,
+   75.2,
+   70.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 181,
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   761.0,
+   478.6,
+   44.4,
+   33.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 182,
+  "frame": "Rqlf3zNPqgQ_frame_00154.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   412.2,
+   347.9,
+   36.6,
+   51.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 183,
+  "frame": "Rqlf3zNPqgQ_frame_00169.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   397.2,
+   583.4,
+   135.0,
+   32.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 184,
+  "frame": "Rqlf3zNPqgQ_frame_00184.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   429.2,
+   500.4,
+   41.7,
+   44.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 185,
+  "frame": "Rqlf3zNPqgQ_frame_00184.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   895.8,
+   416.0,
+   42.8,
+   82.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 186,
+  "frame": "Rqlf3zNPqgQ_frame_00215.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   491.1,
+   498.4,
+   69.7,
+   117.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 187,
+  "frame": "Rqlf3zNPqgQ_frame_00292.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   610.8,
+   472.9,
+   59.5,
+   58.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 188,
+  "frame": "Rqlf3zNPqgQ_frame_00338.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   839.5,
+   452.9,
+   148.3,
+   161.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 189,
+  "frame": "Rqlf3zNPqgQ_frame_00368.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   602.5,
+   375.2,
+   46.6,
+   82.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 215,
+  "frame": "Rqlf3zNPqgQ_frame_01134.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   508.0,
+   169.7,
+   305.3,
+   419.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 216,
+  "frame": "Rqlf3zNPqgQ_frame_01165.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   352.9,
+   563.9,
+   41.9,
+   50.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 217,
+  "frame": "Rqlf3zNPqgQ_frame_01195.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   981.6,
+   382.3,
+   21.1,
+   62.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 234,
+  "frame": "sMpzdgHrINs_frame_00046.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   562.7,
+   318.6,
+   154.5,
+   266.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 235,
+  "frame": "sMpzdgHrINs_frame_00104.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   573.5,
+   532.2,
+   40.9,
+   83.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 236,
+  "frame": "sMpzdgHrINs_frame_00104.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   605.1,
+   567.3,
+   29.8,
+   46.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 249,
+  "frame": "sMpzdgHrINs_frame_00241.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   462.7,
+   385.4,
+   60.7,
+   112.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 250,
+  "frame": "sMpzdgHrINs_frame_00298.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   425.9,
+   522.2,
+   22.9,
+   29.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 253,
+  "frame": "sMpzdgHrINs_frame_00344.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1059.8,
+   315.8,
+   172.6,
+   278.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 255,
+  "frame": "sMpzdgHrINs_frame_00436.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   980.2,
+   478.0,
+   149.5,
+   97.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 256,
+  "frame": "sMpzdgHrINs_frame_00481.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   192.7,
+   258.9,
+   44.1,
+   58.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 257,
+  "frame": "sMpzdgHrINs_frame_00688.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   460.1,
+   488.0,
+   64.3,
+   65.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 258,
+  "frame": "sMpzdgHrINs_frame_00688.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   560.1,
+   502.9,
+   39.1,
+   51.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 259,
+  "frame": "sMpzdgHrINs_frame_00688.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   890.6,
+   589.6,
+   37.7,
+   40.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 260,
+  "frame": "sMpzdgHrINs_frame_00768.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   833.8,
+   566.9,
+   49.5,
+   28.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 261,
+  "frame": "sMpzdgHrINs_frame_00768.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1128.9,
+   572.3,
+   67.9,
+   39.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 262,
+  "frame": "sMpzdgHrINs_frame_00871.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   684.7,
+   355.9,
+   18.6,
+   39.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 263,
+  "frame": "sMpzdgHrINs_frame_00905.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   399.6,
+   473.7,
+   22.4,
+   25.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 264,
+  "frame": "sMpzdgHrINs_frame_00905.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   318.0,
+   442.7,
+   23.4,
+   25.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 265,
+  "frame": "sMpzdgHrINs_frame_00939.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1183.1,
+   289.7,
+   52.8,
+   86.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 266,
+  "frame": "sMpzdgHrINs_frame_00962.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   403.5,
+   306.9,
+   50.3,
+   65.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 267,
+  "frame": "sMpzdgHrINs_frame_00962.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   128.2,
+   364.6,
+   46.9,
+   47.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 268,
+  "frame": "sMpzdgHrINs_frame_01042.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   104.2,
+   193.3,
+   23.9,
+   78.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 269,
+  "frame": "sMpzdgHrINs_frame_01065.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   303.8,
+   99.6,
+   97.2,
+   318.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 270,
+  "frame": "sMpzdgHrINs_frame_01065.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   158.8,
+   238.1,
+   187.8,
+   384.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 271,
+  "frame": "sMpzdgHrINs_frame_01065.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   158.9,
+   238.2,
+   187.4,
+   320.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 272,
+  "frame": "sMpzdgHrINs_frame_01100.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   273.1,
+   422.3,
+   45.2,
+   118.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 273,
+  "frame": "sMpzdgHrINs_frame_01134.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   661.8,
+   373.7,
+   40.5,
+   77.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 274,
+  "frame": "vyXEi00PVrw_frame_00189.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   850.9,
+   550.0,
+   174.7,
+   92.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 283,
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   285.9,
+   522.7,
+   44.9,
+   56.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 284,
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   298.3,
+   576.3,
+   53.9,
+   54.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 285,
+  "frame": "vyXEi00PVrw_frame_00323.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   0.2,
+   429.4,
+   42.3,
+   149.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 286,
+  "frame": "vyXEi00PVrw_frame_00323.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   28.8,
+   515.1,
+   60.3,
+   65.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 297,
+  "frame": "vyXEi00PVrw_frame_00628.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   415.5,
+   528.8,
+   246.9,
+   103.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 298,
+  "frame": "vyXEi00PVrw_frame_00735.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   422.3,
+   377.8,
+   195.3,
+   105.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 299,
+  "frame": "vyXEi00PVrw_frame_00807.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1175.5,
+   288.8,
+   103.2,
+   309.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 300,
+  "frame": "vyXEi00PVrw_frame_00807.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   0.8,
+   299.0,
+   135.2,
+   318.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 309,
+  "frame": "wBr3f72w-fg_frame_00154.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   939.8,
+   575.4,
+   77.5,
+   62.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 310,
+  "frame": "wBr3f72w-fg_frame_00225.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   215.3,
+   552.7,
+   35.8,
+   84.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 311,
+  "frame": "wBr3f72w-fg_frame_00249.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   139.9,
+   542.0,
+   92.3,
+   96.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 312,
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   780.4,
+   394.6,
+   30.6,
+   18.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 313,
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   250.1,
+   169.2,
+   41.0,
+   67.6
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 314,
+  "frame": "wBr3f72w-fg_frame_00461.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1110.3,
+   489.4,
+   38.7,
+   40.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 315,
+  "frame": "wBr3f72w-fg_frame_00461.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1037.0,
+   489.4,
+   31.1,
+   32.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 322,
+  "frame": "wBr3f72w-fg_frame_00556.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   149.7,
+   418.5,
+   37.2,
+   49.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 323,
+  "frame": "wBr3f72w-fg_frame_00568.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   479.5,
+   474.3,
+   42.9,
+   41.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 324,
+  "frame": "wBr3f72w-fg_frame_00568.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   681.9,
+   465.6,
+   36.9,
+   33.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 331,
+  "frame": "wBr3f72w-fg_frame_00592.jpg",
+  "cvat_label": "cigarette",
+  "bbox_xywh": [
+   505.4,
+   385.7,
+   34.7,
+   19.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 340,
+  "frame": "wBr3f72w-fg_frame_00745.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   550.3,
+   89.4,
+   31.5,
+   35.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 341,
+  "frame": "wBr3f72w-fg_frame_00745.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   653.0,
+   499.1,
+   103.9,
+   86.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 342,
+  "frame": "wBr3f72w-fg_frame_00792.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1004.2,
+   334.2,
+   272.4,
+   257.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 345,
+  "frame": "wBr3f72w-fg_frame_01029.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1118.5,
+   81.5,
+   158.7,
+   555.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 359,
+  "frame": "x2PjLCMrfTk_frame_00180.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   993.2,
+   157.5,
+   39.4,
+   29.8
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 360,
+  "frame": "x2PjLCMrfTk_frame_00252.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   224.1,
+   571.5,
+   88.0,
+   60.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 361,
+  "frame": "x2PjLCMrfTk_frame_00252.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   725.5,
+   473.9,
+   35.7,
+   70.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 362,
+  "frame": "x2PjLCMrfTk_frame_00467.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1129.5,
+   257.2,
+   54.5,
+   212.2
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 363,
+  "frame": "x2PjLCMrfTk_frame_00467.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   1037.4,
+   341.0,
+   99.3,
+   125.3
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 364,
+  "frame": "x2PjLCMrfTk_frame_00485.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   210.3,
+   493.4,
+   17.3,
+   61.7
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 365,
+  "frame": "x2PjLCMrfTk_frame_00628.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   463.4,
+   342.7,
+   162.1,
+   202.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 366,
+  "frame": "x2PjLCMrfTk_frame_00844.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1022.5,
+   110.3,
+   99.5,
+   299.9
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 367,
+  "frame": "x2PjLCMrfTk_frame_00898.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   664.4,
+   467.0,
+   47.6,
+   28.0
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 369,
+  "frame": "x2PjLCMrfTk_frame_00951.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   865.8,
+   87.4,
+   151.6,
+   239.1
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 370,
+  "frame": "x2PjLCMrfTk_frame_01113.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   1098.2,
+   368.8,
+   66.9,
+   262.4
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 371,
+  "frame": "x2PjLCMrfTk_frame_01220.jpg",
+  "cvat_label": "bottle",
+  "bbox_xywh": [
+   690.2,
+   354.8,
+   27.8,
+   67.5
+  ],
+  "recommendation": "delete"
+ },
+ {
+  "idx": 372,
+  "frame": "x2PjLCMrfTk_frame_01220.jpg",
+  "cvat_label": "cup",
+  "bbox_xywh": [
+   690.7,
+   384.4,
+   24.4,
+   37.5
+  ],
+  "recommendation": "delete"
+ }
+]

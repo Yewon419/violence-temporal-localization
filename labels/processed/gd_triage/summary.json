@@ -1,0 +1,150 @@
+{
+  "overall_verdict": {
+    "unknown": 122,
+    "negative": 84,
+    "positive": 483,
+    "uncertain": 297
+  },
+  "overall_category": {
+    "concat_label": 122,
+    "frame_dominant": 84,
+    "drinking": 416,
+    "low_score": 297,
+    "smoking": 66,
+    "drinking_act": 1
+  },
+  "top_reasons": {
+    "bottle object": 216,
+    "cup object": 200,
+    "label is concat 'smoking drinking'": 99,
+    "score 0.26 < 0.3": 82,
+    "score 0.27 < 0.3": 66,
+    "cigarette object": 66,
+    "score 0.25 < 0.3": 51,
+    "score 0.29 < 0.3": 41,
+    "score 0.28 < 0.3": 39,
+    "label is concat 'bottle cup'": 23
+  },
+  "per_video": {
+    "3auH8hGUezI": {
+      "frames": 100,
+      "boxes": 99,
+      "v_unknown": 16,
+      "v_negative": 16,
+      "v_positive": 45,
+      "v_uncertain": 22,
+      "c_concat_label": 16,
+      "c_frame_dominant": 16,
+      "c_drinking": 42,
+      "c_low_score": 22,
+      "c_smoking": 3
+    },
+    "69RJZ7TwDrQ": {
+      "frames": 100,
+      "boxes": 144,
+      "v_unknown": 8,
+      "v_uncertain": 43,
+      "v_positive": 80,
+      "v_negative": 13,
+      "c_concat_label": 8,
+      "c_low_score": 43,
+      "c_drinking": 74,
+      "c_frame_dominant": 13,
+      "c_smoking": 6
+    },
+    "LkSY-EuTb1E": {
+      "frames": 100,
+      "boxes": 101,
+      "v_positive": 52,
+      "v_unknown": 14,
+      "v_uncertain": 25,
+      "v_negative": 10,
+      "c_drinking": 50,
+      "c_concat_label": 14,
+      "c_low_score": 25,
+      "c_frame_dominant": 10,
+      "c_smoking": 2
+    },
+    "Rqlf3zNPqgQ": {
+      "frames": 100,
+      "boxes": 137,
+      "v_positive": 69,
+      "v_uncertain": 47,
+      "v_unknown": 18,
+      "v_negative": 3,
+      "c_drinking": 63,
+      "c_low_score": 47,
+      "c_smoking": 6,
+      "c_concat_label": 18,
+      "c_frame_dominant": 3
+    },
+    "Tj7Doyo8XdQ": {
+      "frames": 100,
+      "boxes": 0
+    },
+    "jGP1Z18maME": {
+      "frames": 100,
+      "boxes": 123,
+      "v_negative": 8,
+      "v_unknown": 9,
+      "v_positive": 73,
+      "v_uncertain": 33,
+      "c_frame_dominant": 8,
+      "c_concat_label": 9,
+      "c_drinking": 37,
+      "c_low_score": 33,
+      "c_smoking": 36
+    },
+    "sMpzdgHrINs": {
+      "frames": 100,
+      "boxes": 115,
+      "v_positive": 59,
+      "v_uncertain": 45,
+      "v_unknown": 11,
+      "c_smoking": 3,
+      "c_drinking": 56,
+      "c_low_score": 45,
+      "c_concat_label": 11
+    },
+    "vyXEi00PVrw": {
+      "frames": 100,
+      "boxes": 85,
+      "v_negative": 12,
+      "v_unknown": 16,
+      "v_uncertain": 27,
+      "v_positive": 30,
+      "c_frame_dominant": 12,
+      "c_concat_label": 16,
+      "c_low_score": 27,
+      "c_drinking": 23,
+      "c_smoking": 6,
+      "c_drinking_act": 1
+    },
+    "wBr3f72w-fg": {
+      "frames": 100,
+      "boxes": 117,
+      "v_unknown": 17,
+      "v_uncertain": 35,
+      "v_negative": 12,
+      "v_positive": 53,
+      "c_concat_label": 17,
+      "c_low_score": 35,
+      "c_frame_dominant": 12,
+      "c_drinking": 52,
+      "c_smoking": 1
+    },
+    "x2PjLCMrfTk": {
+      "frames": 100,
+      "boxes": 65,
+      "v_unknown": 13,
+      "v_positive": 22,
+      "v_negative": 10,
+      "v_uncertain": 20,
+      "c_concat_label": 13,
+      "c_smoking": 3,
+      "c_drinking": 19,
+      "c_frame_dominant": 10,
+      "c_low_score": 20
+    }
+  }
+}

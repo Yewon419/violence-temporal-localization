@@ -1,0 +1,1906 @@
+[
+ {
+  "idx": 0,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00001.jpg",
+  "cvat_label": "explosion",
+  "score": 0.4408,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   401.1,
+   120.3,
+   479.7,
+   477.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\000_3auH8hGUezI_00001_explosion.jpg"
+ },
+ {
+  "idx": 1,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00487.jpg",
+  "cvat_label": "blood",
+  "score": 0.3472,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   471.2,
+   419.4,
+   110.3,
+   98.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\001_3auH8hGUezI_00487_blood.jpg"
+ },
+ {
+  "idx": 2,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00812.jpg",
+  "cvat_label": "explosion",
+  "score": 0.4403,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   561.8,
+   12.8,
+   314.1,
+   333.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\002_3auH8hGUezI_00812_explosion.jpg"
+ },
+ {
+  "idx": 3,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00822.jpg",
+  "cvat_label": "blood",
+  "score": 0.3024,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   1020.9,
+   287.4,
+   252.5,
+   36.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\003_3auH8hGUezI_00822_blood.jpg"
+ },
+ {
+  "idx": 4,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00071.jpg",
+  "cvat_label": "explosion",
+  "score": 0.251,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   584.3,
+   332.4,
+   125.1,
+   141.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\004_69RJZ7TwDrQ_00071_explosion.jpg"
+ },
+ {
+  "idx": 5,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00124.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3872,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   1.7,
+   13.5,
+   258.0,
+   244.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\005_69RJZ7TwDrQ_00124_explosion.jpg"
+ },
+ {
+  "idx": 6,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00265.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3605,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   196.5,
+   140.6,
+   394.7,
+   287.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\006_69RJZ7TwDrQ_00265_car_accident.jpg"
+ },
+ {
+  "idx": 7,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00282.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.2539,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   678.1,
+   236.8,
+   262.8,
+   105.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\007_69RJZ7TwDrQ_00282_car_accident.jpg"
+ },
+ {
+  "idx": 8,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00388.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3959,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   15.5,
+   14.2,
+   662.4,
+   374.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\008_69RJZ7TwDrQ_00388_explosion.jpg"
+ },
+ {
+  "idx": 9,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00423.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3831,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   1148.3,
+   265.9,
+   130.3,
+   193.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\009_69RJZ7TwDrQ_00423_car_accident.jpg"
+ },
+ {
+  "idx": 10,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00617.jpg",
+  "cvat_label": "explosion",
+  "score": 0.5185,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   82.6,
+   173.8,
+   89.4,
+   87.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\010_69RJZ7TwDrQ_00617_explosion.jpg"
+ },
+ {
+  "idx": 11,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00705.jpg",
+  "cvat_label": "blood",
+  "score": 0.3324,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   1121.3,
+   596.3,
+   78.4,
+   38.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\011_69RJZ7TwDrQ_00705_blood.jpg"
+ },
+ {
+  "idx": 12,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01075.jpg",
+  "cvat_label": "explosion",
+  "score": 0.406,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   95.6,
+   15.7,
+   379.2,
+   114.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\012_69RJZ7TwDrQ_01075_explosion.jpg"
+ },
+ {
+  "idx": 13,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01092.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3805,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   2.9,
+   13.0,
+   302.6,
+   99.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\013_69RJZ7TwDrQ_01092_explosion.jpg"
+ },
+ {
+  "idx": 14,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01110.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3183,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   950.1,
+   11.9,
+   103.7,
+   46.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\014_69RJZ7TwDrQ_01110_explosion.jpg"
+ },
+ {
+  "idx": 15,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01216.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4217,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   192.2,
+   290.6,
+   797.4,
+   359.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\015_69RJZ7TwDrQ_01216_car_accident.jpg"
+ },
+ {
+  "idx": 16,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01216.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3294,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   1051.0,
+   112.5,
+   68.1,
+   121.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\016_69RJZ7TwDrQ_01216_explosion.jpg"
+ },
+ {
+  "idx": 17,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01233.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3587,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   109.1,
+   64.9,
+   108.8,
+   128.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\017_69RJZ7TwDrQ_01233_explosion.jpg"
+ },
+ {
+  "idx": 18,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01251.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3208,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   436.0,
+   459.2,
+   91.1,
+   115.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\018_69RJZ7TwDrQ_01251_car_accident.jpg"
+ },
+ {
+  "idx": 19,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01339.jpg",
+  "cvat_label": "explosion",
+  "score": 0.326,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   391.0,
+   38.7,
+   211.6,
+   137.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\019_69RJZ7TwDrQ_01339_explosion.jpg"
+ },
+ {
+  "idx": 20,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01356.jpg",
+  "cvat_label": "blood",
+  "score": 0.3817,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   1079.5,
+   428.3,
+   197.9,
+   279.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\020_69RJZ7TwDrQ_01356_blood.jpg"
+ },
+ {
+  "idx": 21,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01356.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3424,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   885.4,
+   46.1,
+   336.5,
+   306.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\021_69RJZ7TwDrQ_01356_explosion.jpg"
+ },
+ {
+  "idx": 22,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01374.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.401,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   375.6,
+   401.9,
+   901.7,
+   307.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\022_69RJZ7TwDrQ_01374_car_accident.jpg"
+ },
+ {
+  "idx": 23,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01656.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3604,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   402.7,
+   140.0,
+   625.7,
+   297.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\023_69RJZ7TwDrQ_01656_car_accident.jpg"
+ },
+ {
+  "idx": 24,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "explosion",
+  "score": 0.325,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   94.6,
+   104.9,
+   114.5,
+   147.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\024_69RJZ7TwDrQ_01744_explosion.jpg"
+ },
+ {
+  "idx": 25,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00010.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4484,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   332.8,
+   105.3,
+   764.9,
+   527.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\025_LkSY-EuTb1E_00010_car_accident.jpg"
+ },
+ {
+  "idx": 26,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00010.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3488,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   336.9,
+   106.5,
+   756.7,
+   524.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\026_LkSY-EuTb1E_00010_explosion.jpg"
+ },
+ {
+  "idx": 27,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "blood",
+  "score": 0.3549,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   339.9,
+   335.6,
+   119.6,
+   145.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\027_LkSY-EuTb1E_00014_blood.jpg"
+ },
+ {
+  "idx": 28,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3311,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   581.3,
+   105.8,
+   503.7,
+   394.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\028_LkSY-EuTb1E_00014_explosion.jpg"
+ },
+ {
+  "idx": 29,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "blood",
+  "score": 0.31,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   346.0,
+   335.8,
+   107.2,
+   65.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\029_LkSY-EuTb1E_00014_blood.jpg"
+ },
+ {
+  "idx": 30,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00037.jpg",
+  "cvat_label": "explosion",
+  "score": 0.4646,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   468.9,
+   212.4,
+   427.4,
+   410.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\030_LkSY-EuTb1E_00037_explosion.jpg"
+ },
+ {
+  "idx": 31,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00088.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3146,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   332.2,
+   182.8,
+   164.8,
+   281.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\031_LkSY-EuTb1E_00088_explosion.jpg"
+ },
+ {
+  "idx": 32,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00124.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4255,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   887.6,
+   301.4,
+   293.7,
+   107.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\032_LkSY-EuTb1E_00124_car_accident.jpg"
+ },
+ {
+  "idx": 33,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00129.jpg",
+  "cvat_label": "blood",
+  "score": 0.4227,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   3.6,
+   372.7,
+   1273.3,
+   248.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\033_LkSY-EuTb1E_00129_blood.jpg"
+ },
+ {
+  "idx": 34,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00134.jpg",
+  "cvat_label": "explosion",
+  "score": 0.315,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   265.1,
+   181.4,
+   96.2,
+   143.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\034_LkSY-EuTb1E_00134_explosion.jpg"
+ },
+ {
+  "idx": 35,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00138.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3211,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   265.4,
+   183.7,
+   95.5,
+   140.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\035_LkSY-EuTb1E_00138_explosion.jpg"
+ },
+ {
+  "idx": 36,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00152.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4409,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   2.2,
+   352.2,
+   1125.8,
+   272.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\036_LkSY-EuTb1E_00152_car_accident.jpg"
+ },
+ {
+  "idx": 37,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00157.jpg",
+  "cvat_label": "explosion",
+  "score": 0.5454,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   670.2,
+   130.6,
+   89.3,
+   108.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\037_LkSY-EuTb1E_00157_explosion.jpg"
+ },
+ {
+  "idx": 38,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00212.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3483,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   9.4,
+   507.7,
+   1003.6,
+   114.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\038_LkSY-EuTb1E_00212_car_accident.jpg"
+ },
+ {
+  "idx": 39,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00216.jpg",
+  "cvat_label": "blood",
+  "score": 0.3506,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   591.3,
+   385.4,
+   235.5,
+   122.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\039_LkSY-EuTb1E_00216_blood.jpg"
+ },
+ {
+  "idx": 40,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00221.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4181,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   4.8,
+   341.6,
+   1270.9,
+   280.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\040_LkSY-EuTb1E_00221_car_accident.jpg"
+ },
+ {
+  "idx": 41,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00244.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3004,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   700.2,
+   87.7,
+   214.9,
+   109.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\041_LkSY-EuTb1E_00244_explosion.jpg"
+ },
+ {
+  "idx": 42,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00262.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4329,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   2.7,
+   374.9,
+   871.4,
+   249.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\042_LkSY-EuTb1E_00262_car_accident.jpg"
+ },
+ {
+  "idx": 43,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00285.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3157,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   352.4,
+   96.9,
+   524.1,
+   388.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\043_LkSY-EuTb1E_00285_explosion.jpg"
+ },
+ {
+  "idx": 44,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00290.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3556,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   768.4,
+   531.9,
+   199.8,
+   90.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\044_LkSY-EuTb1E_00290_explosion.jpg"
+ },
+ {
+  "idx": 45,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00313.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3154,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   715.7,
+   90.5,
+   425.9,
+   307.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\045_LkSY-EuTb1E_00313_explosion.jpg"
+ },
+ {
+  "idx": 46,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00345.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3282,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   608.1,
+   116.1,
+   164.3,
+   166.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\046_LkSY-EuTb1E_00345_explosion.jpg"
+ },
+ {
+  "idx": 47,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00349.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3217,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   553.6,
+   121.0,
+   278.0,
+   333.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\047_LkSY-EuTb1E_00349_car_accident.jpg"
+ },
+ {
+  "idx": 48,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00368.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4416,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   864.5,
+   88.4,
+   200.3,
+   100.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\048_LkSY-EuTb1E_00368_car_accident.jpg"
+ },
+ {
+  "idx": 49,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00446.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.39,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   193.9,
+   110.6,
+   724.1,
+   512.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\049_LkSY-EuTb1E_00446_car_accident.jpg"
+ },
+ {
+  "idx": 50,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00092.jpg",
+  "cvat_label": "explosion",
+  "score": 0.393,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   188.5,
+   103.3,
+   454.4,
+   371.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\050_Rqlf3zNPqgQ_00092_explosion.jpg"
+ },
+ {
+  "idx": 51,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00108.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3266,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   2.3,
+   103.3,
+   276.6,
+   362.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\051_Rqlf3zNPqgQ_00108_explosion.jpg"
+ },
+ {
+  "idx": 52,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00246.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3309,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   423.0,
+   162.4,
+   323.2,
+   295.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\052_Rqlf3zNPqgQ_00246_car_accident.jpg"
+ },
+ {
+  "idx": 53,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00460.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3947,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   657.0,
+   377.8,
+   260.7,
+   135.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\053_Rqlf3zNPqgQ_00460_car_accident.jpg"
+ },
+ {
+  "idx": 54,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00475.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4454,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   163.6,
+   280.5,
+   215.5,
+   160.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\054_Rqlf3zNPqgQ_00475_car_accident.jpg"
+ },
+ {
+  "idx": 55,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00491.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3472,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   2.8,
+   106.3,
+   554.6,
+   503.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\055_Rqlf3zNPqgQ_00491_car_accident.jpg"
+ },
+ {
+  "idx": 56,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00506.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3368,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   3.6,
+   169.1,
+   630.2,
+   445.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\056_Rqlf3zNPqgQ_00506_explosion.jpg"
+ },
+ {
+  "idx": 57,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00521.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3281,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   2.2,
+   271.3,
+   414.9,
+   341.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\057_Rqlf3zNPqgQ_00521_explosion.jpg"
+ },
+ {
+  "idx": 58,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00537.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3589,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   134.6,
+   103.2,
+   625.4,
+   393.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\058_Rqlf3zNPqgQ_00537_explosion.jpg"
+ },
+ {
+  "idx": 59,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00644.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4174,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   318.9,
+   160.0,
+   573.5,
+   334.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\059_Rqlf3zNPqgQ_00644_car_accident.jpg"
+ },
+ {
+  "idx": 60,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00659.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3752,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   3.4,
+   396.3,
+   985.2,
+   220.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\060_Rqlf3zNPqgQ_00659_car_accident.jpg"
+ },
+ {
+  "idx": 61,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00675.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3448,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   365.2,
+   278.5,
+   195.8,
+   169.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\061_Rqlf3zNPqgQ_00675_car_accident.jpg"
+ },
+ {
+  "idx": 62,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00690.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4387,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   590.7,
+   332.8,
+   211.0,
+   172.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\062_Rqlf3zNPqgQ_00690_car_accident.jpg"
+ },
+ {
+  "idx": 63,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00843.jpg",
+  "cvat_label": "explosion",
+  "score": 0.4043,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   436.2,
+   272.6,
+   287.6,
+   269.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\063_Rqlf3zNPqgQ_00843_explosion.jpg"
+ },
+ {
+  "idx": 64,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00920.jpg",
+  "cvat_label": "explosion",
+  "score": 0.353,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   1085.9,
+   119.4,
+   156.5,
+   138.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\064_Rqlf3zNPqgQ_00920_explosion.jpg"
+ },
+ {
+  "idx": 65,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01119.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3179,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   1081.0,
+   102.5,
+   196.8,
+   495.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\065_Rqlf3zNPqgQ_01119_explosion.jpg"
+ },
+ {
+  "idx": 66,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00058.jpg",
+  "cvat_label": "explosion",
+  "score": 0.4626,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   507.7,
+   236.3,
+   265.5,
+   258.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\066_sMpzdgHrINs_00058_explosion.jpg"
+ },
+ {
+  "idx": 67,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00081.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3588,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   179.1,
+   301.6,
+   1092.2,
+   377.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\067_sMpzdgHrINs_00081_car_accident.jpg"
+ },
+ {
+  "idx": 68,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00653.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3637,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   516.7,
+   100.5,
+   621.9,
+   420.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\068_sMpzdgHrINs_00653_car_accident.jpg"
+ },
+ {
+  "idx": 69,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00745.jpg",
+  "cvat_label": "explosion",
+  "score": 0.4092,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   501.4,
+   130.9,
+   101.5,
+   93.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\069_sMpzdgHrINs_00745_explosion.jpg"
+ },
+ {
+  "idx": 70,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00768.jpg",
+  "cvat_label": "blood",
+  "score": 0.3073,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   898.8,
+   527.4,
+   250.4,
+   103.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\070_sMpzdgHrINs_00768_blood.jpg"
+ },
+ {
+  "idx": 71,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00802.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.351,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   481.3,
+   323.1,
+   97.5,
+   68.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\071_sMpzdgHrINs_00802_car_accident.jpg"
+ },
+ {
+  "idx": 72,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00848.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3404,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   49.8,
+   103.6,
+   320.3,
+   452.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\072_sMpzdgHrINs_00848_car_accident.jpg"
+ },
+ {
+  "idx": 73,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00905.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3121,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   396.2,
+   87.9,
+   879.5,
+   325.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\073_sMpzdgHrINs_00905_explosion.jpg"
+ },
+ {
+  "idx": 74,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00985.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3296,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   1.9,
+   196.0,
+   495.7,
+   436.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\074_sMpzdgHrINs_00985_car_accident.jpg"
+ },
+ {
+  "idx": 75,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01134.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4447,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   38.7,
+   212.8,
+   1236.4,
+   433.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\075_sMpzdgHrINs_01134_car_accident.jpg"
+ },
+ {
+  "idx": 76,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01134.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3129,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   573.1,
+   199.7,
+   44.4,
+   54.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\076_sMpzdgHrINs_01134_explosion.jpg"
+ },
+ {
+  "idx": 77,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00009.jpg",
+  "cvat_label": "abuse",
+  "score": 0.3116,
+  "verdict": "positive",
+  "category": "abuse",
+  "bbox_xywh": [
+   358.0,
+   278.5,
+   442.7,
+   170.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\077_vyXEi00PVrw_00009_abuse.jpg"
+ },
+ {
+  "idx": 78,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00009.jpg",
+  "cvat_label": "abuse",
+  "score": 0.3008,
+  "verdict": "positive",
+  "category": "abuse",
+  "bbox_xywh": [
+   314.9,
+   521.8,
+   641.1,
+   131.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\078_vyXEi00PVrw_00009_abuse.jpg"
+ },
+ {
+  "idx": 79,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00018.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3069,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   516.2,
+   117.7,
+   251.3,
+   259.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\079_vyXEi00PVrw_00018_explosion.jpg"
+ },
+ {
+  "idx": 80,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00027.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3322,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   4.6,
+   448.9,
+   1270.6,
+   188.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\080_vyXEi00PVrw_00027_car_accident.jpg"
+ },
+ {
+  "idx": 81,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00090.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3632,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   615.0,
+   123.5,
+   382.7,
+   499.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\081_vyXEi00PVrw_00090_explosion.jpg"
+ },
+ {
+  "idx": 82,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00099.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3134,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   2.3,
+   85.8,
+   600.4,
+   548.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\082_vyXEi00PVrw_00099_car_accident.jpg"
+ },
+ {
+  "idx": 83,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00117.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3183,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   271.4,
+   86.6,
+   982.6,
+   544.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\083_vyXEi00PVrw_00117_car_accident.jpg"
+ },
+ {
+  "idx": 84,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00287.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3021,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   3.2,
+   74.8,
+   729.4,
+   506.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\084_vyXEi00PVrw_00287_car_accident.jpg"
+ },
+ {
+  "idx": 85,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00681.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.344,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   370.5,
+   282.6,
+   651.5,
+   255.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\085_vyXEi00PVrw_00681_car_accident.jpg"
+ },
+ {
+  "idx": 86,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00771.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3082,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   2.6,
+   334.9,
+   1058.0,
+   302.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\086_vyXEi00PVrw_00771_car_accident.jpg"
+ },
+ {
+  "idx": 87,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00807.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3101,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   806.5,
+   86.4,
+   470.9,
+   321.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\087_vyXEi00PVrw_00807_explosion.jpg"
+ },
+ {
+  "idx": 88,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00807.jpg",
+  "cvat_label": "explosion",
+  "score": 0.31,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   2.0,
+   86.4,
+   486.7,
+   332.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\088_vyXEi00PVrw_00807_explosion.jpg"
+ },
+ {
+  "idx": 89,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00852.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3711,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   702.6,
+   126.9,
+   213.6,
+   216.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\089_vyXEi00PVrw_00852_explosion.jpg"
+ },
+ {
+  "idx": 90,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00852.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3183,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   462.7,
+   290.8,
+   127.2,
+   100.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\090_vyXEi00PVrw_00852_explosion.jpg"
+ },
+ {
+  "idx": 91,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00870.jpg",
+  "cvat_label": "abuse",
+  "score": 0.355,
+  "verdict": "positive",
+  "category": "abuse",
+  "bbox_xywh": [
+   164.9,
+   290.6,
+   949.3,
+   81.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\091_vyXEi00PVrw_00870_abuse.jpg"
+ },
+ {
+  "idx": 92,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00879.jpg",
+  "cvat_label": "explosion",
+  "score": 0.2937,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   554.4,
+   242.2,
+   203.0,
+   226.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\092_vyXEi00PVrw_00879_explosion.jpg"
+ },
+ {
+  "idx": 93,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00060.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3473,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   23.7,
+   195.3,
+   97.3,
+   134.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\093_wBr3f72w-fg_00060_explosion.jpg"
+ },
+ {
+  "idx": 94,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00166.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3336,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   472.7,
+   87.1,
+   356.4,
+   549.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\094_wBr3f72w-fg_00166_car_accident.jpg"
+ },
+ {
+  "idx": 95,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00320.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3256,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   774.1,
+   80.4,
+   502.6,
+   156.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\095_wBr3f72w-fg_00320_explosion.jpg"
+ },
+ {
+  "idx": 96,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00391.jpg",
+  "cvat_label": "explosion",
+  "score": 0.357,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   1086.3,
+   80.9,
+   190.4,
+   107.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\096_wBr3f72w-fg_00391_explosion.jpg"
+ },
+ {
+  "idx": 97,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00509.jpg",
+  "cvat_label": "blood",
+  "score": 0.3127,
+  "verdict": "positive",
+  "category": "blood",
+  "bbox_xywh": [
+   389.5,
+   544.1,
+   130.3,
+   94.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\097_wBr3f72w-fg_00509_blood.jpg"
+ },
+ {
+  "idx": 98,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00556.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3489,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   45.0,
+   420.9,
+   80.2,
+   99.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\098_wBr3f72w-fg_00556_explosion.jpg"
+ },
+ {
+  "idx": 99,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00580.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3337,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   894.9,
+   369.4,
+   323.2,
+   267.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\099_wBr3f72w-fg_00580_explosion.jpg"
+ },
+ {
+  "idx": 100,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00792.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3225,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   1004.2,
+   334.5,
+   272.2,
+   257.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\100_wBr3f72w-fg_00792_explosion.jpg"
+ },
+ {
+  "idx": 101,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00828.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4329,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   96.6,
+   294.2,
+   636.1,
+   341.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\101_wBr3f72w-fg_00828_car_accident.jpg"
+ },
+ {
+  "idx": 102,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00875.jpg",
+  "cvat_label": "explosion",
+  "score": 0.322,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   100.9,
+   79.6,
+   199.1,
+   238.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\102_wBr3f72w-fg_00875_explosion.jpg"
+ },
+ {
+  "idx": 103,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00958.jpg",
+  "cvat_label": "explosion",
+  "score": 0.316,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   7.5,
+   249.1,
+   276.1,
+   333.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\103_wBr3f72w-fg_00958_explosion.jpg"
+ },
+ {
+  "idx": 104,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01052.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3616,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   3.3,
+   203.8,
+   446.3,
+   170.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\104_wBr3f72w-fg_01052_car_accident.jpg"
+ },
+ {
+  "idx": 105,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01064.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3294,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   390.1,
+   87.6,
+   249.4,
+   133.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\105_wBr3f72w-fg_01064_explosion.jpg"
+ },
+ {
+  "idx": 106,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00018.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3971,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   388.5,
+   221.1,
+   483.1,
+   319.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\106_x2PjLCMrfTk_00018_car_accident.jpg"
+ },
+ {
+  "idx": 107,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00036.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3552,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   890.2,
+   257.0,
+   387.7,
+   376.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\107_x2PjLCMrfTk_00036_car_accident.jpg"
+ },
+ {
+  "idx": 108,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00323.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3629,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   581.6,
+   407.1,
+   126.9,
+   150.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\108_x2PjLCMrfTk_00323_explosion.jpg"
+ },
+ {
+  "idx": 109,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00431.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3716,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   3.4,
+   308.4,
+   643.9,
+   328.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\109_x2PjLCMrfTk_00431_car_accident.jpg"
+ },
+ {
+  "idx": 110,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00449.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3778,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   548.9,
+   176.1,
+   504.5,
+   370.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\110_x2PjLCMrfTk_00449_car_accident.jpg"
+ },
+ {
+  "idx": 111,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00557.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3182,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   407.5,
+   85.8,
+   111.7,
+   141.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\111_x2PjLCMrfTk_00557_explosion.jpg"
+ },
+ {
+  "idx": 112,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00575.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.418,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   830.7,
+   149.9,
+   298.0,
+   442.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\112_x2PjLCMrfTk_00575_car_accident.jpg"
+ },
+ {
+  "idx": 113,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01113.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3169,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   63.0,
+   95.6,
+   812.0,
+   536.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\113_x2PjLCMrfTk_01113_car_accident.jpg"
+ },
+ {
+  "idx": 114,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01238.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3146,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   46.9,
+   177.0,
+   1154.4,
+   361.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\114_x2PjLCMrfTk_01238_car_accident.jpg"
+ },
+ {
+  "idx": 115,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01274.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3428,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   267.0,
+   125.8,
+   893.5,
+   506.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\115_x2PjLCMrfTk_01274_car_accident.jpg"
+ },
+ {
+  "idx": 116,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01364.jpg",
+  "cvat_label": "explosion",
+  "score": 0.3703,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   868.8,
+   85.5,
+   368.3,
+   337.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\116_x2PjLCMrfTk_01364_explosion.jpg"
+ },
+ {
+  "idx": 117,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01651.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.3068,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   44.1,
+   262.2,
+   775.9,
+   360.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\117_x2PjLCMrfTk_01651_car_accident.jpg"
+ },
+ {
+  "idx": 118,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01741.jpg",
+  "cvat_label": "car_accident",
+  "score": 0.4168,
+  "verdict": "positive",
+  "category": "car_accident",
+  "bbox_xywh": [
+   343.1,
+   138.3,
+   684.4,
+   370.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p1_violence_event\\118_x2PjLCMrfTk_01741_car_accident.jpg"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "frame": "zombie01_frame_00524.jpg",
+  "prompt": "blood. wound. bloody face. injury. knife. sword. axe. gun. rifle. hammer. baseball bat.",
+  "boxes": [
+    [
+      567.0015869140625,
+      224.4373779296875,
+      707.4966430664062,
+      369.64154052734375
+    ]
+  ],
+  "scores": [
+    0.5724889039993286
+  ],
+  "labels": [
+    "bloody face"
+  ]
+}

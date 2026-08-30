@@ -1,0 +1,3658 @@
+[
+  {
+    "frame": "3auH8hGUezI_frame_00001.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.939544677734375,
+          7.223832607269287,
+          1271.8399658203125,
+          713.1557006835938
+        ],
+        "score": 0.6128296852111816,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          401.1082458496094,
+          120.2909164428711,
+          880.83984375,
+          597.5549926757812
+        ],
+        "score": 0.44083312153816223,
+        "raw_label": "explosion",
+        "verdict": "positive",
+        "category": "explosion",
+        "reason": "explosion event, score 0.44"
+      },
+      {
+        "bbox": [
+          6.6762542724609375,
+          6.810150146484375,
+          1271.6220703125,
+          713.3820190429688
+        ],
+        "score": 0.2532413601875305,
+        "raw_label": "riot",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          522.4948120117188,
+          470.7483215332031,
+          761.1209106445312,
+          556.8985595703125
+        ],
+        "score": 0.29784899950027466,
+        "raw_label": "abuse",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      },
+      {
+        "bbox": [
+          619.2945556640625,
+          331.67510986328125,
+          666.9479370117188,
+          376.53424072265625
+        ],
+        "score": 0.2657589912414551,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00011.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          9.635505676269531,
+          9.268619537353516,
+          1269.686767578125,
+          710.8733520507812
+        ],
+        "score": 0.5221360325813293,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00021.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.049461364746094,
+          9.073848724365234,
+          1271.999267578125,
+          709.3306884765625
+        ],
+        "score": 0.5781626105308533,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1031.9302978515625,
+          676.5611572265625,
+          1121.8131103515625,
+          706.8257446289062
+        ],
+        "score": 0.37041550874710083,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.37"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00031.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.6961822509765625,
+          9.28593635559082,
+          1272.720458984375,
+          710.031982421875
+        ],
+        "score": 0.5599003434181213,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          0.18087506294250488,
+          613.1994018554688,
+          30.338016510009766,
+          666.4575805664062
+        ],
+        "score": 0.45089778304100037,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.45"
+      },
+      {
+        "bbox": [
+          0.240020751953125,
+          664.076416015625,
+          50.998077392578125,
+          705.985107421875
+        ],
+        "score": 0.3943299651145935,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.39"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00041.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.6130828857421875,
+          8.94411563873291,
+          1270.3790283203125,
+          711.817626953125
+        ],
+        "score": 0.5818659663200378,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          7.235374450683594,
+          9.344215393066406,
+          1269.479736328125,
+          711.6822509765625
+        ],
+        "score": 0.26627808809280396,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00051.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          0.590364933013916,
+          636.2374267578125,
+          77.21199798583984,
+          706.353515625
+        ],
+        "score": 0.5784828662872314,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.58"
+      },
+      {
+        "bbox": [
+          5.7547760009765625,
+          8.98282527923584,
+          1272.744140625,
+          710.32861328125
+        ],
+        "score": 0.6038638353347778,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          0.5354022979736328,
+          584.5960693359375,
+          56.44855880737305,
+          640.01025390625
+        ],
+        "score": 0.3985041379928589,
+        "raw_label": "bottle cup",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'bottle cup'"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00061.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.754264831542969,
+          9.876580238342285,
+          1272.651123046875,
+          711.231689453125
+        ],
+        "score": 0.5155438780784607,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00071.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.3469085693359375,
+          10.903458595275879,
+          1262.2625732421875,
+          708.3098754882812
+        ],
+        "score": 0.5544025897979736,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 95% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00082.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.951690673828125,
+          8.121192932128906,
+          1273.7130126953125,
+          710.7381591796875
+        ],
+        "score": 0.5834200382232666,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          1119.3203125,
+          501.18414306640625,
+          1278.7855224609375,
+          710.1715698242188
+        ],
+        "score": 0.5621747374534607,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.56"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00092.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.5340423583984375,
+          8.279764175415039,
+          1272.0667724609375,
+          711.1394653320312
+        ],
+        "score": 0.6163220405578613,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00102.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.52679443359375,
+          7.8327155113220215,
+          1272.218994140625,
+          711.0672607421875
+        ],
+        "score": 0.6082130670547485,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          6.891632080078125,
+          7.855889797210693,
+          1271.4134521484375,
+          710.679931640625
+        ],
+        "score": 0.2502378821372986,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00112.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          10.199203491210938,
+          8.626542091369629,
+          1270.5809326171875,
+          711.9395141601562
+        ],
+        "score": 0.5960601568222046,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          11.3055419921875,
+          8.958492279052734,
+          1269.92626953125,
+          711.7681274414062
+        ],
+        "score": 0.25903192162513733,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00122.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.1007537841796875,
+          7.2803521156311035,
+          1272.1181640625,
+          711.0076904296875
+        ],
+        "score": 0.590884268283844,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          7.91259765625,
+          7.431328296661377,
+          1271.3759765625,
+          710.7157592773438
+        ],
+        "score": 0.250302255153656,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00132.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.926055908203125,
+          9.063785552978516,
+          1273.0570068359375,
+          710.2660522460938
+        ],
+        "score": 0.5933648347854614,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          6.240577697753906,
+          9.491178512573242,
+          1272.980224609375,
+          710.1575317382812
+        ],
+        "score": 0.26481345295906067,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00142.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.245155334472656,
+          6.485238075256348,
+          1272.7366943359375,
+          712.3286743164062
+        ],
+        "score": 0.6530728340148926,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00153.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.736259460449219,
+          8.655317306518555,
+          1272.029541015625,
+          708.5736083984375
+        ],
+        "score": 0.6130111813545227,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00163.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.597747802734375,
+          8.59105110168457,
+          1271.48046875,
+          713.1007690429688
+        ],
+        "score": 0.6145402193069458,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          653.4219360351562,
+          640.484619140625,
+          696.5400390625,
+          696.5763549804688
+        ],
+        "score": 0.2879343628883362,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00173.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          8.397712707519531,
+          7.487697601318359,
+          1268.504150390625,
+          710.7102661132812
+        ],
+        "score": 0.6164727210998535,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          9.144668579101562,
+          7.346785068511963,
+          1268.123291015625,
+          710.970458984375
+        ],
+        "score": 0.26403433084487915,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00183.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.125396728515625,
+          7.048888206481934,
+          1268.325439453125,
+          712.3574829101562
+        ],
+        "score": 0.6104505062103271,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          8.396530151367188,
+          7.548015117645264,
+          1267.5172119140625,
+          712.7361450195312
+        ],
+        "score": 0.28267744183540344,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          158.54872131347656,
+          12.260785102844238,
+          740.1952514648438,
+          568.8952026367188
+        ],
+        "score": 0.2785157561302185,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00193.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.5391387939453125,
+          8.957204818725586,
+          1271.8248291015625,
+          709.7359619140625
+        ],
+        "score": 0.6003637313842773,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          7.967796325683594,
+          9.592480659484863,
+          1271.154296875,
+          709.4993286132812
+        ],
+        "score": 0.26393917202949524,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00203.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.7791748046875,
+          8.051519393920898,
+          1269.749755859375,
+          712.1596069335938
+        ],
+        "score": 0.6142241954803467,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00213.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.2512054443359375,
+          8.087760925292969,
+          1271.448486328125,
+          711.1566772460938
+        ],
+        "score": 0.6015942692756653,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          8.057708740234375,
+          9.098095893859863,
+          1270.5640869140625,
+          711.0722045898438
+        ],
+        "score": 0.25445356965065,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00224.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.318458557128906,
+          9.934408187866211,
+          1266.8017578125,
+          711.0780639648438
+        ],
+        "score": 0.581950843334198,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00234.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.9310760498046875,
+          7.59979248046875,
+          1270.202392578125,
+          712.179443359375
+        ],
+        "score": 0.6310844421386719,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          8.244781494140625,
+          8.223503112792969,
+          1269.1412353515625,
+          712.1832275390625
+        ],
+        "score": 0.2721761167049408,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00244.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.894660949707031,
+          9.28619384765625,
+          1272.8819580078125,
+          712.0593872070312
+        ],
+        "score": 0.6122047305107117,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00254.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          745.316162109375,
+          492.8171081542969,
+          796.5321044921875,
+          592.8508911132812
+        ],
+        "score": 0.5494638085365295,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.55"
+      },
+      {
+        "bbox": [
+          6.427192687988281,
+          8.356003761291504,
+          1273.229248046875,
+          711.5528564453125
+        ],
+        "score": 0.5874661803245544,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          1134.15234375,
+          476.5438232421875,
+          1187.81982421875,
+          505.15118408203125
+        ],
+        "score": 0.5270329117774963,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.53"
+      },
+      {
+        "bbox": [
+          819.04345703125,
+          535.6707153320312,
+          870.06884765625,
+          590.91650390625
+        ],
+        "score": 0.39284685254096985,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.39"
+      },
+      {
+        "bbox": [
+          722.9889526367188,
+          545.9224243164062,
+          751.152587890625,
+          576.4212036132812
+        ],
+        "score": 0.3609466552734375,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.36"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00264.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.852935791015625,
+          9.129767417907715,
+          1268.6617431640625,
+          709.7861328125
+        ],
+        "score": 0.6700564026832581,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          458.8170166015625,
+          12.436652183532715,
+          571.2503662109375,
+          632.8956298828125
+        ],
+        "score": 0.3378432095050812,
+        "raw_label": "gun",
+        "verdict": "positive",
+        "category": "weapon_gun",
+        "reason": "gun weapon, score 0.34"
+      },
+      {
+        "bbox": [
+          458.2043762207031,
+          13.569145202636719,
+          573.9953002929688,
+          704.1026000976562
+        ],
+        "score": 0.3374612629413605,
+        "raw_label": "gun",
+        "verdict": "positive",
+        "category": "weapon_gun",
+        "reason": "gun weapon, score 0.34"
+      },
+      {
+        "bbox": [
+          738.5548095703125,
+          549.2095336914062,
+          946.50146484375,
+          706.0733032226562
+        ],
+        "score": 0.2564862370491028,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          16.212186813354492,
+          12.50641918182373,
+          218.93821716308594,
+          83.37411499023438
+        ],
+        "score": 0.25990423560142517,
+        "raw_label": "abuse",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00274.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.3774871826171875,
+          9.246089935302734,
+          1273.1097412109375,
+          711.2210083007812
+        ],
+        "score": 0.5908666849136353,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00284.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.512718200683594,
+          7.71864652633667,
+          1272.1904296875,
+          711.7625122070312
+        ],
+        "score": 0.6190375685691833,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00295.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.575469970703125,
+          7.865138053894043,
+          1272.635498046875,
+          712.128173828125
+        ],
+        "score": 0.6097069382667542,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          703.8353881835938,
+          135.7655487060547,
+          778.837646484375,
+          467.5545349121094
+        ],
+        "score": 0.540042519569397,
+        "raw_label": "gun",
+        "verdict": "positive",
+        "category": "weapon_gun",
+        "reason": "gun weapon, score 0.54"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00305.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.340751647949219,
+          10.5064058303833,
+          1272.2532958984375,
+          712.6492309570312
+        ],
+        "score": 0.6455633044242859,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00315.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.342353820800781,
+          10.151432037353516,
+          1272.49365234375,
+          713.82861328125
+        ],
+        "score": 0.5992264151573181,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          6.996650695800781,
+          10.43799877166748,
+          1271.8035888671875,
+          713.8795166015625
+        ],
+        "score": 0.2515299618244171,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          292.4767761230469,
+          30.756954193115234,
+          951.775634765625,
+          711.5783081054688
+        ],
+        "score": 0.26329559087753296,
+        "raw_label": "riot",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00325.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.597938537597656,
+          11.503157615661621,
+          1273.359130859375,
+          710.2227172851562
+        ],
+        "score": 0.6327075958251953,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00335.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.3475799560546875,
+          11.580297470092773,
+          1273.3436279296875,
+          709.583251953125
+        ],
+        "score": 0.5632032155990601,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00345.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.895599365234375,
+          9.841024398803711,
+          1271.73779296875,
+          709.6942138671875
+        ],
+        "score": 0.5330836772918701,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00355.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          4.79705810546875,
+          11.479360580444336,
+          1273.987060546875,
+          712.2258911132812
+        ],
+        "score": 0.625696063041687,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00366.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.507011413574219,
+          10.92440128326416,
+          1272.4326171875,
+          709.4559936523438
+        ],
+        "score": 0.5882720351219177,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00376.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          8.393669128417969,
+          12.399723052978516,
+          1272.2308349609375,
+          709.2942504882812
+        ],
+        "score": 0.6296327114105225,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1100.6829833984375,
+          12.239413261413574,
+          1278.1787109375,
+          372.4388427734375
+        ],
+        "score": 0.31956747174263,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.32"
+      },
+      {
+        "bbox": [
+          712.19580078125,
+          424.44915771484375,
+          894.6892700195312,
+          609.4638061523438
+        ],
+        "score": 0.276973158121109,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00386.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.243263244628906,
+          9.565336227416992,
+          1272.85986328125,
+          708.32275390625
+        ],
+        "score": 0.6137941479682922,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          570.5569458007812,
+          611.59033203125,
+          667.7503051757812,
+          706.1607055664062
+        ],
+        "score": 0.3676154315471649,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.37"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00396.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.463371276855469,
+          10.99109172821045,
+          1273.5357666015625,
+          707.0321655273438
+        ],
+        "score": 0.4546087384223938,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          2.254772186279297,
+          101.99870300292969,
+          280.3251037597656,
+          578.5691528320312
+        ],
+        "score": 0.251544713973999,
+        "raw_label": "accident",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00406.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1054.0166015625,
+          407.77532958984375,
+          1098.1239013671875,
+          532.8698120117188
+        ],
+        "score": 0.6587064862251282,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.66"
+      },
+      {
+        "bbox": [
+          4.978790283203125,
+          12.369446754455566,
+          1273.3245849609375,
+          709.2935180664062
+        ],
+        "score": 0.6158249974250793,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          454.89276123046875,
+          182.97897338867188,
+          489.213134765625,
+          273.5464782714844
+        ],
+        "score": 0.442524790763855,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.44"
+      },
+      {
+        "bbox": [
+          1209.8695068359375,
+          476.8851013183594,
+          1259.9324951171875,
+          576.4796752929688
+        ],
+        "score": 0.4269460141658783,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.43"
+      },
+      {
+        "bbox": [
+          474.61627197265625,
+          264.2655944824219,
+          516.3729248046875,
+          334.72686767578125
+        ],
+        "score": 0.2969650626182556,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      },
+      {
+        "bbox": [
+          453.4168701171875,
+          183.91688537597656,
+          490.07366943359375,
+          324.38958740234375
+        ],
+        "score": 0.3231871426105499,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.32"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00416.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.631721496582031,
+          9.07326889038086,
+          1272.9503173828125,
+          710.4400634765625
+        ],
+        "score": 0.4924793839454651,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00426.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          8.365364074707031,
+          9.410476684570312,
+          1271.051513671875,
+          710.757568359375
+        ],
+        "score": 0.6344056129455566,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00437.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.381416320800781,
+          9.29816722869873,
+          1271.956298828125,
+          711.1290893554688
+        ],
+        "score": 0.6144600510597229,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          6.5821075439453125,
+          9.792959213256836,
+          1270.729736328125,
+          710.9208374023438
+        ],
+        "score": 0.25024011731147766,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00447.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.7062225341796875,
+          9.227293014526367,
+          1269.22412109375,
+          710.8071899414062
+        ],
+        "score": 0.6457515954971313,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          638.996337890625,
+          355.3724670410156,
+          770.1702270507812,
+          415.9973449707031
+        ],
+        "score": 0.2985200881958008,
+        "raw_label": "blood",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00457.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.2444305419921875,
+          9.802873611450195,
+          1271.9140625,
+          710.7896728515625
+        ],
+        "score": 0.6400930881500244,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          857.80419921875,
+          132.4719696044922,
+          1172.83251953125,
+          570.6714477539062
+        ],
+        "score": 0.25059911608695984,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00467.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          8.331069946289062,
+          11.031625747680664,
+          1271.498046875,
+          709.9403686523438
+        ],
+        "score": 0.639229953289032,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00477.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          127.41622924804688,
+          13.074374198913574,
+          1268.747314453125,
+          706.18603515625
+        ],
+        "score": 0.37686216831207275,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 86% of frame"
+      },
+      {
+        "bbox": [
+          14.952659606933594,
+          12.190232276916504,
+          1270.0560302734375,
+          707.812744140625
+        ],
+        "score": 0.42893412709236145,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 95% of frame"
+      },
+      {
+        "bbox": [
+          495.24847412109375,
+          97.77024841308594,
+          897.8646240234375,
+          569.265625
+        ],
+        "score": 0.34207063913345337,
+        "raw_label": "riot",
+        "verdict": "positive",
+        "category": "riot",
+        "reason": "riot act, score 0.34"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00487.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.261482238769531,
+          12.356292724609375,
+          1270.280517578125,
+          708.4573364257812
+        ],
+        "score": 0.6486965417861938,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 95% of frame"
+      },
+      {
+        "bbox": [
+          471.2260437011719,
+          419.4223327636719,
+          581.4904174804688,
+          518.025146484375
+        ],
+        "score": 0.3472001254558563,
+        "raw_label": "blood",
+        "verdict": "positive",
+        "category": "blood",
+        "reason": "blood, score 0.35"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00497.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.643730163574219,
+          10.368733406066895,
+          1272.131591796875,
+          711.6692504882812
+        ],
+        "score": 0.6061621904373169,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00508.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.432929992675781,
+          10.253656387329102,
+          1270.75146484375,
+          712.7496948242188
+        ],
+        "score": 0.5497457385063171,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00518.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.988197326660156,
+          9.930739402770996,
+          1271.7066650390625,
+          707.310546875
+        ],
+        "score": 0.6849586963653564,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          190.03460693359375,
+          282.5929870605469,
+          1077.5751953125,
+          588.8201293945312
+        ],
+        "score": 0.254528284072876,
+        "raw_label": "riot",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      },
+      {
+        "bbox": [
+          188.32058715820312,
+          282.0753173828125,
+          1080.1279296875,
+          590.6817016601562
+        ],
+        "score": 0.3876694142818451,
+        "raw_label": "riot",
+        "verdict": "positive",
+        "category": "riot",
+        "reason": "riot act, score 0.39"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00528.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.184104919433594,
+          10.922491073608398,
+          1270.739013671875,
+          713.2273559570312
+        ],
+        "score": 0.5789861679077148,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00538.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.308784484863281,
+          8.498268127441406,
+          1271.6552734375,
+          712.15283203125
+        ],
+        "score": 0.544575572013855,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          988.6380004882812,
+          352.4580993652344,
+          1026.2762451171875,
+          369.3102722167969
+        ],
+        "score": 0.26088982820510864,
+        "raw_label": "cigarette",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00548.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.926399230957031,
+          10.172009468078613,
+          1272.57177734375,
+          712.6942138671875
+        ],
+        "score": 0.5640997886657715,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00558.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.3040313720703125,
+          10.5448579788208,
+          1268.8380126953125,
+          708.9940795898438
+        ],
+        "score": 0.566217303276062,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00568.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.504035949707031,
+          12.092084884643555,
+          1273.0504150390625,
+          711.5787963867188
+        ],
+        "score": 0.5491974949836731,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00578.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.1944580078125,
+          9.704532623291016,
+          1272.4442138671875,
+          711.46044921875
+        ],
+        "score": 0.5273688435554504,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          6.1412811279296875,
+          9.932198524475098,
+          1272.3626708984375,
+          711.6961059570312
+        ],
+        "score": 0.2630174160003662,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00589.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          8.015022277832031,
+          10.42726993560791,
+          1272.2431640625,
+          709.31005859375
+        ],
+        "score": 0.5570738315582275,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00599.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.672035217285156,
+          12.180727005004883,
+          1272.869384765625,
+          709.8167724609375
+        ],
+        "score": 0.5927532315254211,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          6.549110412597656,
+          12.096633911132812,
+          1272.18603515625,
+          709.2254028320312
+        ],
+        "score": 0.2711031138896942,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00609.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.996818542480469,
+          10.73666763305664,
+          1271.966552734375,
+          707.7314453125
+        ],
+        "score": 0.49388977885246277,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          637.477783203125,
+          298.7449035644531,
+          653.735595703125,
+          343.3656005859375
+        ],
+        "score": 0.44252485036849976,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.44"
+      },
+      {
+        "bbox": [
+          612.1443481445312,
+          266.0291748046875,
+          632.9720458984375,
+          325.898193359375
+        ],
+        "score": 0.3783845007419586,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.38"
+      },
+      {
+        "bbox": [
+          620.4617309570312,
+          386.45404052734375,
+          636.0620727539062,
+          428.98797607421875
+        ],
+        "score": 0.30131593346595764,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.30"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00619.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.4360809326171875,
+          8.643364906311035,
+          1272.69677734375,
+          710.5728149414062
+        ],
+        "score": 0.6153059601783752,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00629.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.352142333984375,
+          9.959127426147461,
+          1271.4237060546875,
+          712.44287109375
+        ],
+        "score": 0.579882800579071,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00639.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.6489410400390625,
+          10.083625793457031,
+          1270.5750732421875,
+          709.068603515625
+        ],
+        "score": 0.6108371019363403,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          7.354316711425781,
+          10.787351608276367,
+          1269.7373046875,
+          708.8723754882812
+        ],
+        "score": 0.272666335105896,
+        "raw_label": "riot car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00649.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          9.5611572265625,
+          8.503396987915039,
+          1270.536865234375,
+          712.1570434570312
+        ],
+        "score": 0.6020746827125549,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          927.8507080078125,
+          353.1710205078125,
+          966.6405639648438,
+          462.7292175292969
+        ],
+        "score": 0.3855094313621521,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.39"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00660.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          9.610443115234375,
+          8.54133415222168,
+          1270.736083984375,
+          712.0524291992188
+        ],
+        "score": 0.5958609580993652,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          874.2674560546875,
+          530.3411254882812,
+          911.017333984375,
+          552.9779663085938
+        ],
+        "score": 0.2935200333595276,
+        "raw_label": "cigarette",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00670.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          8.507843017578125,
+          11.774703979492188,
+          1269.9168701171875,
+          711.1685180664062
+        ],
+        "score": 0.6055562496185303,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00680.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.8765869140625,
+          9.924774169921875,
+          1271.217041015625,
+          708.3399658203125
+        ],
+        "score": 0.6002991795539856,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00690.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.128410339355469,
+          9.565507888793945,
+          1271.167724609375,
+          709.014892578125
+        ],
+        "score": 0.6710996031761169,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          303.90203857421875,
+          132.04920959472656,
+          545.0941162109375,
+          274.3681640625
+        ],
+        "score": 0.28983092308044434,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          615.0816040039062,
+          16.144323348999023,
+          1028.493408203125,
+          703.53564453125
+        ],
+        "score": 0.26945799589157104,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      },
+      {
+        "bbox": [
+          14.914007186889648,
+          11.75588321685791,
+          220.45379638671875,
+          84.05443572998047
+        ],
+        "score": 0.2512315809726715,
+        "raw_label": "abuse",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00700.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.1112823486328125,
+          13.03122329711914,
+          1268.3304443359375,
+          711.2457275390625
+        ],
+        "score": 0.6032136082649231,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00710.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.78955078125,
+          8.492817878723145,
+          1273.5712890625,
+          711.1033325195312
+        ],
+        "score": 0.45772385597229004,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          5.672035217285156,
+          447.9627685546875,
+          557.2537841796875,
+          706.3760375976562
+        ],
+        "score": 0.2672260105609894,
+        "raw_label": "car accident",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00720.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.558113098144531,
+          9.09517765045166,
+          1272.5062255859375,
+          710.304443359375
+        ],
+        "score": 0.5745673179626465,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          7.2389984130859375,
+          9.32516098022461,
+          1271.964599609375,
+          710.3201904296875
+        ],
+        "score": 0.25179925560951233,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00731.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          364.39141845703125,
+          410.9083251953125,
+          458.43084716796875,
+          570.1582641601562
+        ],
+        "score": 0.731280505657196,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.73"
+      },
+      {
+        "bbox": [
+          6.462593078613281,
+          10.92721176147461,
+          1272.6959228515625,
+          708.7628173828125
+        ],
+        "score": 0.6039412021636963,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00741.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.733612060546875,
+          9.767789840698242,
+          1271.419189453125,
+          709.7927856445312
+        ],
+        "score": 0.546709418296814,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00751.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.3860321044921875,
+          9.776180267333984,
+          1272.262939453125,
+          710.3687744140625
+        ],
+        "score": 0.577423632144928,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00761.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.71417236328125,
+          11.861200332641602,
+          1271.8275146484375,
+          709.58935546875
+        ],
+        "score": 0.5695581436157227,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00771.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.770782470703125,
+          12.633419036865234,
+          1271.4014892578125,
+          710.1271362304688
+        ],
+        "score": 0.5838145613670349,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00781.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.391792297363281,
+          10.233057022094727,
+          1272.417236328125,
+          709.7822265625
+        ],
+        "score": 0.6035036444664001,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00791.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          503.9102478027344,
+          440.3825378417969,
+          542.265380859375,
+          488.2583923339844
+        ],
+        "score": 0.5904546976089478,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.59"
+      },
+      {
+        "bbox": [
+          580.02978515625,
+          366.4590148925781,
+          616.857666015625,
+          476.8177185058594
+        ],
+        "score": 0.7188171744346619,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.72"
+      },
+      {
+        "bbox": [
+          13.599128723144531,
+          10.084376335144043,
+          1270.98486328125,
+          709.583984375
+        ],
+        "score": 0.6187031269073486,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 95% of frame"
+      },
+      {
+        "bbox": [
+          498.10211181640625,
+          530.2977294921875,
+          546.7516479492188,
+          561.202392578125
+        ],
+        "score": 0.3411640226840973,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.34"
+      },
+      {
+        "bbox": [
+          635.403076171875,
+          421.9009704589844,
+          672.5216674804688,
+          496.56671142578125
+        ],
+        "score": 0.2662363052368164,
+        "raw_label": "bottle cup",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'bottle cup'"
+      },
+      {
+        "bbox": [
+          442.5335388183594,
+          472.60333251953125,
+          485.6094055175781,
+          540.0078735351562
+        ],
+        "score": 0.3981316387653351,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.40"
+      },
+      {
+        "bbox": [
+          442.7749938964844,
+          472.7202453613281,
+          485.2099304199219,
+          512.223876953125
+        ],
+        "score": 0.2581274211406708,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          429.3206787109375,
+          472.28009033203125,
+          486.26947021484375,
+          541.0037231445312
+        ],
+        "score": 0.28532031178474426,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          636.8392333984375,
+          422.00201416015625,
+          671.8087158203125,
+          463.4429016113281
+        ],
+        "score": 0.28738778829574585,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          636.1126098632812,
+          457.95782470703125,
+          671.8255004882812,
+          496.2691345214844
+        ],
+        "score": 0.3031647801399231,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.30"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00802.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.5927276611328125,
+          8.805606842041016,
+          1273.063232421875,
+          708.9906616210938
+        ],
+        "score": 0.6178829669952393,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          828.9026489257812,
+          591.8639526367188,
+          889.3915405273438,
+          707.046875
+        ],
+        "score": 0.5374775528907776,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.54"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00812.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          392.4571228027344,
+          409.7509460449219,
+          457.66668701171875,
+          612.1190185546875
+        ],
+        "score": 0.7543630599975586,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.75"
+      },
+      {
+        "bbox": [
+          5.637054443359375,
+          9.86121654510498,
+          1272.4970703125,
+          710.600830078125
+        ],
+        "score": 0.5625137090682983,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          561.7920532226562,
+          12.761274337768555,
+          875.92724609375,
+          346.6026306152344
+        ],
+        "score": 0.44025516510009766,
+        "raw_label": "explosion",
+        "verdict": "positive",
+        "category": "explosion",
+        "reason": "explosion event, score 0.44"
+      },
+      {
+        "bbox": [
+          206.75491333007812,
+          658.7411499023438,
+          237.08514404296875,
+          707.187255859375
+        ],
+        "score": 0.35470664501190186,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.35"
+      },
+      {
+        "bbox": [
+          317.79534912109375,
+          574.4791259765625,
+          392.6580810546875,
+          597.5595092773438
+        ],
+        "score": 0.2769869565963745,
+        "raw_label": "blood",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      },
+      {
+        "bbox": [
+          680.2552490234375,
+          562.4224853515625,
+          771.914794921875,
+          639.8445434570312
+        ],
+        "score": 0.3598347008228302,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.36"
+      },
+      {
+        "bbox": [
+          533.1495361328125,
+          496.96710205078125,
+          623.9689331054688,
+          546.2387084960938
+        ],
+        "score": 0.34079205989837646,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.34"
+      },
+      {
+        "bbox": [
+          578.9165649414062,
+          538.8197631835938,
+          689.5844116210938,
+          568.9669799804688
+        ],
+        "score": 0.307366281747818,
+        "raw_label": "knife",
+        "verdict": "positive",
+        "category": "weapon_knife",
+        "reason": "knife weapon, score 0.31"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00822.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          790.7890625,
+          421.56646728515625,
+          859.2200927734375,
+          630.0848388671875
+        ],
+        "score": 0.69218510389328,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.69"
+      },
+      {
+        "bbox": [
+          416.348388671875,
+          572.186279296875,
+          468.30303955078125,
+          631.7633056640625
+        ],
+        "score": 0.6517218351364136,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.65"
+      },
+      {
+        "bbox": [
+          5.65521240234375,
+          10.70697021484375,
+          1272.0657958984375,
+          709.4263305664062
+        ],
+        "score": 0.6084088087081909,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1058.573486328125,
+          613.2571411132812,
+          1117.958740234375,
+          706.31787109375
+        ],
+        "score": 0.5486875772476196,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.55"
+      },
+      {
+        "bbox": [
+          492.260498046875,
+          12.089590072631836,
+          609.4522705078125,
+          126.36933898925781
+        ],
+        "score": 0.2702194154262543,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      },
+      {
+        "bbox": [
+          1020.8638916015625,
+          287.43902587890625,
+          1273.351318359375,
+          323.59747314453125
+        ],
+        "score": 0.3023807406425476,
+        "raw_label": "blood",
+        "verdict": "positive",
+        "category": "blood",
+        "reason": "blood, score 0.30"
+      },
+      {
+        "bbox": [
+          564.8070678710938,
+          621.1376953125,
+          620.5938720703125,
+          657.1223754882812
+        ],
+        "score": 0.30985841155052185,
+        "raw_label": "knife",
+        "verdict": "positive",
+        "category": "weapon_knife",
+        "reason": "knife weapon, score 0.31"
+      },
+      {
+        "bbox": [
+          332.199462890625,
+          435.2925720214844,
+          676.762451171875,
+          609.0556030273438
+        ],
+        "score": 0.2787121534347534,
+        "raw_label": "riot",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00832.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          751.1585083007812,
+          453.9375305175781,
+          821.1773071289062,
+          661.9581298828125
+        ],
+        "score": 0.7022826075553894,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.70"
+      },
+      {
+        "bbox": [
+          370.8851623535156,
+          604.7283325195312,
+          423.5789489746094,
+          665.5796508789062
+        ],
+        "score": 0.6481543183326721,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.65"
+      },
+      {
+        "bbox": [
+          5.874748229980469,
+          11.049564361572266,
+          1271.959716796875,
+          709.9697265625
+        ],
+        "score": 0.6080834269523621,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1037.473388671875,
+          639.6959228515625,
+          1069.928955078125,
+          706.1471557617188
+        ],
+        "score": 0.4479163587093353,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.45"
+      },
+      {
+        "bbox": [
+          445.3876953125,
+          585.5789184570312,
+          554.5819702148438,
+          664.82470703125
+        ],
+        "score": 0.27971553802490234,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      },
+      {
+        "bbox": [
+          1041.8076171875,
+          290.8012390136719,
+          1277.6834716796875,
+          334.5489196777344
+        ],
+        "score": 0.29867589473724365,
+        "raw_label": "blood",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      },
+      {
+        "bbox": [
+          288.905517578125,
+          634.3096923828125,
+          352.94232177734375,
+          655.3858642578125
+        ],
+        "score": 0.2735913395881653,
+        "raw_label": "knife",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      },
+      {
+        "bbox": [
+          273.36260986328125,
+          459.9379577636719,
+          642.4624633789062,
+          638.3108520507812
+        ],
+        "score": 0.27142342925071716,
+        "raw_label": "riot",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      },
+      {
+        "bbox": [
+          456.5167541503906,
+          13.354697227478027,
+          593.7101440429688,
+          282.6421203613281
+        ],
+        "score": 0.25565752387046814,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          508.95611572265625,
+          654.4793701171875,
+          566.696044921875,
+          689.2825927734375
+        ],
+        "score": 0.25051432847976685,
+        "raw_label": "knife",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00842.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.4970550537109375,
+          8.113059997558594,
+          1273.2078857421875,
+          708.796142578125
+        ],
+        "score": 0.5872712135314941,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00852.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.918617248535156,
+          8.575859069824219,
+          1272.998291015625,
+          707.8606567382812
+        ],
+        "score": 0.612757682800293,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00862.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.0299530029296875,
+          7.958714962005615,
+          1271.5528564453125,
+          709.4210205078125
+        ],
+        "score": 0.6025413870811462,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00873.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.250877380371094,
+          9.768004417419434,
+          1272.0107421875,
+          709.5806274414062
+        ],
+        "score": 0.590358316898346,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          6.9037628173828125,
+          9.153263092041016,
+          1271.5611572265625,
+          709.2413940429688
+        ],
+        "score": 0.25261610746383667,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          17.1221923828125,
+          15.066431999206543,
+          217.0704803466797,
+          81.23341369628906
+        ],
+        "score": 0.25037115812301636,
+        "raw_label": "abuse",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00883.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.461639404296875,
+          9.342735290527344,
+          1271.7689208984375,
+          712.1636352539062
+        ],
+        "score": 0.609846293926239,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1208.5794677734375,
+          590.1351318359375,
+          1265.75732421875,
+          707.2478637695312
+        ],
+        "score": 0.5537370443344116,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.55"
+      },
+      {
+        "bbox": [
+          112.02330017089844,
+          441.8733215332031,
+          469.05450439453125,
+          680.2860717773438
+        ],
+        "score": 0.285911500453949,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          831.0458984375,
+          579.4420776367188,
+          872.6629028320312,
+          682.6611938476562
+        ],
+        "score": 0.2988508641719818,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      },
+      {
+        "bbox": [
+          111.69691467285156,
+          403.21331787109375,
+          468.9449462890625,
+          681.9027099609375
+        ],
+        "score": 0.27469944953918457,
+        "raw_label": "explosion",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00893.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.204681396484375,
+          9.382624626159668,
+          1272.4859619140625,
+          711.4530029296875
+        ],
+        "score": 0.6152063608169556,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1227.42578125,
+          591.1549682617188,
+          1278.3271484375,
+          706.7119750976562
+        ],
+        "score": 0.44164079427719116,
+        "raw_label": "bottle cup",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'bottle cup'"
+      },
+      {
+        "bbox": [
+          782.2745361328125,
+          341.1445617675781,
+          841.4200439453125,
+          393.28948974609375
+        ],
+        "score": 0.30127203464508057,
+        "raw_label": "cigarette",
+        "verdict": "positive",
+        "category": "smoking",
+        "reason": "cigarette object, score 0.30"
+      },
+      {
+        "bbox": [
+          739.810791015625,
+          317.71270751953125,
+          841.4783935546875,
+          392.9382019042969
+        ],
+        "score": 0.28554660081863403,
+        "raw_label": "cigarette",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00903.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.910606384277344,
+          8.528480529785156,
+          1273.0950927734375,
+          710.9253540039062
+        ],
+        "score": 0.5586701035499573,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00913.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.048469543457031,
+          8.493396759033203,
+          1271.919921875,
+          709.490966796875
+        ],
+        "score": 0.5469082593917847,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          6.6875457763671875,
+          8.921585083007812,
+          1271.6529541015625,
+          708.7950439453125
+        ],
+        "score": 0.25405511260032654,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00923.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.56640625,
+          13.593006134033203,
+          1273.7666015625,
+          709.898681640625
+        ],
+        "score": 0.462031751871109,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          603.9540405273438,
+          225.98951721191406,
+          879.7340087890625,
+          616.7807006835938
+        ],
+        "score": 0.25590023398399353,
+        "raw_label": "riot",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00933.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.285728454589844,
+          10.210118293762207,
+          1271.6533203125,
+          710.8712768554688
+        ],
+        "score": 0.5596572756767273,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00944.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          7.241096496582031,
+          10.095254898071289,
+          1271.9273681640625,
+          711.1103515625
+        ],
+        "score": 0.5511682629585266,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00954.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.840476989746094,
+          7.744460105895996,
+          1272.147216796875,
+          710.711669921875
+        ],
+        "score": 0.6004783511161804,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      },
+      {
+        "bbox": [
+          7.073822021484375,
+          7.965302467346191,
+          1271.21484375,
+          710.4376220703125
+        ],
+        "score": 0.2659095525741577,
+        "raw_label": "car",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00964.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.020561218261719,
+          15.846298217773438,
+          1274.0142822265625,
+          710.2817993164062
+        ],
+        "score": 0.5567599534988403,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      },
+      {
+        "bbox": [
+          1049.44189453125,
+          156.05764770507812,
+          1271.405517578125,
+          415.73651123046875
+        ],
+        "score": 0.26601266860961914,
+        "raw_label": "gun",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00974.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          3.61602783203125,
+          6.127152442932129,
+          1274.9022216796875,
+          711.2435302734375
+        ],
+        "score": 0.560260534286499,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 97% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00984.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          926.8408813476562,
+          503.89324951171875,
+          996.8193969726562,
+          681.932373046875
+        ],
+        "score": 0.6503260731697083,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.65"
+      },
+      {
+        "bbox": [
+          5.755195617675781,
+          10.271551132202148,
+          1272.41845703125,
+          711.2772827148438
+        ],
+        "score": 0.5369378924369812,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_00994.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          6.298408508300781,
+          10.8690185546875,
+          1272.09228515625,
+          711.1238403320312
+        ],
+        "score": 0.5803433060646057,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  },
+  {
+    "frame": "3auH8hGUezI_frame_01004.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          5.386390686035156,
+          9.735045433044434,
+          1273.1475830078125,
+          710.0479125976562
+        ],
+        "score": 0.5937947034835815,
+        "raw_label": "car accident",
+        "verdict": "negative",
+        "category": "frame_dominant",
+        "reason": "box covers 96% of frame"
+      }
+    ]
+  }
+]

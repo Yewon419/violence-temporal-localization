@@ -1,0 +1,18 @@
+{
+  "frame": "3auH8hGUezI_frame_00933.jpg",
+  "prompt": "cigarette. smoking. drinking. bottle. cup. knife. gun. hammer. baseball bat. blood. fighting. shooting. riot. abuse. explosion. car accident.",
+  "boxes": [
+    [
+      7.285728454589844,
+      10.210118293762207,
+      1271.6533203125,
+      710.8712768554688
+    ]
+  ],
+  "scores": [
+    0.5596572756767273
+  ],
+  "labels": [
+    "car accident"
+  ]
+}

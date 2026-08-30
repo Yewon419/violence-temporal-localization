@@ -1,0 +1,5970 @@
+[
+ {
+  "idx": 0,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00001.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2978,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   522.5,
+   470.7,
+   238.6,
+   86.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\000_3auH8hGUezI_00001_unknown.jpg"
+ },
+ {
+  "idx": 1,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00001.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2658,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   619.3,
+   331.7,
+   47.7,
+   44.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\001_3auH8hGUezI_00001_unknown.jpg"
+ },
+ {
+  "idx": 2,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00051.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3985,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   0.5,
+   584.6,
+   55.9,
+   55.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\002_3auH8hGUezI_00051_unknown.jpg"
+ },
+ {
+  "idx": 3,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00163.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2879,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   653.4,
+   640.5,
+   43.1,
+   56.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\003_3auH8hGUezI_00163_unknown.jpg"
+ },
+ {
+  "idx": 4,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00183.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2785,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   158.5,
+   12.3,
+   581.6,
+   556.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\004_3auH8hGUezI_00183_unknown.jpg"
+ },
+ {
+  "idx": 5,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00264.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2565,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   738.6,
+   549.2,
+   207.9,
+   156.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\005_3auH8hGUezI_00264_unknown.jpg"
+ },
+ {
+  "idx": 6,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00264.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2599,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   16.2,
+   12.5,
+   202.7,
+   70.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\006_3auH8hGUezI_00264_unknown.jpg"
+ },
+ {
+  "idx": 7,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00315.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2633,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   292.5,
+   30.8,
+   659.3,
+   680.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\007_3auH8hGUezI_00315_unknown.jpg"
+ },
+ {
+  "idx": 8,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00376.jpg",
+  "cvat_label": "unknown",
+  "score": 0.277,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   712.2,
+   424.4,
+   182.5,
+   185.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\008_3auH8hGUezI_00376_unknown.jpg"
+ },
+ {
+  "idx": 9,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00396.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2515,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   2.3,
+   102.0,
+   278.1,
+   476.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\009_3auH8hGUezI_00396_unknown.jpg"
+ },
+ {
+  "idx": 10,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00406.jpg",
+  "cvat_label": "unknown",
+  "score": 0.297,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   474.6,
+   264.3,
+   41.8,
+   70.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\010_3auH8hGUezI_00406_unknown.jpg"
+ },
+ {
+  "idx": 11,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00447.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2985,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   639.0,
+   355.4,
+   131.2,
+   60.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\011_3auH8hGUezI_00447_unknown.jpg"
+ },
+ {
+  "idx": 12,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00457.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2506,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   857.8,
+   132.5,
+   315.0,
+   438.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\012_3auH8hGUezI_00457_unknown.jpg"
+ },
+ {
+  "idx": 13,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00518.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2545,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   190.0,
+   282.6,
+   887.5,
+   306.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\013_3auH8hGUezI_00518_unknown.jpg"
+ },
+ {
+  "idx": 14,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00538.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2609,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   988.6,
+   352.5,
+   37.6,
+   16.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\014_3auH8hGUezI_00538_unknown.jpg"
+ },
+ {
+  "idx": 15,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00660.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2935,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   874.3,
+   530.3,
+   36.7,
+   22.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\015_3auH8hGUezI_00660_unknown.jpg"
+ },
+ {
+  "idx": 16,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00690.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2898,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   303.9,
+   132.0,
+   241.2,
+   142.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\016_3auH8hGUezI_00690_unknown.jpg"
+ },
+ {
+  "idx": 17,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00690.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2695,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   615.1,
+   16.1,
+   413.4,
+   687.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\017_3auH8hGUezI_00690_unknown.jpg"
+ },
+ {
+  "idx": 18,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00690.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2512,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   14.9,
+   11.8,
+   205.5,
+   72.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\018_3auH8hGUezI_00690_unknown.jpg"
+ },
+ {
+  "idx": 19,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00710.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2672,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.7,
+   448.0,
+   551.6,
+   258.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\019_3auH8hGUezI_00710_unknown.jpg"
+ },
+ {
+  "idx": 20,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00791.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2662,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   635.4,
+   421.9,
+   37.1,
+   74.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\020_3auH8hGUezI_00791_unknown.jpg"
+ },
+ {
+  "idx": 21,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00791.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2581,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   442.8,
+   472.7,
+   42.4,
+   39.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\021_3auH8hGUezI_00791_unknown.jpg"
+ },
+ {
+  "idx": 22,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00791.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2853,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   429.3,
+   472.3,
+   56.9,
+   68.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\022_3auH8hGUezI_00791_unknown.jpg"
+ },
+ {
+  "idx": 23,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00791.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2874,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   636.8,
+   422.0,
+   35.0,
+   41.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\023_3auH8hGUezI_00791_unknown.jpg"
+ },
+ {
+  "idx": 24,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00812.jpg",
+  "cvat_label": "unknown",
+  "score": 0.277,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   317.8,
+   574.5,
+   74.9,
+   23.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\024_3auH8hGUezI_00812_unknown.jpg"
+ },
+ {
+  "idx": 25,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00822.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2702,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   492.3,
+   12.1,
+   117.2,
+   114.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\025_3auH8hGUezI_00822_unknown.jpg"
+ },
+ {
+  "idx": 26,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00822.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2787,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   332.2,
+   435.3,
+   344.6,
+   173.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\026_3auH8hGUezI_00822_unknown.jpg"
+ },
+ {
+  "idx": 27,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00832.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2797,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   445.4,
+   585.6,
+   109.2,
+   79.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\027_3auH8hGUezI_00832_unknown.jpg"
+ },
+ {
+  "idx": 28,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00832.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2987,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1041.8,
+   290.8,
+   235.9,
+   43.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\028_3auH8hGUezI_00832_unknown.jpg"
+ },
+ {
+  "idx": 29,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00832.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2736,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   288.9,
+   634.3,
+   64.0,
+   21.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\029_3auH8hGUezI_00832_unknown.jpg"
+ },
+ {
+  "idx": 30,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00832.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2714,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   273.4,
+   459.9,
+   369.1,
+   178.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\030_3auH8hGUezI_00832_unknown.jpg"
+ },
+ {
+  "idx": 31,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00832.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2557,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   456.5,
+   13.4,
+   137.2,
+   269.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\031_3auH8hGUezI_00832_unknown.jpg"
+ },
+ {
+  "idx": 32,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00832.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2505,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   509.0,
+   654.5,
+   57.7,
+   34.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\032_3auH8hGUezI_00832_unknown.jpg"
+ },
+ {
+  "idx": 33,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00873.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2504,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   17.1,
+   15.1,
+   199.9,
+   66.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\033_3auH8hGUezI_00873_unknown.jpg"
+ },
+ {
+  "idx": 34,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00883.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2859,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   112.0,
+   441.9,
+   357.0,
+   238.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\034_3auH8hGUezI_00883_unknown.jpg"
+ },
+ {
+  "idx": 35,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00883.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2989,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   831.0,
+   579.4,
+   41.6,
+   103.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\035_3auH8hGUezI_00883_unknown.jpg"
+ },
+ {
+  "idx": 36,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00883.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2747,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   111.7,
+   403.2,
+   357.2,
+   278.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\036_3auH8hGUezI_00883_unknown.jpg"
+ },
+ {
+  "idx": 37,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00893.jpg",
+  "cvat_label": "unknown",
+  "score": 0.4416,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   1227.4,
+   591.2,
+   50.9,
+   115.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\037_3auH8hGUezI_00893_unknown.jpg"
+ },
+ {
+  "idx": 38,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00893.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2855,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   739.8,
+   317.7,
+   101.7,
+   75.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\038_3auH8hGUezI_00893_unknown.jpg"
+ },
+ {
+  "idx": 39,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00923.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2559,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   604.0,
+   226.0,
+   275.8,
+   390.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\039_3auH8hGUezI_00923_unknown.jpg"
+ },
+ {
+  "idx": 40,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00964.jpg",
+  "cvat_label": "unknown",
+  "score": 0.266,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1049.4,
+   156.1,
+   222.0,
+   259.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\040_3auH8hGUezI_00964_unknown.jpg"
+ },
+ {
+  "idx": 41,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00036.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2706,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   299.4,
+   75.6,
+   352.4,
+   327.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\041_69RJZ7TwDrQ_00036_unknown.jpg"
+ },
+ {
+  "idx": 42,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00071.jpg",
+  "cvat_label": "unknown",
+  "score": 0.251,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   584.0,
+   332.2,
+   126.1,
+   141.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\042_69RJZ7TwDrQ_00071_unknown.jpg"
+ },
+ {
+  "idx": 43,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00071.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2645,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   452.4,
+   15.6,
+   426.8,
+   689.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\043_69RJZ7TwDrQ_00071_unknown.jpg"
+ },
+ {
+  "idx": 44,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00071.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2762,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   449.7,
+   16.6,
+   437.7,
+   688.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\044_69RJZ7TwDrQ_00071_unknown.jpg"
+ },
+ {
+  "idx": 45,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00089.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2545,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   998.0,
+   545.9,
+   280.2,
+   166.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\045_69RJZ7TwDrQ_00089_unknown.jpg"
+ },
+ {
+  "idx": 46,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00282.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2539,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   678.4,
+   237.1,
+   147.4,
+   104.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\046_69RJZ7TwDrQ_00282_unknown.jpg"
+ },
+ {
+  "idx": 47,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00317.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2744,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   825.7,
+   425.4,
+   58.1,
+   13.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\047_69RJZ7TwDrQ_00317_unknown.jpg"
+ },
+ {
+  "idx": 48,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00353.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2784,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1156.9,
+   674.8,
+   83.3,
+   31.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\048_69RJZ7TwDrQ_00353_unknown.jpg"
+ },
+ {
+  "idx": 49,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00353.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2509,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   374.1,
+   600.0,
+   36.3,
+   62.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\049_69RJZ7TwDrQ_00353_unknown.jpg"
+ },
+ {
+  "idx": 50,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00441.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2666,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1080.5,
+   633.9,
+   154.7,
+   73.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\050_69RJZ7TwDrQ_00441_unknown.jpg"
+ },
+ {
+  "idx": 51,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00511.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2806,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1.7,
+   571.7,
+   252.0,
+   124.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\051_69RJZ7TwDrQ_00511_unknown.jpg"
+ },
+ {
+  "idx": 52,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00511.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2663,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   177.9,
+   575.2,
+   71.8,
+   110.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\052_69RJZ7TwDrQ_00511_unknown.jpg"
+ },
+ {
+  "idx": 53,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00529.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2614,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   351.1,
+   335.1,
+   28.2,
+   38.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\053_69RJZ7TwDrQ_00529_unknown.jpg"
+ },
+ {
+  "idx": 54,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00634.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2612,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   581.4,
+   145.1,
+   23.1,
+   74.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\054_69RJZ7TwDrQ_00634_unknown.jpg"
+ },
+ {
+  "idx": 55,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00740.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2931,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   463.0,
+   478.4,
+   60.4,
+   48.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\055_69RJZ7TwDrQ_00740_unknown.jpg"
+ },
+ {
+  "idx": 56,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00811.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2957,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   540.9,
+   589.7,
+   39.4,
+   49.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\056_69RJZ7TwDrQ_00811_unknown.jpg"
+ },
+ {
+  "idx": 57,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00811.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2632,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   891.8,
+   643.8,
+   25.6,
+   48.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\057_69RJZ7TwDrQ_00811_unknown.jpg"
+ },
+ {
+  "idx": 58,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00828.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2933,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   340.0,
+   385.1,
+   59.4,
+   69.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\058_69RJZ7TwDrQ_00828_unknown.jpg"
+ },
+ {
+  "idx": 59,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00881.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2642,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   994.8,
+   20.9,
+   167.0,
+   131.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\059_69RJZ7TwDrQ_00881_unknown.jpg"
+ },
+ {
+  "idx": 60,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2771,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   396.8,
+   493.2,
+   88.4,
+   177.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\060_69RJZ7TwDrQ_00916_unknown.jpg"
+ },
+ {
+  "idx": 61,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2859,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   747.4,
+   368.8,
+   147.1,
+   126.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\061_69RJZ7TwDrQ_00916_unknown.jpg"
+ },
+ {
+  "idx": 62,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2544,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   825.2,
+   503.2,
+   91.5,
+   164.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\062_69RJZ7TwDrQ_00916_unknown.jpg"
+ },
+ {
+  "idx": 63,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01092.jpg",
+  "cvat_label": "unknown",
+  "score": 0.274,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   337.9,
+   393.7,
+   72.8,
+   118.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\063_69RJZ7TwDrQ_01092_unknown.jpg"
+ },
+ {
+  "idx": 64,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01110.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2698,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1.8,
+   669.9,
+   60.7,
+   36.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\064_69RJZ7TwDrQ_01110_unknown.jpg"
+ },
+ {
+  "idx": 65,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01128.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2543,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   614.3,
+   539.5,
+   116.7,
+   78.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\065_69RJZ7TwDrQ_01128_unknown.jpg"
+ },
+ {
+  "idx": 66,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01128.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2717,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   386.8,
+   301.4,
+   288.2,
+   142.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\066_69RJZ7TwDrQ_01128_unknown.jpg"
+ },
+ {
+  "idx": 67,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01145.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2921,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   552.0,
+   354.9,
+   26.1,
+   32.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\067_69RJZ7TwDrQ_01145_unknown.jpg"
+ },
+ {
+  "idx": 68,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01145.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2982,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   558.7,
+   330.9,
+   22.1,
+   27.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\068_69RJZ7TwDrQ_01145_unknown.jpg"
+ },
+ {
+  "idx": 69,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01145.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2615,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   517.4,
+   381.1,
+   23.0,
+   39.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\069_69RJZ7TwDrQ_01145_unknown.jpg"
+ },
+ {
+  "idx": 70,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01145.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2696,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   731.6,
+   363.3,
+   38.1,
+   49.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\070_69RJZ7TwDrQ_01145_unknown.jpg"
+ },
+ {
+  "idx": 71,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01233.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2586,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   320.0,
+   624.1,
+   241.1,
+   69.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\071_69RJZ7TwDrQ_01233_unknown.jpg"
+ },
+ {
+  "idx": 72,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01233.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2722,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   108.0,
+   64.5,
+   110.7,
+   350.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\072_69RJZ7TwDrQ_01233_unknown.jpg"
+ },
+ {
+  "idx": 73,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01286.jpg",
+  "cvat_label": "unknown",
+  "score": 0.278,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   255.4,
+   236.4,
+   82.6,
+   108.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\073_69RJZ7TwDrQ_01286_unknown.jpg"
+ },
+ {
+  "idx": 74,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01304.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2912,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   879.0,
+   13.8,
+   177.7,
+   445.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\074_69RJZ7TwDrQ_01304_unknown.jpg"
+ },
+ {
+  "idx": 75,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+  "cvat_label": "unknown",
+  "score": 0.26,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   981.2,
+   493.8,
+   145.0,
+   181.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\075_69RJZ7TwDrQ_01321_unknown.jpg"
+ },
+ {
+  "idx": 76,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2849,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   310.0,
+   640.9,
+   117.8,
+   65.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\076_69RJZ7TwDrQ_01321_unknown.jpg"
+ },
+ {
+  "idx": 77,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2797,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1008.6,
+   494.1,
+   116.7,
+   179.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\077_69RJZ7TwDrQ_01321_unknown.jpg"
+ },
+ {
+  "idx": 78,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2592,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   509.3,
+   557.9,
+   98.9,
+   78.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\078_69RJZ7TwDrQ_01321_unknown.jpg"
+ },
+ {
+  "idx": 79,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2727,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   414.3,
+   529.3,
+   49.0,
+   86.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\079_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 80,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2614,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   862.4,
+   526.1,
+   49.9,
+   78.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\080_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 81,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2951,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   550.5,
+   567.8,
+   63.1,
+   126.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\081_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 82,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2851,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   489.8,
+   529.6,
+   48.6,
+   84.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\082_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 83,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2961,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   546.5,
+   484.3,
+   245.8,
+   126.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\083_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 84,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2952,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   752.7,
+   569.1,
+   66.6,
+   128.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\084_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 85,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.276,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   845.7,
+   679.2,
+   83.3,
+   20.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\085_69RJZ7TwDrQ_01445_unknown.jpg"
+ },
+ {
+  "idx": 86,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01533.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2929,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   343.1,
+   614.2,
+   591.8,
+   64.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\086_69RJZ7TwDrQ_01533_unknown.jpg"
+ },
+ {
+  "idx": 87,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01568.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2837,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   600.0,
+   122.5,
+   397.1,
+   143.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\087_69RJZ7TwDrQ_01568_unknown.jpg"
+ },
+ {
+  "idx": 88,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01568.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2826,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   598.7,
+   60.0,
+   399.2,
+   208.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\088_69RJZ7TwDrQ_01568_unknown.jpg"
+ },
+ {
+  "idx": 89,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01621.jpg",
+  "cvat_label": "unknown",
+  "score": 0.278,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   758.5,
+   530.2,
+   65.0,
+   67.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\089_69RJZ7TwDrQ_01621_unknown.jpg"
+ },
+ {
+  "idx": 90,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01656.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2612,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   395.3,
+   98.9,
+   878.3,
+   341.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\090_69RJZ7TwDrQ_01656_unknown.jpg"
+ },
+ {
+  "idx": 91,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01656.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2581,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   967.2,
+   101.5,
+   310.8,
+   269.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\091_69RJZ7TwDrQ_01656_unknown.jpg"
+ },
+ {
+  "idx": 92,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01691.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2616,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   866.4,
+   365.0,
+   32.3,
+   35.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\092_69RJZ7TwDrQ_01691_unknown.jpg"
+ },
+ {
+  "idx": 93,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "unknown",
+  "score": 0.29,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   986.4,
+   358.0,
+   28.8,
+   42.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\093_69RJZ7TwDrQ_01744_unknown.jpg"
+ },
+ {
+  "idx": 94,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2996,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   163.9,
+   397.1,
+   16.6,
+   28.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\094_69RJZ7TwDrQ_01744_unknown.jpg"
+ },
+ {
+  "idx": 95,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2504,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   774.5,
+   317.4,
+   44.5,
+   97.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\095_69RJZ7TwDrQ_01744_unknown.jpg"
+ },
+ {
+  "idx": 96,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "unknown",
+  "score": 0.291,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1097.1,
+   679.3,
+   41.2,
+   27.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\096_69RJZ7TwDrQ_01744_unknown.jpg"
+ },
+ {
+  "idx": 97,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2819,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1046.5,
+   602.6,
+   57.7,
+   73.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\097_69RJZ7TwDrQ_01744_unknown.jpg"
+ },
+ {
+  "idx": 98,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00005.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2925,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   599.3,
+   371.7,
+   127.4,
+   18.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\098_LkSY-EuTb1E_00005_unknown.jpg"
+ },
+ {
+  "idx": 99,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00005.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2821,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   595.8,
+   400.1,
+   125.0,
+   17.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\099_LkSY-EuTb1E_00005_unknown.jpg"
+ },
+ {
+  "idx": 100,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00014.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2756,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   51.9,
+   99.9,
+   510.3,
+   311.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\100_LkSY-EuTb1E_00014_unknown.jpg"
+ },
+ {
+  "idx": 101,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00023.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2775,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   836.7,
+   161.8,
+   171.8,
+   154.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\101_LkSY-EuTb1E_00023_unknown.jpg"
+ },
+ {
+  "idx": 102,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00023.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2598,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   666.5,
+   298.7,
+   15.8,
+   26.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\102_LkSY-EuTb1E_00023_unknown.jpg"
+ },
+ {
+  "idx": 103,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00046.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2692,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   865.2,
+   235.9,
+   57.0,
+   161.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\103_LkSY-EuTb1E_00046_unknown.jpg"
+ },
+ {
+  "idx": 104,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00051.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2824,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   630.7,
+   431.7,
+   14.9,
+   53.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\104_LkSY-EuTb1E_00051_unknown.jpg"
+ },
+ {
+  "idx": 105,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00056.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2856,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1074.4,
+   300.3,
+   65.5,
+   105.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\105_LkSY-EuTb1E_00056_unknown.jpg"
+ },
+ {
+  "idx": 106,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00088.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2979,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   639.4,
+   90.1,
+   425.0,
+   129.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\106_LkSY-EuTb1E_00088_unknown.jpg"
+ },
+ {
+  "idx": 107,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00097.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2562,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   677.3,
+   410.3,
+   155.0,
+   176.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\107_LkSY-EuTb1E_00097_unknown.jpg"
+ },
+ {
+  "idx": 108,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00106.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2792,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   706.4,
+   404.8,
+   27.1,
+   49.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\108_LkSY-EuTb1E_00106_unknown.jpg"
+ },
+ {
+  "idx": 109,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00106.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2808,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   703.8,
+   404.1,
+   38.5,
+   51.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\109_LkSY-EuTb1E_00106_unknown.jpg"
+ },
+ {
+  "idx": 110,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00115.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2927,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   557.9,
+   445.3,
+   144.1,
+   130.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\110_LkSY-EuTb1E_00115_unknown.jpg"
+ },
+ {
+  "idx": 111,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00115.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2929,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   674.2,
+   249.4,
+   195.2,
+   324.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\111_LkSY-EuTb1E_00115_unknown.jpg"
+ },
+ {
+  "idx": 112,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00124.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2824,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   3.6,
+   358.0,
+   1272.1,
+   263.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\112_LkSY-EuTb1E_00124_unknown.jpg"
+ },
+ {
+  "idx": 113,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00152.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2547,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   547.0,
+   101.8,
+   437.1,
+   519.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\113_LkSY-EuTb1E_00152_unknown.jpg"
+ },
+ {
+  "idx": 114,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00166.jpg",
+  "cvat_label": "unknown",
+  "score": 0.297,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   581.2,
+   329.4,
+   109.8,
+   29.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\114_LkSY-EuTb1E_00166_unknown.jpg"
+ },
+ {
+  "idx": 115,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00175.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2645,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   846.9,
+   406.6,
+   38.1,
+   41.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\115_LkSY-EuTb1E_00175_unknown.jpg"
+ },
+ {
+  "idx": 116,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00184.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2755,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   722.1,
+   493.6,
+   293.5,
+   130.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\116_LkSY-EuTb1E_00184_unknown.jpg"
+ },
+ {
+  "idx": 117,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00184.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2556,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   722.4,
+   227.1,
+   293.0,
+   397.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\117_LkSY-EuTb1E_00184_unknown.jpg"
+ },
+ {
+  "idx": 118,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00189.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2778,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   514.5,
+   436.8,
+   144.1,
+   184.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\118_LkSY-EuTb1E_00189_unknown.jpg"
+ },
+ {
+  "idx": 119,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00193.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2759,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   798.9,
+   450.9,
+   107.0,
+   167.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\119_LkSY-EuTb1E_00193_unknown.jpg"
+ },
+ {
+  "idx": 120,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00262.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2508,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   4.4,
+   185.8,
+   870.8,
+   439.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\120_LkSY-EuTb1E_00262_unknown.jpg"
+ },
+ {
+  "idx": 121,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00290.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2788,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   902.0,
+   341.5,
+   89.6,
+   142.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\121_LkSY-EuTb1E_00290_unknown.jpg"
+ },
+ {
+  "idx": 122,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00313.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2893,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   717.2,
+   96.4,
+   149.8,
+   167.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\122_LkSY-EuTb1E_00313_unknown.jpg"
+ },
+ {
+  "idx": 123,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00313.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2608,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   716.4,
+   90.0,
+   425.4,
+   266.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\123_LkSY-EuTb1E_00313_unknown.jpg"
+ },
+ {
+  "idx": 124,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00322.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2809,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   815.1,
+   287.7,
+   163.6,
+   148.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\124_LkSY-EuTb1E_00322_unknown.jpg"
+ },
+ {
+  "idx": 125,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00326.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2682,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   815.2,
+   287.5,
+   163.6,
+   148.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\125_LkSY-EuTb1E_00326_unknown.jpg"
+ },
+ {
+  "idx": 126,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00363.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2588,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   512.7,
+   95.7,
+   762.3,
+   524.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\126_LkSY-EuTb1E_00363_unknown.jpg"
+ },
+ {
+  "idx": 127,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00368.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2736,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   141.8,
+   231.2,
+   147.6,
+   183.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\127_LkSY-EuTb1E_00368_unknown.jpg"
+ },
+ {
+  "idx": 128,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00368.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2525,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   143.3,
+   230.0,
+   284.7,
+   215.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\128_LkSY-EuTb1E_00368_unknown.jpg"
+ },
+ {
+  "idx": 129,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00372.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2736,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   898.9,
+   555.2,
+   71.9,
+   60.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\129_LkSY-EuTb1E_00372_unknown.jpg"
+ },
+ {
+  "idx": 130,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00377.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2967,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   12.1,
+   14.5,
+   199.2,
+   70.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\130_LkSY-EuTb1E_00377_unknown.jpg"
+ },
+ {
+  "idx": 131,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00404.jpg",
+  "cvat_label": "unknown",
+  "score": 0.261,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   582.8,
+   125.9,
+   102.4,
+   84.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\131_LkSY-EuTb1E_00404_unknown.jpg"
+ },
+ {
+  "idx": 132,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00409.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2585,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   597.7,
+   327.0,
+   115.7,
+   15.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\132_LkSY-EuTb1E_00409_unknown.jpg"
+ },
+ {
+  "idx": 133,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00409.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2591,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   606.0,
+   350.6,
+   111.1,
+   14.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\133_LkSY-EuTb1E_00409_unknown.jpg"
+ },
+ {
+  "idx": 134,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00418.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2915,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   293.6,
+   307.8,
+   42.7,
+   59.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\134_LkSY-EuTb1E_00418_unknown.jpg"
+ },
+ {
+  "idx": 135,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00432.jpg",
+  "cvat_label": "unknown",
+  "score": 0.369,
+  "verdict": "uncertain",
+  "category": "unknown_label",
+  "bbox_xywh": [
+   251.1,
+   280.5,
+   214.8,
+   240.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\135_LkSY-EuTb1E_00432_unknown.jpg"
+ },
+ {
+  "idx": 136,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00455.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2745,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   743.7,
+   558.9,
+   124.9,
+   159.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\136_LkSY-EuTb1E_00455_unknown.jpg"
+ },
+ {
+  "idx": 137,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00001.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2706,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   384.6,
+   376.6,
+   17.9,
+   29.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\137_Rqlf3zNPqgQ_00001_unknown.jpg"
+ },
+ {
+  "idx": 138,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00031.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2972,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   303.5,
+   385.8,
+   39.6,
+   150.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\138_Rqlf3zNPqgQ_00031_unknown.jpg"
+ },
+ {
+  "idx": 139,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00031.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2959,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   852.9,
+   409.0,
+   19.8,
+   54.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\139_Rqlf3zNPqgQ_00031_unknown.jpg"
+ },
+ {
+  "idx": 140,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00062.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2531,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   178.8,
+   600.2,
+   38.4,
+   15.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\140_Rqlf3zNPqgQ_00062_unknown.jpg"
+ },
+ {
+  "idx": 141,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2661,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   683.3,
+   443.5,
+   62.7,
+   58.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\141_Rqlf3zNPqgQ_00123_unknown.jpg"
+ },
+ {
+  "idx": 142,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2855,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   788.0,
+   514.2,
+   79.9,
+   43.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\142_Rqlf3zNPqgQ_00123_unknown.jpg"
+ },
+ {
+  "idx": 143,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2842,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   869.9,
+   592.9,
+   95.6,
+   22.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\143_Rqlf3zNPqgQ_00123_unknown.jpg"
+ },
+ {
+  "idx": 144,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00154.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2507,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.0,
+   425.0,
+   95.8,
+   154.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\144_Rqlf3zNPqgQ_00154_unknown.jpg"
+ },
+ {
+  "idx": 145,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00169.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2776,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   271.6,
+   501.4,
+   97.1,
+   115.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\145_Rqlf3zNPqgQ_00169_unknown.jpg"
+ },
+ {
+  "idx": 146,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00169.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2968,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   312.0,
+   143.0,
+   234.9,
+   349.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\146_Rqlf3zNPqgQ_00169_unknown.jpg"
+ },
+ {
+  "idx": 147,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00184.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2594,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   302.4,
+   432.5,
+   63.2,
+   56.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\147_Rqlf3zNPqgQ_00184_unknown.jpg"
+ },
+ {
+  "idx": 148,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00184.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2881,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   64.8,
+   223.8,
+   80.5,
+   75.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\148_Rqlf3zNPqgQ_00184_unknown.jpg"
+ },
+ {
+  "idx": 149,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00184.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2845,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   6.6,
+   223.0,
+   138.9,
+   126.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\149_Rqlf3zNPqgQ_00184_unknown.jpg"
+ },
+ {
+  "idx": 150,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00215.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2793,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   563.5,
+   546.7,
+   54.1,
+   69.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\150_Rqlf3zNPqgQ_00215_unknown.jpg"
+ },
+ {
+  "idx": 151,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00230.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2881,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   437.0,
+   296.7,
+   119.3,
+   73.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\151_Rqlf3zNPqgQ_00230_unknown.jpg"
+ },
+ {
+  "idx": 152,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00246.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2776,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   419.4,
+   153.6,
+   433.0,
+   312.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\152_Rqlf3zNPqgQ_00246_unknown.jpg"
+ },
+ {
+  "idx": 153,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00261.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2574,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   353.4,
+   509.0,
+   160.6,
+   80.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\153_Rqlf3zNPqgQ_00261_unknown.jpg"
+ },
+ {
+  "idx": 154,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00276.jpg",
+  "cvat_label": "unknown",
+  "score": 0.32,
+  "verdict": "positive",
+  "category": "drinking_act",
+  "bbox_xywh": [
+   511.5,
+   259.4,
+   398.3,
+   172.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\154_Rqlf3zNPqgQ_00276_unknown.jpg"
+ },
+ {
+  "idx": 155,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00276.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2595,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   512.5,
+   260.0,
+   396.9,
+   171.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\155_Rqlf3zNPqgQ_00276_unknown.jpg"
+ },
+ {
+  "idx": 156,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00292.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2861,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   465.9,
+   418.4,
+   23.4,
+   27.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\156_Rqlf3zNPqgQ_00292_unknown.jpg"
+ },
+ {
+  "idx": 157,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00338.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2569,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   745.3,
+   546.5,
+   103.8,
+   69.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\157_Rqlf3zNPqgQ_00338_unknown.jpg"
+ },
+ {
+  "idx": 158,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00399.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2946,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   271.5,
+   211.6,
+   32.0,
+   29.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\158_Rqlf3zNPqgQ_00399_unknown.jpg"
+ },
+ {
+  "idx": 159,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00414.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3699,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   266.0,
+   407.5,
+   56.1,
+   136.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\159_Rqlf3zNPqgQ_00414_unknown.jpg"
+ },
+ {
+  "idx": 160,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00414.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2915,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   274.0,
+   102.6,
+   52.8,
+   40.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\160_Rqlf3zNPqgQ_00414_unknown.jpg"
+ },
+ {
+  "idx": 161,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00414.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2537,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   745.4,
+   404.9,
+   22.8,
+   37.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\161_Rqlf3zNPqgQ_00414_unknown.jpg"
+ },
+ {
+  "idx": 162,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00414.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2665,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   622.2,
+   318.9,
+   38.0,
+   72.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\162_Rqlf3zNPqgQ_00414_unknown.jpg"
+ },
+ {
+  "idx": 163,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00414.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2507,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   654.4,
+   458.4,
+   58.4,
+   143.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\163_Rqlf3zNPqgQ_00414_unknown.jpg"
+ },
+ {
+  "idx": 164,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00429.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2984,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   689.7,
+   319.9,
+   32.9,
+   45.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\164_Rqlf3zNPqgQ_00429_unknown.jpg"
+ },
+ {
+  "idx": 165,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00429.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2525,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   274.4,
+   102.9,
+   52.8,
+   40.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\165_Rqlf3zNPqgQ_00429_unknown.jpg"
+ },
+ {
+  "idx": 166,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00429.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2785,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   626.0,
+   109.7,
+   109.1,
+   176.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\166_Rqlf3zNPqgQ_00429_unknown.jpg"
+ },
+ {
+  "idx": 167,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00429.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2814,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   656.1,
+   461.0,
+   56.6,
+   103.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\167_Rqlf3zNPqgQ_00429_unknown.jpg"
+ },
+ {
+  "idx": 168,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3763,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   268.8,
+   409.3,
+   56.1,
+   136.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\168_Rqlf3zNPqgQ_00445_unknown.jpg"
+ },
+ {
+  "idx": 169,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2793,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   744.9,
+   406.7,
+   23.9,
+   36.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\169_Rqlf3zNPqgQ_00445_unknown.jpg"
+ },
+ {
+  "idx": 170,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2626,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   728.1,
+   367.7,
+   34.0,
+   73.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\170_Rqlf3zNPqgQ_00445_unknown.jpg"
+ },
+ {
+  "idx": 171,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2938,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   957.7,
+   415.1,
+   40.1,
+   14.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\171_Rqlf3zNPqgQ_00445_unknown.jpg"
+ },
+ {
+  "idx": 172,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00445.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2707,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   671.2,
+   382.5,
+   24.0,
+   25.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\172_Rqlf3zNPqgQ_00445_unknown.jpg"
+ },
+ {
+  "idx": 173,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00491.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2654,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   523.3,
+   101.5,
+   749.3,
+   520.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\173_Rqlf3zNPqgQ_00491_unknown.jpg"
+ },
+ {
+  "idx": 174,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00537.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2831,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1161.6,
+   281.3,
+   116.2,
+   128.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\174_Rqlf3zNPqgQ_00537_unknown.jpg"
+ },
+ {
+  "idx": 175,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00675.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2564,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   205.3,
+   269.0,
+   45.7,
+   42.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\175_Rqlf3zNPqgQ_00675_unknown.jpg"
+ },
+ {
+  "idx": 176,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00705.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2616,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   659.0,
+   323.0,
+   98.2,
+   246.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\176_Rqlf3zNPqgQ_00705_unknown.jpg"
+ },
+ {
+  "idx": 177,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00782.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3535,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   293.1,
+   374.1,
+   140.2,
+   242.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\177_Rqlf3zNPqgQ_00782_unknown.jpg"
+ },
+ {
+  "idx": 178,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00812.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2561,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   194.2,
+   101.7,
+   610.6,
+   513.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\178_Rqlf3zNPqgQ_00812_unknown.jpg"
+ },
+ {
+  "idx": 179,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00828.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2506,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   859.9,
+   99.9,
+   415.4,
+   518.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\179_Rqlf3zNPqgQ_00828_unknown.jpg"
+ },
+ {
+  "idx": 180,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00858.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2707,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   946.2,
+   102.9,
+   314.5,
+   513.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\180_Rqlf3zNPqgQ_00858_unknown.jpg"
+ },
+ {
+  "idx": 181,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_00981.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2546,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   250.6,
+   170.8,
+   374.2,
+   440.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\181_Rqlf3zNPqgQ_00981_unknown.jpg"
+ },
+ {
+  "idx": 182,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01042.jpg",
+  "cvat_label": "unknown",
+  "score": 0.281,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   854.7,
+   402.7,
+   75.5,
+   55.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\182_Rqlf3zNPqgQ_01042_unknown.jpg"
+ },
+ {
+  "idx": 183,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01058.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2736,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   687.5,
+   532.8,
+   70.8,
+   61.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\183_Rqlf3zNPqgQ_01058_unknown.jpg"
+ },
+ {
+  "idx": 184,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01088.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2725,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   238.5,
+   128.0,
+   24.4,
+   63.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\184_Rqlf3zNPqgQ_01088_unknown.jpg"
+ },
+ {
+  "idx": 185,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01088.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2848,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   83.5,
+   374.8,
+   66.0,
+   114.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\185_Rqlf3zNPqgQ_01088_unknown.jpg"
+ },
+ {
+  "idx": 186,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01150.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2696,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1169.5,
+   209.4,
+   38.3,
+   33.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\186_Rqlf3zNPqgQ_01150_unknown.jpg"
+ },
+ {
+  "idx": 187,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01165.jpg",
+  "cvat_label": "unknown",
+  "score": 0.263,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   530.2,
+   208.7,
+   13.7,
+   37.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\187_Rqlf3zNPqgQ_01165_unknown.jpg"
+ },
+ {
+  "idx": 188,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01195.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2797,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1001.8,
+   311.1,
+   20.1,
+   34.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\188_Rqlf3zNPqgQ_01195_unknown.jpg"
+ },
+ {
+  "idx": 189,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01195.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2669,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1025.6,
+   305.8,
+   18.9,
+   36.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\189_Rqlf3zNPqgQ_01195_unknown.jpg"
+ },
+ {
+  "idx": 190,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01195.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2519,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1034.7,
+   380.5,
+   23.5,
+   66.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\190_Rqlf3zNPqgQ_01195_unknown.jpg"
+ },
+ {
+  "idx": 191,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01287.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2893,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   2.0,
+   101.6,
+   186.2,
+   514.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\191_Rqlf3zNPqgQ_01287_unknown.jpg"
+ },
+ {
+  "idx": 192,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01303.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2525,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1125.9,
+   326.9,
+   17.1,
+   39.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\192_Rqlf3zNPqgQ_01303_unknown.jpg"
+ },
+ {
+  "idx": 193,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01379.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2812,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   609.8,
+   252.5,
+   22.2,
+   21.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\193_Rqlf3zNPqgQ_01379_unknown.jpg"
+ },
+ {
+  "idx": 194,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01379.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2583,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   336.3,
+   183.6,
+   490.3,
+   433.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\194_Rqlf3zNPqgQ_01379_unknown.jpg"
+ },
+ {
+  "idx": 195,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01425.jpg",
+  "cvat_label": "unknown",
+  "score": 0.282,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   555.3,
+   304.2,
+   720.0,
+   310.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\195_Rqlf3zNPqgQ_01425_unknown.jpg"
+ },
+ {
+  "idx": 196,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01487.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2729,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   455.1,
+   308.5,
+   13.3,
+   20.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\196_Rqlf3zNPqgQ_01487_unknown.jpg"
+ },
+ {
+  "idx": 197,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01487.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2969,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1238.5,
+   410.5,
+   25.7,
+   37.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\197_Rqlf3zNPqgQ_01487_unknown.jpg"
+ },
+ {
+  "idx": 198,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00023.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2932,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   658.1,
+   488.2,
+   33.4,
+   105.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\198_sMpzdgHrINs_00023_unknown.jpg"
+ },
+ {
+  "idx": 199,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00023.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2863,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   650.0,
+   525.0,
+   32.0,
+   100.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\199_sMpzdgHrINs_00023_unknown.jpg"
+ },
+ {
+  "idx": 200,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00035.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2526,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1.8,
+   268.9,
+   437.9,
+   359.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\200_sMpzdgHrINs_00035_unknown.jpg"
+ },
+ {
+  "idx": 201,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00058.jpg",
+  "cvat_label": "unknown",
+  "score": 0.4626,
+  "verdict": "positive",
+  "category": "explosion",
+  "bbox_xywh": [
+   508.4,
+   236.4,
+   264.7,
+   259.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\201_sMpzdgHrINs_00058_unknown.jpg"
+ },
+ {
+  "idx": 202,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00081.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2599,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   271.0,
+   358.0,
+   23.1,
+   25.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\202_sMpzdgHrINs_00081_unknown.jpg"
+ },
+ {
+  "idx": 203,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00081.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2818,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   243.6,
+   502.4,
+   66.3,
+   76.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\203_sMpzdgHrINs_00081_unknown.jpg"
+ },
+ {
+  "idx": 204,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00092.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2995,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1057.8,
+   333.3,
+   40.4,
+   112.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\204_sMpzdgHrINs_00092_unknown.jpg"
+ },
+ {
+  "idx": 205,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00092.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2983,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   2.3,
+   190.8,
+   693.5,
+   445.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\205_sMpzdgHrINs_00092_unknown.jpg"
+ },
+ {
+  "idx": 206,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00092.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2508,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1018.6,
+   257.3,
+   19.4,
+   37.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\206_sMpzdgHrINs_00092_unknown.jpg"
+ },
+ {
+  "idx": 207,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00092.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2538,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1059.1,
+   333.7,
+   20.1,
+   44.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\207_sMpzdgHrINs_00092_unknown.jpg"
+ },
+ {
+  "idx": 208,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00149.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2571,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   595.0,
+   162.2,
+   81.7,
+   92.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\208_sMpzdgHrINs_00149_unknown.jpg"
+ },
+ {
+  "idx": 209,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00161.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2683,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   857.0,
+   502.8,
+   96.4,
+   127.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\209_sMpzdgHrINs_00161_unknown.jpg"
+ },
+ {
+  "idx": 210,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00161.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2954,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   532.3,
+   378.6,
+   45.3,
+   80.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\210_sMpzdgHrINs_00161_unknown.jpg"
+ },
+ {
+  "idx": 211,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00161.jpg",
+  "cvat_label": "unknown",
+  "score": 0.27,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   885.8,
+   504.3,
+   67.5,
+   125.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\211_sMpzdgHrINs_00161_unknown.jpg"
+ },
+ {
+  "idx": 212,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2949,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   462.1,
+   473.0,
+   43.5,
+   61.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\212_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 213,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2634,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   570.3,
+   501.7,
+   48.9,
+   106.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\213_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 214,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2966,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   732.3,
+   539.6,
+   233.4,
+   79.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\214_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 215,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2515,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1070.4,
+   153.5,
+   73.2,
+   35.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\215_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 216,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2867,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   733.6,
+   581.9,
+   209.3,
+   47.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\216_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 217,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2773,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   216.5,
+   453.3,
+   49.3,
+   169.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\217_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 218,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2639,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   729.9,
+   578.0,
+   237.6,
+   40.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\218_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 219,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00172.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2775,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   569.5,
+   501.5,
+   50.0,
+   126.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\219_sMpzdgHrINs_00172_unknown.jpg"
+ },
+ {
+  "idx": 220,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00218.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2608,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   616.0,
+   102.5,
+   156.6,
+   105.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\220_sMpzdgHrINs_00218_unknown.jpg"
+ },
+ {
+  "idx": 221,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00321.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2525,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   739.0,
+   554.8,
+   33.3,
+   40.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\221_sMpzdgHrINs_00321_unknown.jpg"
+ },
+ {
+  "idx": 222,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00344.jpg",
+  "cvat_label": "unknown",
+  "score": 0.293,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   207.3,
+   271.5,
+   78.4,
+   93.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\222_sMpzdgHrINs_00344_unknown.jpg"
+ },
+ {
+  "idx": 223,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00459.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2504,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   899.0,
+   274.3,
+   16.2,
+   37.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\223_sMpzdgHrINs_00459_unknown.jpg"
+ },
+ {
+  "idx": 224,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00470.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3007,
+  "verdict": "uncertain",
+  "category": "unknown_label",
+  "bbox_xywh": [
+   1103.3,
+   297.4,
+   174.4,
+   142.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\224_sMpzdgHrINs_00470_unknown.jpg"
+ },
+ {
+  "idx": 225,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00493.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2873,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1013.4,
+   311.0,
+   73.0,
+   101.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\225_sMpzdgHrINs_00493_unknown.jpg"
+ },
+ {
+  "idx": 226,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00493.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2655,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   202.8,
+   326.3,
+   148.9,
+   89.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\226_sMpzdgHrINs_00493_unknown.jpg"
+ },
+ {
+  "idx": 227,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00504.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2568,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   762.1,
+   401.1,
+   141.2,
+   234.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\227_sMpzdgHrINs_00504_unknown.jpg"
+ },
+ {
+  "idx": 228,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00516.jpg",
+  "cvat_label": "unknown",
+  "score": 0.281,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   338.3,
+   480.5,
+   34.4,
+   74.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\228_sMpzdgHrINs_00516_unknown.jpg"
+ },
+ {
+  "idx": 229,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00516.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2674,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   211.9,
+   504.7,
+   37.5,
+   79.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\229_sMpzdgHrINs_00516_unknown.jpg"
+ },
+ {
+  "idx": 230,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00516.jpg",
+  "cvat_label": "unknown",
+  "score": 0.25,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   48.9,
+   419.7,
+   28.7,
+   59.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\230_sMpzdgHrINs_00516_unknown.jpg"
+ },
+ {
+  "idx": 231,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00642.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2532,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.9,
+   150.0,
+   955.4,
+   540.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\231_sMpzdgHrINs_00642_unknown.jpg"
+ },
+ {
+  "idx": 232,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00653.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2549,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   560.7,
+   89.8,
+   70.6,
+   61.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\232_sMpzdgHrINs_00653_unknown.jpg"
+ },
+ {
+  "idx": 233,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00676.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2554,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1049.7,
+   89.4,
+   228.1,
+   540.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\233_sMpzdgHrINs_00676_unknown.jpg"
+ },
+ {
+  "idx": 234,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00768.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2958,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1175.7,
+   441.9,
+   72.3,
+   65.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\234_sMpzdgHrINs_00768_unknown.jpg"
+ },
+ {
+  "idx": 235,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00768.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2662,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   312.5,
+   447.9,
+   134.7,
+   82.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\235_sMpzdgHrINs_00768_unknown.jpg"
+ },
+ {
+  "idx": 236,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00779.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2665,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   279.1,
+   90.0,
+   955.8,
+   534.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\236_sMpzdgHrINs_00779_unknown.jpg"
+ },
+ {
+  "idx": 237,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00848.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2557,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   50.7,
+   105.2,
+   317.5,
+   450.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\237_sMpzdgHrINs_00848_unknown.jpg"
+ },
+ {
+  "idx": 238,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00848.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2787,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   184.0,
+   344.0,
+   166.6,
+   78.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\238_sMpzdgHrINs_00848_unknown.jpg"
+ },
+ {
+  "idx": 239,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00871.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2603,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   675.8,
+   392.9,
+   19.0,
+   36.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\239_sMpzdgHrINs_00871_unknown.jpg"
+ },
+ {
+  "idx": 240,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00871.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2549,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   645.1,
+   355.0,
+   13.9,
+   59.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\240_sMpzdgHrINs_00871_unknown.jpg"
+ },
+ {
+  "idx": 241,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00882.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2756,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   517.0,
+   422.4,
+   56.3,
+   47.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\241_sMpzdgHrINs_00882_unknown.jpg"
+ },
+ {
+  "idx": 242,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00928.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2581,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.4,
+   147.5,
+   956.0,
+   536.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\242_sMpzdgHrINs_00928_unknown.jpg"
+ },
+ {
+  "idx": 243,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00939.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2552,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   15.7,
+   397.7,
+   151.7,
+   86.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\243_sMpzdgHrINs_00939_unknown.jpg"
+ },
+ {
+  "idx": 244,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00951.jpg",
+  "cvat_label": "unknown",
+  "score": 0.269,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1020.8,
+   558.5,
+   43.7,
+   72.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\244_sMpzdgHrINs_00951_unknown.jpg"
+ },
+ {
+  "idx": 245,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00951.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2973,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   202.1,
+   90.1,
+   194.6,
+   167.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\245_sMpzdgHrINs_00951_unknown.jpg"
+ },
+ {
+  "idx": 246,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00951.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2523,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.6,
+   89.2,
+   392.6,
+   171.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\246_sMpzdgHrINs_00951_unknown.jpg"
+ },
+ {
+  "idx": 247,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00962.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2903,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   67.4,
+   213.4,
+   81.3,
+   45.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\247_sMpzdgHrINs_00962_unknown.jpg"
+ },
+ {
+  "idx": 248,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00962.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2984,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   402.9,
+   307.1,
+   52.5,
+   81.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\248_sMpzdgHrINs_00962_unknown.jpg"
+ },
+ {
+  "idx": 249,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_00962.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2511,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   123.8,
+   364.7,
+   51.7,
+   84.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\249_sMpzdgHrINs_00962_unknown.jpg"
+ },
+ {
+  "idx": 250,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01031.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3165,
+  "verdict": "uncertain",
+  "category": "unknown_label",
+  "bbox_xywh": [
+   191.4,
+   445.4,
+   238.3,
+   135.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\250_sMpzdgHrINs_01031_unknown.jpg"
+ },
+ {
+  "idx": 251,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01031.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2757,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   6.0,
+   459.2,
+   200.0,
+   103.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\251_sMpzdgHrINs_01031_unknown.jpg"
+ },
+ {
+  "idx": 252,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01031.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2587,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   470.7,
+   107.4,
+   95.2,
+   39.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\252_sMpzdgHrINs_01031_unknown.jpg"
+ },
+ {
+  "idx": 253,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01031.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2635,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   8.7,
+   441.2,
+   579.8,
+   138.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\253_sMpzdgHrINs_01031_unknown.jpg"
+ },
+ {
+  "idx": 254,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01054.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2928,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   885.5,
+   116.9,
+   392.1,
+   288.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\254_sMpzdgHrINs_01054_unknown.jpg"
+ },
+ {
+  "idx": 255,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01054.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2902,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   82.2,
+   180.0,
+   235.0,
+   182.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\255_sMpzdgHrINs_01054_unknown.jpg"
+ },
+ {
+  "idx": 256,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01077.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2894,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   45.9,
+   245.8,
+   44.7,
+   130.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\256_sMpzdgHrINs_01077_unknown.jpg"
+ },
+ {
+  "idx": 257,
+  "vid": "sMpzdgHrINs",
+  "frame": "sMpzdgHrINs_frame_01088.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2536,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.0,
+   147.0,
+   963.0,
+   540.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\257_sMpzdgHrINs_01088_unknown.jpg"
+ },
+ {
+  "idx": 258,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00036.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2547,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   968.4,
+   418.5,
+   166.1,
+   72.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\258_vyXEi00PVrw_00036_unknown.jpg"
+ },
+ {
+  "idx": 259,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00135.jpg",
+  "cvat_label": "unknown",
+  "score": 0.254,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   673.1,
+   226.5,
+   604.5,
+   404.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\259_vyXEi00PVrw_00135_unknown.jpg"
+ },
+ {
+  "idx": 260,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00144.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2716,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   23.5,
+   86.1,
+   45.1,
+   62.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\260_vyXEi00PVrw_00144_unknown.jpg"
+ },
+ {
+  "idx": 261,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00153.jpg",
+  "cvat_label": "unknown",
+  "score": 0.298,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   2.0,
+   379.9,
+   374.6,
+   223.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\261_vyXEi00PVrw_00153_unknown.jpg"
+ },
+ {
+  "idx": 262,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00180.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2513,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   28.1,
+   1.3,
+   87.5,
+   82.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\262_vyXEi00PVrw_00180_unknown.jpg"
+ },
+ {
+  "idx": 263,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00198.jpg",
+  "cvat_label": "unknown",
+  "score": 0.291,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   314.8,
+   176.9,
+   322.4,
+   380.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\263_vyXEi00PVrw_00198_unknown.jpg"
+ },
+ {
+  "idx": 264,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00287.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2915,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   824.4,
+   154.4,
+   298.0,
+   202.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\264_vyXEi00PVrw_00287_unknown.jpg"
+ },
+ {
+  "idx": 265,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00287.jpg",
+  "cvat_label": "unknown",
+  "score": 0.268,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   943.2,
+   84.3,
+   335.0,
+   445.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\265_vyXEi00PVrw_00287_unknown.jpg"
+ },
+ {
+  "idx": 266,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00305.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2567,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   711.8,
+   346.6,
+   21.0,
+   36.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\266_vyXEi00PVrw_00305_unknown.jpg"
+ },
+ {
+  "idx": 267,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00305.jpg",
+  "cvat_label": "unknown",
+  "score": 0.288,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   651.5,
+   284.7,
+   15.4,
+   42.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\267_vyXEi00PVrw_00305_unknown.jpg"
+ },
+ {
+  "idx": 268,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2564,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   188.7,
+   534.9,
+   70.0,
+   95.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\268_vyXEi00PVrw_00314_unknown.jpg"
+ },
+ {
+  "idx": 269,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2906,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   262.7,
+   572.1,
+   44.3,
+   58.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\269_vyXEi00PVrw_00314_unknown.jpg"
+ },
+ {
+  "idx": 270,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "unknown",
+  "score": 0.276,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   193.1,
+   534.8,
+   64.5,
+   77.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\270_vyXEi00PVrw_00314_unknown.jpg"
+ },
+ {
+  "idx": 271,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2535,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   163.9,
+   508.7,
+   48.7,
+   73.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\271_vyXEi00PVrw_00314_unknown.jpg"
+ },
+ {
+  "idx": 272,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2991,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   50.7,
+   511.2,
+   68.2,
+   63.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\272_vyXEi00PVrw_00314_unknown.jpg"
+ },
+ {
+  "idx": 273,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00314.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2537,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   116.9,
+   499.8,
+   51.7,
+   130.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\273_vyXEi00PVrw_00314_unknown.jpg"
+ },
+ {
+  "idx": 274,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00323.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2934,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   296.5,
+   266.1,
+   23.2,
+   12.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\274_vyXEi00PVrw_00323_unknown.jpg"
+ },
+ {
+  "idx": 275,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00404.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2525,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   282.9,
+   221.2,
+   397.0,
+   210.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\275_vyXEi00PVrw_00404_unknown.jpg"
+ },
+ {
+  "idx": 276,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00404.jpg",
+  "cvat_label": "unknown",
+  "score": 0.286,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   284.6,
+   222.7,
+   393.4,
+   206.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\276_vyXEi00PVrw_00404_unknown.jpg"
+ },
+ {
+  "idx": 277,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00413.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2502,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   514.7,
+   503.9,
+   42.6,
+   31.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\277_vyXEi00PVrw_00413_unknown.jpg"
+ },
+ {
+  "idx": 278,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00413.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2973,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   986.1,
+   536.5,
+   101.5,
+   94.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\278_vyXEi00PVrw_00413_unknown.jpg"
+ },
+ {
+  "idx": 279,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00457.jpg",
+  "cvat_label": "unknown",
+  "score": 0.281,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   892.8,
+   86.3,
+   384.6,
+   240.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\279_vyXEi00PVrw_00457_unknown.jpg"
+ },
+ {
+  "idx": 280,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00484.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3523,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   171.8,
+   332.3,
+   211.7,
+   188.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\280_vyXEi00PVrw_00484_unknown.jpg"
+ },
+ {
+  "idx": 281,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00646.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2789,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   637.6,
+   484.2,
+   126.2,
+   101.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\281_vyXEi00PVrw_00646_unknown.jpg"
+ },
+ {
+  "idx": 282,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00664.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2503,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   265.3,
+   408.9,
+   100.8,
+   158.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\282_vyXEi00PVrw_00664_unknown.jpg"
+ },
+ {
+  "idx": 283,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00780.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2788,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   952.2,
+   509.2,
+   40.7,
+   51.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\283_vyXEi00PVrw_00780_unknown.jpg"
+ },
+ {
+  "idx": 284,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00789.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2554,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   627.0,
+   252.2,
+   121.0,
+   273.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\284_vyXEi00PVrw_00789_unknown.jpg"
+ },
+ {
+  "idx": 285,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00879.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2937,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   554.0,
+   242.5,
+   203.6,
+   226.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\285_vyXEi00PVrw_00879_unknown.jpg"
+ },
+ {
+  "idx": 286,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00001.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2841,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   467.6,
+   265.4,
+   143.9,
+   144.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\286_wBr3f72w-fg_00001_unknown.jpg"
+ },
+ {
+  "idx": 287,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00036.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2529,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   632.0,
+   169.2,
+   13.8,
+   33.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\287_wBr3f72w-fg_00036_unknown.jpg"
+ },
+ {
+  "idx": 288,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00048.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2745,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   914.1,
+   94.4,
+   62.0,
+   43.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\288_wBr3f72w-fg_00048_unknown.jpg"
+ },
+ {
+  "idx": 289,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00095.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2604,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1230.5,
+   139.9,
+   43.2,
+   47.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\289_wBr3f72w-fg_00095_unknown.jpg"
+ },
+ {
+  "idx": 290,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00131.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2617,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   903.5,
+   366.2,
+   187.9,
+   170.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\290_wBr3f72w-fg_00131_unknown.jpg"
+ },
+ {
+  "idx": 291,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00178.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2603,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   322.1,
+   236.7,
+   127.4,
+   131.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\291_wBr3f72w-fg_00178_unknown.jpg"
+ },
+ {
+  "idx": 292,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00190.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2522,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   778.7,
+   299.2,
+   278.2,
+   295.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\292_wBr3f72w-fg_00190_unknown.jpg"
+ },
+ {
+  "idx": 293,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00237.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2512,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   164.1,
+   80.1,
+   748.6,
+   556.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\293_wBr3f72w-fg_00237_unknown.jpg"
+ },
+ {
+  "idx": 294,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00261.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2743,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   606.5,
+   438.2,
+   126.7,
+   64.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\294_wBr3f72w-fg_00261_unknown.jpg"
+ },
+ {
+  "idx": 295,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00355.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2775,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   764.7,
+   264.1,
+   26.7,
+   95.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\295_wBr3f72w-fg_00355_unknown.jpg"
+ },
+ {
+  "idx": 296,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2951,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   463.7,
+   434.2,
+   119.8,
+   37.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\296_wBr3f72w-fg_00426_unknown.jpg"
+ },
+ {
+  "idx": 297,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2541,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   702.0,
+   385.7,
+   55.2,
+   27.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\297_wBr3f72w-fg_00426_unknown.jpg"
+ },
+ {
+  "idx": 298,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2749,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   575.4,
+   251.4,
+   75.7,
+   71.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\298_wBr3f72w-fg_00426_unknown.jpg"
+ },
+ {
+  "idx": 299,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2921,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   245.1,
+   253.3,
+   56.7,
+   78.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\299_wBr3f72w-fg_00426_unknown.jpg"
+ },
+ {
+  "idx": 300,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00426.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2651,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   710.7,
+   182.0,
+   47.9,
+   50.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\300_wBr3f72w-fg_00426_unknown.jpg"
+ },
+ {
+  "idx": 301,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00497.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2628,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   652.1,
+   167.2,
+   132.5,
+   59.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\301_wBr3f72w-fg_00497_unknown.jpg"
+ },
+ {
+  "idx": 302,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00509.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3533,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   739.1,
+   447.3,
+   133.4,
+   85.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\302_wBr3f72w-fg_00509_unknown.jpg"
+ },
+ {
+  "idx": 303,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00509.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2748,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   54.8,
+   259.4,
+   960.0,
+   372.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\303_wBr3f72w-fg_00509_unknown.jpg"
+ },
+ {
+  "idx": 304,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00509.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2688,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   34.2,
+   248.1,
+   1235.7,
+   386.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\304_wBr3f72w-fg_00509_unknown.jpg"
+ },
+ {
+  "idx": 305,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00544.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3665,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   762.4,
+   270.2,
+   202.0,
+   226.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\305_wBr3f72w-fg_00544_unknown.jpg"
+ },
+ {
+  "idx": 306,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00556.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2926,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   66.6,
+   522.0,
+   44.1,
+   28.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\306_wBr3f72w-fg_00556_unknown.jpg"
+ },
+ {
+  "idx": 307,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00568.jpg",
+  "cvat_label": "unknown",
+  "score": 0.276,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   400.9,
+   291.5,
+   31.3,
+   93.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\307_wBr3f72w-fg_00568_unknown.jpg"
+ },
+ {
+  "idx": 308,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00568.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2566,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   459.1,
+   532.7,
+   55.9,
+   23.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\308_wBr3f72w-fg_00568_unknown.jpg"
+ },
+ {
+  "idx": 309,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00580.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2828,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   841.3,
+   364.9,
+   377.7,
+   273.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\309_wBr3f72w-fg_00580_unknown.jpg"
+ },
+ {
+  "idx": 310,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00615.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2627,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   583.4,
+   294.6,
+   121.9,
+   132.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\310_wBr3f72w-fg_00615_unknown.jpg"
+ },
+ {
+  "idx": 311,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00627.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2547,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   602.4,
+   562.1,
+   198.4,
+   76.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\311_wBr3f72w-fg_00627_unknown.jpg"
+ },
+ {
+  "idx": 312,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00781.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2719,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   875.6,
+   91.1,
+   400.5,
+   549.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\312_wBr3f72w-fg_00781_unknown.jpg"
+ },
+ {
+  "idx": 313,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00792.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2688,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   551.1,
+   505.9,
+   50.6,
+   32.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\313_wBr3f72w-fg_00792_unknown.jpg"
+ },
+ {
+  "idx": 314,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00804.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2923,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   803.4,
+   361.2,
+   51.5,
+   125.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\314_wBr3f72w-fg_00804_unknown.jpg"
+ },
+ {
+  "idx": 315,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00804.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2576,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   479.0,
+   362.7,
+   48.4,
+   128.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\315_wBr3f72w-fg_00804_unknown.jpg"
+ },
+ {
+  "idx": 316,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00804.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2663,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   719.5,
+   340.7,
+   31.7,
+   89.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\316_wBr3f72w-fg_00804_unknown.jpg"
+ },
+ {
+  "idx": 317,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00816.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2961,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   3.1,
+   504.7,
+   318.0,
+   134.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\317_wBr3f72w-fg_00816_unknown.jpg"
+ },
+ {
+  "idx": 318,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00840.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2681,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   209.1,
+   547.6,
+   62.3,
+   89.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\318_wBr3f72w-fg_00840_unknown.jpg"
+ },
+ {
+  "idx": 319,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00958.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2565,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   163.5,
+   426.2,
+   124.1,
+   91.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\319_wBr3f72w-fg_00958_unknown.jpg"
+ },
+ {
+  "idx": 320,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00958.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2596,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.9,
+   242.7,
+   281.9,
+   387.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\320_wBr3f72w-fg_00958_unknown.jpg"
+ },
+ {
+  "idx": 321,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01017.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2699,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   695.9,
+   512.8,
+   58.5,
+   118.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\321_wBr3f72w-fg_01017_unknown.jpg"
+ },
+ {
+  "idx": 322,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01017.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2508,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1067.4,
+   523.3,
+   43.2,
+   98.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\322_wBr3f72w-fg_01017_unknown.jpg"
+ },
+ {
+  "idx": 323,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01017.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2637,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   743.2,
+   159.4,
+   156.7,
+   424.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\323_wBr3f72w-fg_01017_unknown.jpg"
+ },
+ {
+  "idx": 324,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01017.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2535,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   742.4,
+   159.2,
+   157.2,
+   457.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\324_wBr3f72w-fg_01017_unknown.jpg"
+ },
+ {
+  "idx": 325,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01029.jpg",
+  "cvat_label": "unknown",
+  "score": 0.281,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1119.8,
+   287.3,
+   156.7,
+   349.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\325_wBr3f72w-fg_01029_unknown.jpg"
+ },
+ {
+  "idx": 326,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01052.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2632,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   4.8,
+   202.2,
+   531.9,
+   176.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\326_wBr3f72w-fg_01052_unknown.jpg"
+ },
+ {
+  "idx": 327,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01076.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2651,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   294.3,
+   203.7,
+   48.8,
+   55.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\327_wBr3f72w-fg_01076_unknown.jpg"
+ },
+ {
+  "idx": 328,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01100.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2866,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   769.5,
+   442.8,
+   22.8,
+   43.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\328_wBr3f72w-fg_01100_unknown.jpg"
+ },
+ {
+  "idx": 329,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01100.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2501,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   838.9,
+   401.9,
+   21.1,
+   31.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\329_wBr3f72w-fg_01100_unknown.jpg"
+ },
+ {
+  "idx": 330,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_01171.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2523,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1133.8,
+   452.6,
+   48.0,
+   109.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\330_wBr3f72w-fg_01171_unknown.jpg"
+ },
+ {
+  "idx": 331,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00036.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2728,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   609.5,
+   461.9,
+   16.5,
+   12.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\331_x2PjLCMrfTk_00036_unknown.jpg"
+ },
+ {
+  "idx": 332,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00054.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3194,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   496.9,
+   465.8,
+   126.4,
+   136.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\332_x2PjLCMrfTk_00054_unknown.jpg"
+ },
+ {
+  "idx": 333,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00054.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2946,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   161.3,
+   468.8,
+   201.1,
+   109.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\333_x2PjLCMrfTk_00054_unknown.jpg"
+ },
+ {
+  "idx": 334,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00054.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2958,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1182.6,
+   279.0,
+   95.6,
+   240.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\334_x2PjLCMrfTk_00054_unknown.jpg"
+ },
+ {
+  "idx": 335,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00108.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2556,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   25.6,
+   92.2,
+   968.7,
+   531.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\335_x2PjLCMrfTk_00108_unknown.jpg"
+ },
+ {
+  "idx": 336,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00288.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2759,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   291.3,
+   88.6,
+   933.2,
+   544.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\336_x2PjLCMrfTk_00288_unknown.jpg"
+ },
+ {
+  "idx": 337,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00305.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2846,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   134.1,
+   263.9,
+   195.2,
+   162.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\337_x2PjLCMrfTk_00305_unknown.jpg"
+ },
+ {
+  "idx": 338,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00395.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2746,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   6.4,
+   5.5,
+   167.9,
+   71.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\338_x2PjLCMrfTk_00395_unknown.jpg"
+ },
+ {
+  "idx": 339,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00413.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2952,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   6.4,
+   5.8,
+   166.4,
+   71.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\339_x2PjLCMrfTk_00413_unknown.jpg"
+ },
+ {
+  "idx": 340,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00413.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2576,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   394.3,
+   82.2,
+   553.8,
+   490.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\340_x2PjLCMrfTk_00413_unknown.jpg"
+ },
+ {
+  "idx": 341,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00485.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2839,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   195.3,
+   493.7,
+   20.6,
+   63.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\341_x2PjLCMrfTk_00485_unknown.jpg"
+ },
+ {
+  "idx": 342,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00485.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2771,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   174.6,
+   496.0,
+   24.6,
+   63.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\342_x2PjLCMrfTk_00485_unknown.jpg"
+ },
+ {
+  "idx": 343,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00485.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2929,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   632.7,
+   380.9,
+   75.7,
+   181.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\343_x2PjLCMrfTk_00485_unknown.jpg"
+ },
+ {
+  "idx": 344,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00557.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2825,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   730.3,
+   96.6,
+   323.9,
+   432.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\344_x2PjLCMrfTk_00557_unknown.jpg"
+ },
+ {
+  "idx": 345,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00557.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2826,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   408.4,
+   89.3,
+   655.3,
+   537.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\345_x2PjLCMrfTk_00557_unknown.jpg"
+ },
+ {
+  "idx": 346,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00575.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2803,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   513.4,
+   256.1,
+   18.8,
+   45.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\346_x2PjLCMrfTk_00575_unknown.jpg"
+ },
+ {
+  "idx": 347,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00593.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2786,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   532.2,
+   407.2,
+   288.2,
+   225.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\347_x2PjLCMrfTk_00593_unknown.jpg"
+ },
+ {
+  "idx": 348,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00682.jpg",
+  "cvat_label": "unknown",
+  "score": 0.292,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.7,
+   5.6,
+   168.8,
+   72.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\348_x2PjLCMrfTk_00682_unknown.jpg"
+ },
+ {
+  "idx": 349,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00682.jpg",
+  "cvat_label": "unknown",
+  "score": 0.269,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   326.4,
+   83.3,
+   538.2,
+   538.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\349_x2PjLCMrfTk_00682_unknown.jpg"
+ },
+ {
+  "idx": 350,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00736.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2566,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1081.3,
+   279.3,
+   195.8,
+   135.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\350_x2PjLCMrfTk_00736_unknown.jpg"
+ },
+ {
+  "idx": 351,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00808.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2919,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   203.9,
+   469.9,
+   37.8,
+   75.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\351_x2PjLCMrfTk_00808_unknown.jpg"
+ },
+ {
+  "idx": 352,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00808.jpg",
+  "cvat_label": "unknown",
+  "score": 0.254,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   24.5,
+   522.5,
+   51.4,
+   109.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\352_x2PjLCMrfTk_00808_unknown.jpg"
+ },
+ {
+  "idx": 353,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00880.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2674,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1124.3,
+   373.8,
+   99.0,
+   85.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\353_x2PjLCMrfTk_00880_unknown.jpg"
+ },
+ {
+  "idx": 354,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00951.jpg",
+  "cvat_label": "unknown",
+  "score": 0.3091,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   193.3,
+   86.7,
+   110.7,
+   222.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\354_x2PjLCMrfTk_00951_unknown.jpg"
+ },
+ {
+  "idx": 355,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00951.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2993,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   865.8,
+   87.0,
+   152.0,
+   239.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\355_x2PjLCMrfTk_00951_unknown.jpg"
+ },
+ {
+  "idx": 356,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01041.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2535,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   420.6,
+   532.5,
+   41.3,
+   31.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\356_x2PjLCMrfTk_01041_unknown.jpg"
+ },
+ {
+  "idx": 357,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01149.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2722,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   470.0,
+   201.0,
+   481.6,
+   432.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\357_x2PjLCMrfTk_01149_unknown.jpg"
+ },
+ {
+  "idx": 358,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01167.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2758,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1.2,
+   310.7,
+   89.8,
+   323.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\358_x2PjLCMrfTk_01167_unknown.jpg"
+ },
+ {
+  "idx": 359,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01167.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2641,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   5.9,
+   5.5,
+   168.4,
+   72.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\359_x2PjLCMrfTk_01167_unknown.jpg"
+ },
+ {
+  "idx": 360,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01238.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2965,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   51.9,
+   322.5,
+   1147.7,
+   208.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\360_x2PjLCMrfTk_01238_unknown.jpg"
+ },
+ {
+  "idx": 361,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01310.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2709,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   517.6,
+   150.6,
+   755.4,
+   514.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\361_x2PjLCMrfTk_01310_unknown.jpg"
+ },
+ {
+  "idx": 362,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01310.jpg",
+  "cvat_label": "unknown",
+  "score": 0.263,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   520.2,
+   152.2,
+   746.6,
+   501.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\362_x2PjLCMrfTk_01310_unknown.jpg"
+ },
+ {
+  "idx": 363,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01310.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2593,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   1083.8,
+   234.2,
+   194.0,
+   145.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\363_x2PjLCMrfTk_01310_unknown.jpg"
+ },
+ {
+  "idx": 364,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01310.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2543,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   521.6,
+   176.1,
+   658.0,
+   205.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\364_x2PjLCMrfTk_01310_unknown.jpg"
+ },
+ {
+  "idx": 365,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01328.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2637,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   120.2,
+   152.1,
+   774.1,
+   350.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\365_x2PjLCMrfTk_01328_unknown.jpg"
+ },
+ {
+  "idx": 366,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01490.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2576,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   198.2,
+   394.2,
+   161.5,
+   124.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\366_x2PjLCMrfTk_01490_unknown.jpg"
+ },
+ {
+  "idx": 367,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01543.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2614,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   125.2,
+   555.7,
+   1027.6,
+   64.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\367_x2PjLCMrfTk_01543_unknown.jpg"
+ },
+ {
+  "idx": 368,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01597.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2616,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   80.0,
+   554.3,
+   1123.6,
+   67.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\368_x2PjLCMrfTk_01597_unknown.jpg"
+ },
+ {
+  "idx": 369,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01615.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2528,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   561.1,
+   90.2,
+   492.2,
+   433.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\369_x2PjLCMrfTk_01615_unknown.jpg"
+ },
+ {
+  "idx": 370,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01615.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2534,
+  "verdict": "unknown",
+  "category": "concat_label",
+  "bbox_xywh": [
+   907.5,
+   418.0,
+   77.3,
+   107.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\370_x2PjLCMrfTk_01615_unknown.jpg"
+ },
+ {
+  "idx": 371,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01633.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2782,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   331.1,
+   556.1,
+   616.8,
+   62.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\371_x2PjLCMrfTk_01633_unknown.jpg"
+ },
+ {
+  "idx": 372,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01669.jpg",
+  "cvat_label": "unknown",
+  "score": 0.2512,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   6.4,
+   5.9,
+   167.1,
+   71.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p3_unknown\\372_x2PjLCMrfTk_01669_unknown.jpg"
+ }
+]

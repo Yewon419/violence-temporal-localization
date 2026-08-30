@@ -1,0 +1,59 @@
+11:10:22 [INFO] log file: C:\Users\windg\Desktop\SCHOOL\3-1\데이터엔지니어링\project2\data\logs\crawl_yt_drama_20260529_111022.log
+11:10:22 [INFO] targets: 10 videos
+11:10:22 [INFO] video dir: C:\Users\windg\Desktop\SCHOOL\3-1\데이터엔지니어링\project2\data\raw\yt_drama
+11:10:22 [INFO] frames dir: C:\Users\windg\Desktop\SCHOOL\3-1\데이터엔지니어링\project2\data\processed\yt_drama_frames
+11:10:22 [INFO] KEYFRAMES_PER_MINUTE: 30
+11:10:22 [INFO] ffmpeg: C:\Users\windg\Desktop\SCHOOL\3-1\데이터엔지니어링\project2\.venv\lib\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe
+11:10:22 [INFO] ============================================================
+11:10:22 [INFO] --- [1/10] vyXEi00PVrw | 신세계 ---
+11:10:28 [INFO] [vyXEi00PVrw] downloaded (72.4 MB) → vyXEi00PVrw.mp4
+11:10:28 [INFO] [vyXEi00PVrw] duration=896s → requesting 448 keyframes
+11:20:35 [INFO] [vyXEi00PVrw] saved 448 keyframes
+11:20:36 [INFO] --- [2/10] 69RJZ7TwDrQ | 범죄와의 전쟁 ---
+11:20:43 [INFO] [69RJZ7TwDrQ] downloaded (134.2 MB) → 69RJZ7TwDrQ.mp4
+11:20:43 [INFO] [69RJZ7TwDrQ] duration=1761s → requesting 880 keyframes
+11:46:01 [INFO] [69RJZ7TwDrQ] saved 880 keyframes
+11:46:01 [INFO] --- [3/10] 3auH8hGUezI | 내부자들 ---
+11:46:09 [INFO] [3auH8hGUezI] downloaded (163.8 MB) → 3auH8hGUezI.mp4
+11:46:09 [INFO] [3auH8hGUezI] duration=1014s → requesting 507 keyframes
+11:57:59 [INFO] [3auH8hGUezI] saved 507 keyframes
+11:57:59 [INFO] --- [4/10] Rqlf3zNPqgQ | 달콤한 인생 ---
+11:58:13 [INFO] [Rqlf3zNPqgQ] downloaded (183.0 MB) → Rqlf3zNPqgQ.mp4
+11:58:13 [INFO] [Rqlf3zNPqgQ] duration=1532s → requesting 766 keyframes
+12:03:21 [INFO] [Rqlf3zNPqgQ] saved 766 keyframes
+12:03:21 [INFO] --- [5/10] LkSY-EuTb1E | 마약왕 ---
+12:03:21 [INFO] [LkSY-EuTb1E] already downloaded (LkSY-EuTb1E.mp4, 89.0 MB) — skip
+12:03:21 [INFO] [LkSY-EuTb1E] frames already extracted (229 files) — skip
+12:03:21 [INFO] --- [6/10] Tj7Doyo8XdQ | 친구 ---
+12:03:27 [INFO] [Tj7Doyo8XdQ] downloaded (13.9 MB) → Tj7Doyo8XdQ.mp4
+12:03:27 [INFO] [Tj7Doyo8XdQ] duration=459s → requesting 229 keyframes
+12:05:45 [INFO] [Tj7Doyo8XdQ] saved 229 keyframes
+12:05:45 [INFO] --- [7/10] wBr3f72w-fg | 비열한 거리 ---
+12:05:51 [INFO] [wBr3f72w-fg] downloaded (83.5 MB) → wBr3f72w-fg.mp4
+12:05:51 [INFO] [wBr3f72w-fg] duration=1182s → requesting 591 keyframes
+12:13:11 [INFO] [wBr3f72w-fg] saved 591 keyframes
+12:13:11 [INFO] --- [8/10] sMpzdgHrINs | 베테랑 ---
+12:13:24 [INFO] [sMpzdgHrINs] downloaded (112.4 MB) → sMpzdgHrINs.mp4
+12:13:24 [INFO] [sMpzdgHrINs] duration=1145s → requesting 572 keyframes
+12:25:33 [INFO] [sMpzdgHrINs] saved 572 keyframes
+12:25:34 [INFO] --- [9/10] x2PjLCMrfTk | 황해 ---
+12:25:40 [INFO] [x2PjLCMrfTk] downloaded (130.2 MB) → x2PjLCMrfTk.mp4
+12:25:40 [INFO] [x2PjLCMrfTk] duration=1794s → requesting 897 keyframes
+12:45:32 [INFO] [x2PjLCMrfTk] saved 897 keyframes
+12:45:32 [INFO] --- [10/10] jGP1Z18maME | 흡연 장면 모음 ---
+12:45:37 [INFO] [jGP1Z18maME] downloaded (49.1 MB) → jGP1Z18maME.mp4
+12:45:37 [INFO] [jGP1Z18maME] duration=651s → requesting 325 keyframes
+12:54:31 [INFO] [jGP1Z18maME] saved 325 keyframes
+12:54:31 [INFO] ============================================================
+12:54:31 [INFO] SUMMARY
+12:54:31 [INFO]   vyXEi00PVrw [신세계]: 448 keyframes
+12:54:31 [INFO]   69RJZ7TwDrQ [범죄와의 전쟁]: 880 keyframes
+12:54:31 [INFO]   3auH8hGUezI [내부자들]: 507 keyframes
+12:54:31 [INFO]   Rqlf3zNPqgQ [달콤한 인생]: 766 keyframes
+12:54:31 [INFO]   LkSY-EuTb1E [마약왕]: 229 keyframes
+12:54:31 [INFO]   Tj7Doyo8XdQ [친구]: 229 keyframes
+12:54:31 [INFO]   wBr3f72w-fg [비열한 거리]: 591 keyframes
+12:54:31 [INFO]   sMpzdgHrINs [베테랑]: 572 keyframes
+12:54:31 [INFO]   x2PjLCMrfTk [황해]: 897 keyframes
+12:54:31 [INFO]   jGP1Z18maME [흡연 장면 모음]: 325 keyframes
+12:54:31 [INFO] TOTAL: 5444 keyframes across 10 videos

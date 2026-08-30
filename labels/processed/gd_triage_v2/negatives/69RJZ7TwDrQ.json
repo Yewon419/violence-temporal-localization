@@ -1,0 +1,1861 @@
+{
+  "video_id": "69RJZ7TwDrQ",
+  "negatives": [
+    {
+      "frame": "69RJZ7TwDrQ_frame_00001.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.614646911621094,
+        9.725732803344727,
+        1271.70263671875,
+        709.5007934570312
+      ],
+      "score": 0.5697786211967468,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00018.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.37200927734375,
+        11.664905548095703,
+        1273.4361572265625,
+        708.8660278320312
+      ],
+      "score": 0.5903297662734985,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00036.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.117805480957031,
+        10.690855979919434,
+        1272.19921875,
+        710.4622192382812
+      ],
+      "score": 0.6829941272735596,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00053.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.857505798339844,
+        10.037126541137695,
+        1272.531494140625,
+        710.374267578125
+      ],
+      "score": 0.5720093250274658,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00053.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.309242248535156,
+        10.067960739135742,
+        1272.250732421875,
+        709.2756958007812
+      ],
+      "score": 0.3088875710964203,
+      "raw_label": "car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00071.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.8447113037109375,
+        11.332225799560547,
+        1271.1455078125,
+        709.3723754882812
+      ],
+      "score": 0.6837086081504822,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00089.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.97869873046875,
+        16.279464721679688,
+        1274.0537109375,
+        709.8121337890625
+      ],
+      "score": 0.5615209937095642,
+      "raw_label": "car accident",
+      "reason": "box covers 95% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00106.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.236747741699219,
+        12.532674789428711,
+        1271.3746337890625,
+        709.1497802734375
+      ],
+      "score": 0.6215365529060364,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00124.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.0469818115234375,
+        11.078317642211914,
+        1273.0936279296875,
+        708.6685180664062
+      ],
+      "score": 0.6502581238746643,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00141.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.389884948730469,
+        9.476180076599121,
+        1272.917236328125,
+        708.1658935546875
+      ],
+      "score": 0.6231393814086914,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00159.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.7823486328125,
+        8.515970230102539,
+        1270.29638671875,
+        710.9445190429688
+      ],
+      "score": 0.5897074937820435,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00177.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.1201324462890625,
+        11.597549438476562,
+        1270.77587890625,
+        708.5069580078125
+      ],
+      "score": 0.6465336680412292,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00194.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.451087951660156,
+        11.11889362335205,
+        1272.98193359375,
+        712.5587158203125
+      ],
+      "score": 0.6192432045936584,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00212.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.382881164550781,
+        10.31367301940918,
+        1273.87158203125,
+        710.8841552734375
+      ],
+      "score": 0.6174271106719971,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00229.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.138893127441406,
+        9.262890815734863,
+        1272.0399169921875,
+        709.159912109375
+      ],
+      "score": 0.6331920027732849,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00247.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.9186553955078125,
+        10.021141052246094,
+        1272.586181640625,
+        711.311279296875
+      ],
+      "score": 0.5971640944480896,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00265.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.5033721923828125,
+        22.014755249023438,
+        1272.8465576171875,
+        706.7998046875
+      ],
+      "score": 0.3846012353897095,
+      "raw_label": "car accident",
+      "reason": "box covers 94% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00282.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.5225372314453125,
+        18.177480697631836,
+        1272.8919677734375,
+        709.2577514648438
+      ],
+      "score": 0.3027634024620056,
+      "raw_label": "accident",
+      "reason": "box covers 95% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00282.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.145881652832031,
+        110.32839965820312,
+        1269.077392578125,
+        704.5933227539062
+      ],
+      "score": 0.26346901059150696,
+      "raw_label": "accident",
+      "reason": "box covers 81% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00300.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.374839782714844,
+        8.088340759277344,
+        1271.4801025390625,
+        708.283935546875
+      ],
+      "score": 0.6762929558753967,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00317.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.779075622558594,
+        11.068253517150879,
+        1271.713623046875,
+        708.253662109375
+      ],
+      "score": 0.5906917452812195,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00335.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.624504089355469,
+        10.856573104858398,
+        1272.35205078125,
+        710.887939453125
+      ],
+      "score": 0.5727617144584656,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00353.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.2612152099609375,
+        11.50144100189209,
+        1271.1170654296875,
+        707.9463500976562
+      ],
+      "score": 0.6361007690429688,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00370.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        10.644187927246094,
+        9.622693061828613,
+        1271.4573974609375,
+        710.0339965820312
+      ],
+      "score": 0.5933150053024292,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00388.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.838264465332031,
+        11.557016372680664,
+        1272.4969482421875,
+        709.11865234375
+      ],
+      "score": 0.6105484366416931,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00388.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.427711486816406,
+        11.718463897705078,
+        1272.1497802734375,
+        708.7819213867188
+      ],
+      "score": 0.2519528865814209,
+      "raw_label": "riot",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00406.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.1560821533203125,
+        8.081088066101074,
+        1273.1671142578125,
+        711.4276733398438
+      ],
+      "score": 0.628761887550354,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00406.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.235618591308594,
+        7.923760414123535,
+        1272.806884765625,
+        711.07666015625
+      ],
+      "score": 0.2752416729927063,
+      "raw_label": "car",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00423.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.365180969238281,
+        11.78257942199707,
+        1273.4140625,
+        707.1096801757812
+      ],
+      "score": 0.4452700912952423,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00441.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.036247253417969,
+        12.031124114990234,
+        1270.52978515625,
+        709.0464477539062
+      ],
+      "score": 0.5892640948295593,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00458.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.424446105957031,
+        9.977323532104492,
+        1272.1075439453125,
+        709.0128784179688
+      ],
+      "score": 0.5672751665115356,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00476.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.1307525634765625,
+        10.222112655639648,
+        1271.9508056640625,
+        709.044921875
+      ],
+      "score": 0.571647584438324,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00494.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.82037353515625,
+        10.794431686401367,
+        1271.3192138671875,
+        708.2154541015625
+      ],
+      "score": 0.6431419253349304,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00494.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.023735046386719,
+        10.825996398925781,
+        1270.6787109375,
+        707.8426513671875
+      ],
+      "score": 0.27060192823410034,
+      "raw_label": "riot car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00511.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        4.940643310546875,
+        12.183880805969238,
+        1272.9918212890625,
+        708.6985473632812
+      ],
+      "score": 0.6172119975090027,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00529.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.566864013671875,
+        9.467618942260742,
+        1272.578857421875,
+        710.3585815429688
+      ],
+      "score": 0.599589467048645,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00546.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.4550933837890625,
+        15.700750350952148,
+        1273.5894775390625,
+        709.9401245117188
+      ],
+      "score": 0.7075748443603516,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00564.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.315742492675781,
+        12.098028182983398,
+        1273.545166015625,
+        709.3798828125
+      ],
+      "score": 0.6137953400611877,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00582.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.47760009765625,
+        10.569663047790527,
+        1274.3125,
+        709.1260375976562
+      ],
+      "score": 0.6139204502105713,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00599.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.663421630859375,
+        10.178939819335938,
+        1271.6820068359375,
+        710.5571899414062
+      ],
+      "score": 0.5889259576797485,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00599.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        9.227714538574219,
+        10.552518844604492,
+        1270.693603515625,
+        709.5131225585938
+      ],
+      "score": 0.2679184079170227,
+      "raw_label": "car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00617.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.9697723388671875,
+        9.757425308227539,
+        1272.70654296875,
+        710.044677734375
+      ],
+      "score": 0.6081600189208984,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00634.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.612754821777344,
+        9.174056053161621,
+        1271.924072265625,
+        708.2965087890625
+      ],
+      "score": 0.5947669744491577,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00652.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.2948455810546875,
+        8.778505325317383,
+        1271.3756103515625,
+        711.5580444335938
+      ],
+      "score": 0.5908176302909851,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00670.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.1750030517578125,
+        8.798782348632812,
+        1272.4757080078125,
+        711.0997924804688
+      ],
+      "score": 0.6253865361213684,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00687.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.8035888671875,
+        10.3800630569458,
+        1270.873291015625,
+        709.0557861328125
+      ],
+      "score": 0.7132079005241394,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00705.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.2801513671875,
+        8.97087287902832,
+        1272.2095947265625,
+        710.9691772460938
+      ],
+      "score": 0.6331821084022522,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00723.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.256278991699219,
+        9.532999992370605,
+        1271.695068359375,
+        709.5324096679688
+      ],
+      "score": 0.6385794878005981,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00723.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.8043365478515625,
+        10.065665245056152,
+        1270.90185546875,
+        709.4533081054688
+      ],
+      "score": 0.25580573081970215,
+      "raw_label": "riot car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00740.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.716499328613281,
+        7.887775897979736,
+        1270.0762939453125,
+        711.4817504882812
+      ],
+      "score": 0.630100667476654,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00758.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.5477752685546875,
+        12.151479721069336,
+        1272.2498779296875,
+        708.5479736328125
+      ],
+      "score": 0.6068018078804016,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00758.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.748237609863281,
+        13.321931838989258,
+        1271.80859375,
+        708.2420654296875
+      ],
+      "score": 0.2645981013774872,
+      "raw_label": "riot car",
+      "reason": "box covers 95% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00775.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.3741912841796875,
+        9.56662368774414,
+        1269.1279296875,
+        710.8320922851562
+      ],
+      "score": 0.6216625571250916,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00793.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.164375305175781,
+        10.280391693115234,
+        1274.005126953125,
+        711.5774536132812
+      ],
+      "score": 0.612908124923706,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00811.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.831756591796875,
+        11.025810241699219,
+        1271.53369140625,
+        707.9049682617188
+      ],
+      "score": 0.5609179139137268,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00828.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.895957946777344,
+        12.638053894042969,
+        1272.13134765625,
+        709.8560791015625
+      ],
+      "score": 0.6081510186195374,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00846.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.343727111816406,
+        11.573087692260742,
+        1271.413818359375,
+        711.3380737304688
+      ],
+      "score": 0.6013914942741394,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00846.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.873931884765625,
+        11.529787063598633,
+        1271.03564453125,
+        710.8260498046875
+      ],
+      "score": 0.29121994972229004,
+      "raw_label": "car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00863.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.359649658203125,
+        9.93608283996582,
+        1273.23291015625,
+        710.4873046875
+      ],
+      "score": 0.56512451171875,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00881.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.994758605957031,
+        10.24024486541748,
+        1272.1387939453125,
+        711.1060180664062
+      ],
+      "score": 0.6274590492248535,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00881.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.627082824707031,
+        10.054399490356445,
+        1271.8768310546875,
+        711.2494506835938
+      ],
+      "score": 0.27071550488471985,
+      "raw_label": "car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00899.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        9.567070007324219,
+        11.692693710327148,
+        1271.556884765625,
+        711.3408203125
+      ],
+      "score": 0.5865553021430969,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00916.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.23162841796875,
+        10.627920150756836,
+        1273.6295166015625,
+        710.3284301757812
+      ],
+      "score": 0.6562779545783997,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00934.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.0724029541015625,
+        9.541754722595215,
+        1272.243896484375,
+        709.8843383789062
+      ],
+      "score": 0.642189621925354,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00951.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.959510803222656,
+        8.681924819946289,
+        1272.15185546875,
+        710.9027099609375
+      ],
+      "score": 0.474754273891449,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00969.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.738800048828125,
+        10.682638168334961,
+        1269.79541015625,
+        710.2758178710938
+      ],
+      "score": 0.6273677349090576,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_00987.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.371238708496094,
+        12.047710418701172,
+        1269.7601318359375,
+        709.875244140625
+      ],
+      "score": 0.6694689393043518,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01004.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.4141082763671875,
+        9.35239028930664,
+        1272.47802734375,
+        711.16650390625
+      ],
+      "score": 0.6726589798927307,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01022.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.840705871582031,
+        9.037842750549316,
+        1271.51416015625,
+        710.3887939453125
+      ],
+      "score": 0.6741505861282349,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01039.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.156814575195312,
+        10.72317123413086,
+        1266.881591796875,
+        710.7244262695312
+      ],
+      "score": 0.6327121257781982,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01057.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.500129699707031,
+        11.397843360900879,
+        1272.830078125,
+        706.7711181640625
+      ],
+      "score": 0.5675772428512573,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01075.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.994606018066406,
+        9.515233039855957,
+        1271.3807373046875,
+        710.4944458007812
+      ],
+      "score": 0.6280330419540405,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01092.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.031951904296875,
+        8.911006927490234,
+        1272.002685546875,
+        711.5025024414062
+      ],
+      "score": 0.621747612953186,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01110.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.000648498535156,
+        7.942042350769043,
+        1272.294677734375,
+        709.5889282226562
+      ],
+      "score": 0.5783898234367371,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01128.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.791877746582031,
+        10.256317138671875,
+        1272.560302734375,
+        707.254638671875
+      ],
+      "score": 0.6457686424255371,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01145.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.0818328857421875,
+        11.692757606506348,
+        1272.0601806640625,
+        711.401123046875
+      ],
+      "score": 0.5394770503044128,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01163.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.45263671875,
+        10.009231567382812,
+        1272.338134765625,
+        710.7332153320312
+      ],
+      "score": 0.632719874382019,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01180.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.376976013183594,
+        7.03075647354126,
+        1269.4139404296875,
+        712.4166259765625
+      ],
+      "score": 0.5800945162773132,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01198.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.71441650390625,
+        11.166057586669922,
+        1273.016845703125,
+        711.5859985351562
+      ],
+      "score": 0.5872962474822998,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01216.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        9.130172729492188,
+        12.059146881103516,
+        1271.524169921875,
+        705.739501953125
+      ],
+      "score": 0.46099063754081726,
+      "raw_label": "car accident",
+      "reason": "box covers 95% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01233.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.68511962890625,
+        7.4985551834106445,
+        1272.3267822265625,
+        711.7255249023438
+      ],
+      "score": 0.5887500047683716,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01251.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.879737854003906,
+        14.22780990600586,
+        1273.082763671875,
+        709.4197998046875
+      ],
+      "score": 0.3836086094379425,
+      "raw_label": "car accident",
+      "reason": "box covers 95% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01268.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.6563262939453125,
+        11.29995346069336,
+        1270.619384765625,
+        711.1768798828125
+      ],
+      "score": 0.6182456612586975,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01286.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.542015075683594,
+        9.027565002441406,
+        1270.98193359375,
+        710.21142578125
+      ],
+      "score": 0.5560603737831116,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01304.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.312835693359375,
+        8.517451286315918,
+        1270.778564453125,
+        710.1739501953125
+      ],
+      "score": 0.5807549953460693,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01321.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.581092834472656,
+        10.972402572631836,
+        1272.5164794921875,
+        709.0372924804688
+      ],
+      "score": 0.5963062047958374,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01339.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.1080169677734375,
+        10.680105209350586,
+        1269.8853759765625,
+        707.4268188476562
+      ],
+      "score": 0.5966747403144836,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01356.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.711471557617188,
+        10.8579683303833,
+        1269.9495849609375,
+        708.7774047851562
+      ],
+      "score": 0.5931384563446045,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01374.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.353202819824219,
+        10.305927276611328,
+        1274.183349609375,
+        709.8773193359375
+      ],
+      "score": 0.5184688568115234,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01392.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.223716735839844,
+        9.913509368896484,
+        1271.584228515625,
+        710.1911010742188
+      ],
+      "score": 0.5422058701515198,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01409.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        9.5703125,
+        9.570100784301758,
+        1270.642578125,
+        710.31640625
+      ],
+      "score": 0.585990309715271,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01427.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.822052001953125,
+        10.070343017578125,
+        1272.321533203125,
+        712.7213134765625
+      ],
+      "score": 0.5702781081199646,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.2088165283203125,
+        8.73440933227539,
+        1273.139892578125,
+        709.78076171875
+      ],
+      "score": 0.5742343068122864,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01462.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.8715667724609375,
+        9.272653579711914,
+        1272.0682373046875,
+        711.411376953125
+      ],
+      "score": 0.6300751566886902,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01480.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.034454345703125,
+        9.616641998291016,
+        1271.2584228515625,
+        711.7930297851562
+      ],
+      "score": 0.6063998341560364,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01497.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.5574493408203125,
+        10.658647537231445,
+        1270.3758544921875,
+        711.9096069335938
+      ],
+      "score": 0.5887311697006226,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01497.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.112525939941406,
+        11.39387321472168,
+        1270.20166015625,
+        711.2830200195312
+      ],
+      "score": 0.25491565465927124,
+      "raw_label": "car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01515.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.304344177246094,
+        8.31639289855957,
+        1270.79833984375,
+        712.1411743164062
+      ],
+      "score": 0.601412296295166,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01533.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.8979644775390625,
+        9.995262145996094,
+        1271.2755126953125,
+        709.8511962890625
+      ],
+      "score": 0.6695204377174377,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01550.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        119.33124542236328,
+        177.40309143066406,
+        1274.36181640625,
+        703.375
+      ],
+      "score": 0.33964720368385315,
+      "raw_label": "car accident",
+      "reason": "box covers 66% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01550.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        10.886764526367188,
+        21.309892654418945,
+        1272.25244140625,
+        705.6348876953125
+      ],
+      "score": 0.3251698911190033,
+      "raw_label": "car accident",
+      "reason": "box covers 94% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01550.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        98.50502014160156,
+        101.1009750366211,
+        1271.613037109375,
+        702.5601196289062
+      ],
+      "score": 0.2896261215209961,
+      "raw_label": "car accident",
+      "reason": "box covers 77% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01568.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.538200378417969,
+        7.980043888092041,
+        1272.95458984375,
+        712.8349609375
+      ],
+      "score": 0.654811680316925,
+      "raw_label": "car accident",
+      "reason": "box covers 97% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01585.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.876960754394531,
+        8.959264755249023,
+        1273.110107421875,
+        710.7132568359375
+      ],
+      "score": 0.7128506898880005,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01603.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.268806457519531,
+        11.110933303833008,
+        1272.8525390625,
+        710.0648193359375
+      ],
+      "score": 0.7082985043525696,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01621.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        7.5156402587890625,
+        10.938413619995117,
+        1272.701171875,
+        711.2864990234375
+      ],
+      "score": 0.518585205078125,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01638.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        10.514488220214844,
+        60.936485290527344,
+        1208.64501953125,
+        696.654296875
+      ],
+      "score": 0.5152106285095215,
+      "raw_label": "car accident",
+      "reason": "box covers 83% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01638.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        9.473190307617188,
+        17.880355834960938,
+        1262.398193359375,
+        706.5896606445312
+      ],
+      "score": 0.2759172320365906,
+      "raw_label": "car accident",
+      "reason": "box covers 94% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01656.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.6916656494140625,
+        18.729801177978516,
+        1273.032470703125,
+        695.6643676757812
+      ],
+      "score": 0.3137393593788147,
+      "raw_label": "car accident",
+      "reason": "box covers 93% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01673.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.875892639160156,
+        9.539995193481445,
+        1272.603759765625,
+        710.0875854492188
+      ],
+      "score": 0.6695399880409241,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01691.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.485176086425781,
+        11.471185684204102,
+        1271.2635498046875,
+        707.9235229492188
+      ],
+      "score": 0.6139368414878845,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01691.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        6.981697082519531,
+        11.330873489379883,
+        1270.5052490234375,
+        707.5693969726562
+      ],
+      "score": 0.2565712630748749,
+      "raw_label": "car",
+      "reason": "box covers 95% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01709.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.538589477539062,
+        10.318973541259766,
+        1270.9105224609375,
+        710.0603637695312
+      ],
+      "score": 0.6617839932441711,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01726.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        8.774986267089844,
+        10.209495544433594,
+        1270.743408203125,
+        711.582763671875
+      ],
+      "score": 0.6388425827026367,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01726.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        9.438323974609375,
+        9.886150360107422,
+        1270.4393310546875,
+        711.5271606445312
+      ],
+      "score": 0.25522708892822266,
+      "raw_label": "car",
+      "reason": "box covers 96% of frame"
+    },
+    {
+      "frame": "69RJZ7TwDrQ_frame_01744.jpg",
+      "image_size": [
+        1280,
+        720
+      ],
+      "bbox": [
+        5.4605865478515625,
+        10.399482727050781,
+        1273.268310546875,
+        708.9031982421875
+      ],
+      "score": 0.5766486525535583,
+      "raw_label": "car accident",
+      "reason": "box covers 96% of frame"
+    }
+  ]
+}

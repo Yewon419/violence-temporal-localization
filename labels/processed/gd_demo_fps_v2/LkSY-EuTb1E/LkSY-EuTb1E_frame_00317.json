@@ -1,0 +1,26 @@
+{
+  "frame": "LkSY-EuTb1E_frame_00317.jpg",
+  "prompt": "cigarette. smoking. drinking. bottle. cup. knife. gun. hammer. baseball bat. blood. fighting. shooting. riot. abuse. explosion. car accident.",
+  "boxes": [
+    [
+      5.829658508300781,
+      72.27828216552734,
+      1273.6497802734375,
+      627.488525390625
+    ],
+    [
+      5.587654113769531,
+      13.673450469970703,
+      1273.7366943359375,
+      642.83642578125
+    ]
+  ],
+  "scores": [
+    0.3831166923046112,
+    0.39491575956344604
+  ],
+  "labels": [
+    "car accident",
+    "car accident"
+  ]
+}

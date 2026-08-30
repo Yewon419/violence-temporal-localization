@@ -1,0 +1,1999 @@
+{
+ "task_id": 14,
+ "task_name": "Rqlf3zNPqgQ (달콤한 인생)",
+ "size": 100,
+ "idx2frame": {
+  "0": "Rqlf3zNPqgQ_frame_00001.jpg",
+  "1": "Rqlf3zNPqgQ_frame_00016.jpg",
+  "2": "Rqlf3zNPqgQ_frame_00031.jpg",
+  "3": "Rqlf3zNPqgQ_frame_00046.jpg",
+  "4": "Rqlf3zNPqgQ_frame_00062.jpg",
+  "5": "Rqlf3zNPqgQ_frame_00077.jpg",
+  "6": "Rqlf3zNPqgQ_frame_00092.jpg",
+  "7": "Rqlf3zNPqgQ_frame_00108.jpg",
+  "8": "Rqlf3zNPqgQ_frame_00123.jpg",
+  "9": "Rqlf3zNPqgQ_frame_00138.jpg",
+  "10": "Rqlf3zNPqgQ_frame_00154.jpg",
+  "11": "Rqlf3zNPqgQ_frame_00169.jpg",
+  "12": "Rqlf3zNPqgQ_frame_00184.jpg",
+  "13": "Rqlf3zNPqgQ_frame_00200.jpg",
+  "14": "Rqlf3zNPqgQ_frame_00215.jpg",
+  "15": "Rqlf3zNPqgQ_frame_00230.jpg",
+  "16": "Rqlf3zNPqgQ_frame_00246.jpg",
+  "17": "Rqlf3zNPqgQ_frame_00261.jpg",
+  "18": "Rqlf3zNPqgQ_frame_00276.jpg",
+  "19": "Rqlf3zNPqgQ_frame_00292.jpg",
+  "20": "Rqlf3zNPqgQ_frame_00307.jpg",
+  "21": "Rqlf3zNPqgQ_frame_00322.jpg",
+  "22": "Rqlf3zNPqgQ_frame_00338.jpg",
+  "23": "Rqlf3zNPqgQ_frame_00353.jpg",
+  "24": "Rqlf3zNPqgQ_frame_00368.jpg",
+  "25": "Rqlf3zNPqgQ_frame_00384.jpg",
+  "26": "Rqlf3zNPqgQ_frame_00399.jpg",
+  "27": "Rqlf3zNPqgQ_frame_00414.jpg",
+  "28": "Rqlf3zNPqgQ_frame_00429.jpg",
+  "29": "Rqlf3zNPqgQ_frame_00445.jpg",
+  "30": "Rqlf3zNPqgQ_frame_00460.jpg",
+  "31": "Rqlf3zNPqgQ_frame_00475.jpg",
+  "32": "Rqlf3zNPqgQ_frame_00491.jpg",
+  "33": "Rqlf3zNPqgQ_frame_00506.jpg",
+  "34": "Rqlf3zNPqgQ_frame_00521.jpg",
+  "35": "Rqlf3zNPqgQ_frame_00537.jpg",
+  "36": "Rqlf3zNPqgQ_frame_00552.jpg",
+  "37": "Rqlf3zNPqgQ_frame_00567.jpg",
+  "38": "Rqlf3zNPqgQ_frame_00583.jpg",
+  "39": "Rqlf3zNPqgQ_frame_00598.jpg",
+  "40": "Rqlf3zNPqgQ_frame_00613.jpg",
+  "41": "Rqlf3zNPqgQ_frame_00629.jpg",
+  "42": "Rqlf3zNPqgQ_frame_00644.jpg",
+  "43": "Rqlf3zNPqgQ_frame_00659.jpg",
+  "44": "Rqlf3zNPqgQ_frame_00675.jpg",
+  "45": "Rqlf3zNPqgQ_frame_00690.jpg",
+  "46": "Rqlf3zNPqgQ_frame_00705.jpg",
+  "47": "Rqlf3zNPqgQ_frame_00721.jpg",
+  "48": "Rqlf3zNPqgQ_frame_00736.jpg",
+  "49": "Rqlf3zNPqgQ_frame_00751.jpg",
+  "50": "Rqlf3zNPqgQ_frame_00767.jpg",
+  "51": "Rqlf3zNPqgQ_frame_00782.jpg",
+  "52": "Rqlf3zNPqgQ_frame_00797.jpg",
+  "53": "Rqlf3zNPqgQ_frame_00812.jpg",
+  "54": "Rqlf3zNPqgQ_frame_00828.jpg",
+  "55": "Rqlf3zNPqgQ_frame_00843.jpg",
+  "56": "Rqlf3zNPqgQ_frame_00858.jpg",
+  "57": "Rqlf3zNPqgQ_frame_00874.jpg",
+  "58": "Rqlf3zNPqgQ_frame_00889.jpg",
+  "59": "Rqlf3zNPqgQ_frame_00904.jpg",
+  "60": "Rqlf3zNPqgQ_frame_00920.jpg",
+  "61": "Rqlf3zNPqgQ_frame_00935.jpg",
+  "62": "Rqlf3zNPqgQ_frame_00950.jpg",
+  "63": "Rqlf3zNPqgQ_frame_00966.jpg",
+  "64": "Rqlf3zNPqgQ_frame_00981.jpg",
+  "65": "Rqlf3zNPqgQ_frame_00996.jpg",
+  "66": "Rqlf3zNPqgQ_frame_01012.jpg",
+  "67": "Rqlf3zNPqgQ_frame_01027.jpg",
+  "68": "Rqlf3zNPqgQ_frame_01042.jpg",
+  "69": "Rqlf3zNPqgQ_frame_01058.jpg",
+  "70": "Rqlf3zNPqgQ_frame_01073.jpg",
+  "71": "Rqlf3zNPqgQ_frame_01088.jpg",
+  "72": "Rqlf3zNPqgQ_frame_01104.jpg",
+  "73": "Rqlf3zNPqgQ_frame_01119.jpg",
+  "74": "Rqlf3zNPqgQ_frame_01134.jpg",
+  "75": "Rqlf3zNPqgQ_frame_01150.jpg",
+  "76": "Rqlf3zNPqgQ_frame_01165.jpg",
+  "77": "Rqlf3zNPqgQ_frame_01180.jpg",
+  "78": "Rqlf3zNPqgQ_frame_01195.jpg",
+  "79": "Rqlf3zNPqgQ_frame_01211.jpg",
+  "80": "Rqlf3zNPqgQ_frame_01226.jpg",
+  "81": "Rqlf3zNPqgQ_frame_01241.jpg",
+  "82": "Rqlf3zNPqgQ_frame_01257.jpg",
+  "83": "Rqlf3zNPqgQ_frame_01272.jpg",
+  "84": "Rqlf3zNPqgQ_frame_01287.jpg",
+  "85": "Rqlf3zNPqgQ_frame_01303.jpg",
+  "86": "Rqlf3zNPqgQ_frame_01318.jpg",
+  "87": "Rqlf3zNPqgQ_frame_01333.jpg",
+  "88": "Rqlf3zNPqgQ_frame_01349.jpg",
+  "89": "Rqlf3zNPqgQ_frame_01364.jpg",
+  "90": "Rqlf3zNPqgQ_frame_01379.jpg",
+  "91": "Rqlf3zNPqgQ_frame_01395.jpg",
+  "92": "Rqlf3zNPqgQ_frame_01410.jpg",
+  "93": "Rqlf3zNPqgQ_frame_01425.jpg",
+  "94": "Rqlf3zNPqgQ_frame_01441.jpg",
+  "95": "Rqlf3zNPqgQ_frame_01456.jpg",
+  "96": "Rqlf3zNPqgQ_frame_01471.jpg",
+  "97": "Rqlf3zNPqgQ_frame_01487.jpg",
+  "98": "Rqlf3zNPqgQ_frame_01502.jpg",
+  "99": "Rqlf3zNPqgQ_frame_01517.jpg"
+ },
+ "shapes": [
+  {
+   "id": 1370,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 0,
+   "frame_name": "Rqlf3zNPqgQ_frame_00001.jpg",
+   "type": "rectangle",
+   "points": [
+    384.57,
+    376.56,
+    402.51,
+    406.05
+   ]
+  },
+  {
+   "id": 1371,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 0,
+   "frame_name": "Rqlf3zNPqgQ_frame_00001.jpg",
+   "type": "rectangle",
+   "points": [
+    364.86,
+    356.86,
+    383.7,
+    403.58
+   ]
+  },
+  {
+   "id": 1372,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 0,
+   "frame_name": "Rqlf3zNPqgQ_frame_00001.jpg",
+   "type": "rectangle",
+   "points": [
+    352.77,
+    346.39,
+    368.29,
+    403.9
+   ]
+  },
+  {
+   "id": 1373,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 0,
+   "frame_name": "Rqlf3zNPqgQ_frame_00001.jpg",
+   "type": "rectangle",
+   "points": [
+    299.22,
+    370.45,
+    319.65,
+    391.53
+   ]
+  },
+  {
+   "id": 1374,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    852.88,
+    409.02,
+    872.64,
+    463.66
+   ]
+  },
+  {
+   "id": 1375,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    806.4,
+    442.91,
+    836.2,
+    490.12
+   ]
+  },
+  {
+   "id": 1376,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    303.46,
+    385.8,
+    343.02,
+    536.63
+   ]
+  },
+  {
+   "id": 1377,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    869.54,
+    419.47,
+    896.29,
+    467.8
+   ]
+  },
+  {
+   "id": 1378,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    699.35,
+    444.79,
+    729.69,
+    484.21
+   ]
+  },
+  {
+   "id": 1379,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    1143.82,
+    418.98,
+    1178.1,
+    507.32
+   ]
+  },
+  {
+   "id": 1380,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    1002.77,
+    460.12,
+    1016.74,
+    483.7
+   ]
+  },
+  {
+   "id": 1381,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    972.09,
+    421.48,
+    998.3,
+    485.6
+   ]
+  },
+  {
+   "id": 1382,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 2,
+   "frame_name": "Rqlf3zNPqgQ_frame_00031.jpg",
+   "type": "rectangle",
+   "points": [
+    1029.52,
+    448.55,
+    1051.6,
+    483.12
+   ]
+  },
+  {
+   "id": 1383,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 4,
+   "frame_name": "Rqlf3zNPqgQ_frame_00062.jpg",
+   "type": "rectangle",
+   "points": [
+    178.77,
+    600.24,
+    217.15,
+    615.99
+   ]
+  },
+  {
+   "id": 1384,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 4,
+   "frame_name": "Rqlf3zNPqgQ_frame_00062.jpg",
+   "type": "rectangle",
+   "points": [
+    259.1,
+    573.45,
+    337.49,
+    616.0
+   ]
+  },
+  {
+   "id": 1385,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 6,
+   "frame_name": "Rqlf3zNPqgQ_frame_00092.jpg",
+   "type": "rectangle",
+   "points": [
+    188.51,
+    103.27,
+    642.96,
+    475.01
+   ]
+  },
+  {
+   "id": 1386,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 7,
+   "frame_name": "Rqlf3zNPqgQ_frame_00108.jpg",
+   "type": "rectangle",
+   "points": [
+    2.34,
+    103.35,
+    278.98,
+    466.07
+   ]
+  },
+  {
+   "id": 1387,
+   "label_id": 1,
+   "label": "cigarette",
+   "frame": 7,
+   "frame_name": "Rqlf3zNPqgQ_frame_00108.jpg",
+   "type": "rectangle",
+   "points": [
+    463.44,
+    452.48,
+    516.36,
+    483.14
+   ]
+  },
+  {
+   "id": 1388,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    869.86,
+    592.94,
+    965.47,
+    615.44
+   ]
+  },
+  {
+   "id": 1389,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    788.0,
+    514.16,
+    867.94,
+    557.16
+   ]
+  },
+  {
+   "id": 1390,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    761.03,
+    478.59,
+    805.45,
+    511.57
+   ]
+  },
+  {
+   "id": 1391,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    683.34,
+    443.52,
+    745.99,
+    502.42
+   ]
+  },
+  {
+   "id": 1392,
+   "label_id": 1,
+   "label": "cigarette",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    479.4,
+    292.82,
+    524.79,
+    324.98
+   ]
+  },
+  {
+   "id": 1393,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    438.83,
+    524.28,
+    514.05,
+    594.52
+   ]
+  },
+  {
+   "id": 1394,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    803.87,
+    471.81,
+    863.07,
+    517.48
+   ]
+  },
+  {
+   "id": 1395,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    328.32,
+    535.09,
+    412.94,
+    615.25
+   ]
+  },
+  {
+   "id": 1396,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 8,
+   "frame_name": "Rqlf3zNPqgQ_frame_00123.jpg",
+   "type": "rectangle",
+   "points": [
+    627.76,
+    424.7,
+    679.78,
+    497.63
+   ]
+  },
+  {
+   "id": 1397,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 10,
+   "frame_name": "Rqlf3zNPqgQ_frame_00154.jpg",
+   "type": "rectangle",
+   "points": [
+    4.99,
+    424.99,
+    100.76,
+    579.48
+   ]
+  },
+  {
+   "id": 1398,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 10,
+   "frame_name": "Rqlf3zNPqgQ_frame_00154.jpg",
+   "type": "rectangle",
+   "points": [
+    412.18,
+    347.93,
+    448.76,
+    399.43
+   ]
+  },
+  {
+   "id": 1399,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 11,
+   "frame_name": "Rqlf3zNPqgQ_frame_00169.jpg",
+   "type": "rectangle",
+   "points": [
+    312.0,
+    142.96,
+    546.93,
+    492.73
+   ]
+  },
+  {
+   "id": 1400,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 11,
+   "frame_name": "Rqlf3zNPqgQ_frame_00169.jpg",
+   "type": "rectangle",
+   "points": [
+    271.59,
+    501.39,
+    368.65,
+    616.47
+   ]
+  },
+  {
+   "id": 1401,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 11,
+   "frame_name": "Rqlf3zNPqgQ_frame_00169.jpg",
+   "type": "rectangle",
+   "points": [
+    397.2,
+    583.4,
+    532.17,
+    616.34
+   ]
+  },
+  {
+   "id": 1402,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 12,
+   "frame_name": "Rqlf3zNPqgQ_frame_00184.jpg",
+   "type": "rectangle",
+   "points": [
+    6.62,
+    222.98,
+    145.5,
+    349.57
+   ]
+  },
+  {
+   "id": 1403,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 12,
+   "frame_name": "Rqlf3zNPqgQ_frame_00184.jpg",
+   "type": "rectangle",
+   "points": [
+    64.75,
+    223.83,
+    145.24,
+    299.26
+   ]
+  },
+  {
+   "id": 1404,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 12,
+   "frame_name": "Rqlf3zNPqgQ_frame_00184.jpg",
+   "type": "rectangle",
+   "points": [
+    302.38,
+    432.52,
+    365.61,
+    489.04
+   ]
+  },
+  {
+   "id": 1405,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 12,
+   "frame_name": "Rqlf3zNPqgQ_frame_00184.jpg",
+   "type": "rectangle",
+   "points": [
+    895.81,
+    415.97,
+    938.66,
+    498.51
+   ]
+  },
+  {
+   "id": 1406,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 12,
+   "frame_name": "Rqlf3zNPqgQ_frame_00184.jpg",
+   "type": "rectangle",
+   "points": [
+    429.2,
+    500.43,
+    470.94,
+    544.65
+   ]
+  },
+  {
+   "id": 1407,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 14,
+   "frame_name": "Rqlf3zNPqgQ_frame_00215.jpg",
+   "type": "rectangle",
+   "points": [
+    563.54,
+    546.73,
+    617.6,
+    615.7
+   ]
+  },
+  {
+   "id": 1408,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 14,
+   "frame_name": "Rqlf3zNPqgQ_frame_00215.jpg",
+   "type": "rectangle",
+   "points": [
+    491.07,
+    498.41,
+    560.73,
+    616.01
+   ]
+  },
+  {
+   "id": 1409,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 15,
+   "frame_name": "Rqlf3zNPqgQ_frame_00230.jpg",
+   "type": "rectangle",
+   "points": [
+    437.01,
+    296.65,
+    556.31,
+    370.18
+   ]
+  },
+  {
+   "id": 1410,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 16,
+   "frame_name": "Rqlf3zNPqgQ_frame_00246.jpg",
+   "type": "rectangle",
+   "points": [
+    419.39,
+    153.61,
+    852.43,
+    465.65
+   ]
+  },
+  {
+   "id": 1411,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 16,
+   "frame_name": "Rqlf3zNPqgQ_frame_00246.jpg",
+   "type": "rectangle",
+   "points": [
+    422.97,
+    162.44,
+    746.15,
+    457.7
+   ]
+  },
+  {
+   "id": 1412,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 17,
+   "frame_name": "Rqlf3zNPqgQ_frame_00261.jpg",
+   "type": "rectangle",
+   "points": [
+    353.35,
+    509.04,
+    513.96,
+    589.61
+   ]
+  },
+  {
+   "id": 1413,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 18,
+   "frame_name": "Rqlf3zNPqgQ_frame_00276.jpg",
+   "type": "rectangle",
+   "points": [
+    512.47,
+    259.98,
+    909.42,
+    431.54
+   ]
+  },
+  {
+   "id": 1414,
+   "label_id": 8,
+   "label": "drinking_act",
+   "frame": 18,
+   "frame_name": "Rqlf3zNPqgQ_frame_00276.jpg",
+   "type": "rectangle",
+   "points": [
+    512.04,
+    259.14,
+    909.59,
+    432.09
+   ]
+  },
+  {
+   "id": 1415,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 18,
+   "frame_name": "Rqlf3zNPqgQ_frame_00276.jpg",
+   "type": "rectangle",
+   "points": [
+    511.54,
+    259.41,
+    909.85,
+    431.96
+   ]
+  },
+  {
+   "id": 1416,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 19,
+   "frame_name": "Rqlf3zNPqgQ_frame_00292.jpg",
+   "type": "rectangle",
+   "points": [
+    465.9,
+    418.45,
+    489.34,
+    446.14
+   ]
+  },
+  {
+   "id": 1417,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 19,
+   "frame_name": "Rqlf3zNPqgQ_frame_00292.jpg",
+   "type": "rectangle",
+   "points": [
+    610.83,
+    472.94,
+    670.33,
+    530.9
+   ]
+  },
+  {
+   "id": 1418,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 22,
+   "frame_name": "Rqlf3zNPqgQ_frame_00338.jpg",
+   "type": "rectangle",
+   "points": [
+    745.29,
+    546.5,
+    849.07,
+    615.75
+   ]
+  },
+  {
+   "id": 1419,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 22,
+   "frame_name": "Rqlf3zNPqgQ_frame_00338.jpg",
+   "type": "rectangle",
+   "points": [
+    839.49,
+    452.87,
+    987.81,
+    614.41
+   ]
+  },
+  {
+   "id": 1420,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 24,
+   "frame_name": "Rqlf3zNPqgQ_frame_00368.jpg",
+   "type": "rectangle",
+   "points": [
+    602.52,
+    375.17,
+    649.17,
+    458.1
+   ]
+  },
+  {
+   "id": 1421,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 26,
+   "frame_name": "Rqlf3zNPqgQ_frame_00399.jpg",
+   "type": "rectangle",
+   "points": [
+    271.45,
+    211.59,
+    303.49,
+    240.83
+   ]
+  },
+  {
+   "id": 1422,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    654.42,
+    458.39,
+    712.81,
+    601.89
+   ]
+  },
+  {
+   "id": 1423,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    622.22,
+    318.86,
+    660.22,
+    391.25
+   ]
+  },
+  {
+   "id": 1424,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    745.36,
+    404.89,
+    768.2,
+    441.86
+   ]
+  },
+  {
+   "id": 1425,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    464.28,
+    298.75,
+    495.32,
+    396.46
+   ]
+  },
+  {
+   "id": 1426,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    273.99,
+    102.56,
+    326.81,
+    142.79
+   ]
+  },
+  {
+   "id": 1427,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    265.97,
+    407.54,
+    322.09,
+    543.73
+   ]
+  },
+  {
+   "id": 1428,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    893.73,
+    257.26,
+    944.2,
+    304.19
+   ]
+  },
+  {
+   "id": 1429,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    717.12,
+    458.52,
+    753.48,
+    539.03
+   ]
+  },
+  {
+   "id": 1430,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    752.15,
+    277.52,
+    792.23,
+    313.5
+   ]
+  },
+  {
+   "id": 1431,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    490.34,
+    344.24,
+    532.77,
+    405.2
+   ]
+  },
+  {
+   "id": 1432,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    389.18,
+    339.83,
+    419.05,
+    385.77
+   ]
+  },
+  {
+   "id": 1433,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    556.12,
+    358.44,
+    621.1,
+    563.55
+   ]
+  },
+  {
+   "id": 1434,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 27,
+   "frame_name": "Rqlf3zNPqgQ_frame_00414.jpg",
+   "type": "rectangle",
+   "points": [
+    687.58,
+    319.07,
+    721.32,
+    406.61
+   ]
+  },
+  {
+   "id": 1435,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    688.98,
+    319.79,
+    723.29,
+    404.06
+   ]
+  },
+  {
+   "id": 1436,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    656.08,
+    460.97,
+    712.66,
+    564.38
+   ]
+  },
+  {
+   "id": 1437,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    625.95,
+    109.68,
+    735.09,
+    286.32
+   ]
+  },
+  {
+   "id": 1438,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    274.35,
+    102.94,
+    327.18,
+    143.69
+   ]
+  },
+  {
+   "id": 1439,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    316.53,
+    352.03,
+    385.12,
+    501.51
+   ]
+  },
+  {
+   "id": 1440,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    405.82,
+    379.23,
+    441.0,
+    404.34
+   ]
+  },
+  {
+   "id": 1441,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    464.06,
+    299.55,
+    496.09,
+    401.13
+   ]
+  },
+  {
+   "id": 1442,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    628.32,
+    319.78,
+    667.1,
+    409.7
+   ]
+  },
+  {
+   "id": 1443,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    689.7,
+    319.94,
+    722.56,
+    365.28
+   ]
+  },
+  {
+   "id": 1444,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    717.29,
+    460.46,
+    753.14,
+    539.17
+   ]
+  },
+  {
+   "id": 1445,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    265.95,
+    409.08,
+    321.2,
+    545.64
+   ]
+  },
+  {
+   "id": 1446,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    490.82,
+    345.13,
+    532.97,
+    405.77
+   ]
+  },
+  {
+   "id": 1447,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 28,
+   "frame_name": "Rqlf3zNPqgQ_frame_00429.jpg",
+   "type": "rectangle",
+   "points": [
+    559.88,
+    359.89,
+    621.62,
+    545.02
+   ]
+  },
+  {
+   "id": 1448,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    671.16,
+    382.55,
+    695.16,
+    408.4
+   ]
+  },
+  {
+   "id": 1449,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    957.74,
+    415.09,
+    997.86,
+    429.35
+   ]
+  },
+  {
+   "id": 1450,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    728.07,
+    367.69,
+    762.1,
+    441.22
+   ]
+  },
+  {
+   "id": 1451,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    744.95,
+    406.72,
+    768.83,
+    443.57
+   ]
+  },
+  {
+   "id": 1452,
+   "label_id": 1,
+   "label": "cigarette",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    835.45,
+    258.82,
+    888.44,
+    271.42
+   ]
+  },
+  {
+   "id": 1453,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    411.44,
+    379.88,
+    446.61,
+    404.61
+   ]
+  },
+  {
+   "id": 1454,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    718.93,
+    460.73,
+    755.2,
+    539.73
+   ]
+  },
+  {
+   "id": 1455,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    625.01,
+    320.94,
+    667.3,
+    411.44
+   ]
+  },
+  {
+   "id": 1456,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    268.79,
+    409.29,
+    324.94,
+    545.46
+   ]
+  },
+  {
+   "id": 1457,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    320.35,
+    352.83,
+    385.67,
+    502.5
+   ]
+  },
+  {
+   "id": 1458,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    491.88,
+    345.97,
+    535.62,
+    405.95
+   ]
+  },
+  {
+   "id": 1459,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 29,
+   "frame_name": "Rqlf3zNPqgQ_frame_00445.jpg",
+   "type": "rectangle",
+   "points": [
+    561.28,
+    361.15,
+    624.96,
+    563.63
+   ]
+  },
+  {
+   "id": 1460,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 30,
+   "frame_name": "Rqlf3zNPqgQ_frame_00460.jpg",
+   "type": "rectangle",
+   "points": [
+    656.98,
+    377.75,
+    917.71,
+    513.09
+   ]
+  },
+  {
+   "id": 1461,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 31,
+   "frame_name": "Rqlf3zNPqgQ_frame_00475.jpg",
+   "type": "rectangle",
+   "points": [
+    163.61,
+    280.48,
+    379.08,
+    440.46
+   ]
+  },
+  {
+   "id": 1462,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 32,
+   "frame_name": "Rqlf3zNPqgQ_frame_00491.jpg",
+   "type": "rectangle",
+   "points": [
+    523.33,
+    101.55,
+    1272.64,
+    621.67
+   ]
+  },
+  {
+   "id": 1463,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 32,
+   "frame_name": "Rqlf3zNPqgQ_frame_00491.jpg",
+   "type": "rectangle",
+   "points": [
+    2.83,
+    106.29,
+    557.47,
+    609.36
+   ]
+  },
+  {
+   "id": 1464,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 33,
+   "frame_name": "Rqlf3zNPqgQ_frame_00506.jpg",
+   "type": "rectangle",
+   "points": [
+    3.56,
+    169.11,
+    633.75,
+    614.77
+   ]
+  },
+  {
+   "id": 1465,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 34,
+   "frame_name": "Rqlf3zNPqgQ_frame_00521.jpg",
+   "type": "rectangle",
+   "points": [
+    2.18,
+    271.27,
+    417.04,
+    612.52
+   ]
+  },
+  {
+   "id": 1466,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 35,
+   "frame_name": "Rqlf3zNPqgQ_frame_00537.jpg",
+   "type": "rectangle",
+   "points": [
+    1161.57,
+    281.31,
+    1277.77,
+    410.21
+   ]
+  },
+  {
+   "id": 1467,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 35,
+   "frame_name": "Rqlf3zNPqgQ_frame_00537.jpg",
+   "type": "rectangle",
+   "points": [
+    134.63,
+    103.18,
+    760.01,
+    496.64
+   ]
+  },
+  {
+   "id": 1468,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 42,
+   "frame_name": "Rqlf3zNPqgQ_frame_00644.jpg",
+   "type": "rectangle",
+   "points": [
+    318.87,
+    159.98,
+    892.4,
+    494.75
+   ]
+  },
+  {
+   "id": 1469,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 43,
+   "frame_name": "Rqlf3zNPqgQ_frame_00659.jpg",
+   "type": "rectangle",
+   "points": [
+    3.38,
+    396.3,
+    988.61,
+    616.89
+   ]
+  },
+  {
+   "id": 1470,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 44,
+   "frame_name": "Rqlf3zNPqgQ_frame_00675.jpg",
+   "type": "rectangle",
+   "points": [
+    205.28,
+    268.96,
+    250.99,
+    310.93
+   ]
+  },
+  {
+   "id": 1471,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 44,
+   "frame_name": "Rqlf3zNPqgQ_frame_00675.jpg",
+   "type": "rectangle",
+   "points": [
+    365.24,
+    278.53,
+    561.0,
+    448.02
+   ]
+  },
+  {
+   "id": 1472,
+   "label_id": 19,
+   "label": "car_accident",
+   "frame": 45,
+   "frame_name": "Rqlf3zNPqgQ_frame_00690.jpg",
+   "type": "rectangle",
+   "points": [
+    590.68,
+    332.81,
+    801.67,
+    505.7
+   ]
+  },
+  {
+   "id": 1473,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 46,
+   "frame_name": "Rqlf3zNPqgQ_frame_00705.jpg",
+   "type": "rectangle",
+   "points": [
+    658.99,
+    323.02,
+    757.19,
+    569.83
+   ]
+  },
+  {
+   "id": 1474,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 51,
+   "frame_name": "Rqlf3zNPqgQ_frame_00782.jpg",
+   "type": "rectangle",
+   "points": [
+    293.12,
+    374.1,
+    433.35,
+    616.36
+   ]
+  },
+  {
+   "id": 1475,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 53,
+   "frame_name": "Rqlf3zNPqgQ_frame_00812.jpg",
+   "type": "rectangle",
+   "points": [
+    194.25,
+    101.67,
+    804.85,
+    614.96
+   ]
+  },
+  {
+   "id": 1476,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 54,
+   "frame_name": "Rqlf3zNPqgQ_frame_00828.jpg",
+   "type": "rectangle",
+   "points": [
+    859.86,
+    99.92,
+    1275.23,
+    618.71
+   ]
+  },
+  {
+   "id": 1477,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 55,
+   "frame_name": "Rqlf3zNPqgQ_frame_00843.jpg",
+   "type": "rectangle",
+   "points": [
+    436.17,
+    272.63,
+    723.78,
+    542.12
+   ]
+  },
+  {
+   "id": 1478,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 56,
+   "frame_name": "Rqlf3zNPqgQ_frame_00858.jpg",
+   "type": "rectangle",
+   "points": [
+    946.17,
+    102.88,
+    1260.64,
+    616.06
+   ]
+  },
+  {
+   "id": 1479,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 60,
+   "frame_name": "Rqlf3zNPqgQ_frame_00920.jpg",
+   "type": "rectangle",
+   "points": [
+    1085.89,
+    119.44,
+    1242.42,
+    257.67
+   ]
+  },
+  {
+   "id": 1480,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 64,
+   "frame_name": "Rqlf3zNPqgQ_frame_00981.jpg",
+   "type": "rectangle",
+   "points": [
+    250.56,
+    170.78,
+    624.8,
+    610.88
+   ]
+  },
+  {
+   "id": 1481,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 68,
+   "frame_name": "Rqlf3zNPqgQ_frame_01042.jpg",
+   "type": "rectangle",
+   "points": [
+    854.66,
+    402.73,
+    930.17,
+    458.4
+   ]
+  },
+  {
+   "id": 1482,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 69,
+   "frame_name": "Rqlf3zNPqgQ_frame_01058.jpg",
+   "type": "rectangle",
+   "points": [
+    687.54,
+    532.76,
+    758.36,
+    594.66
+   ]
+  },
+  {
+   "id": 1483,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 71,
+   "frame_name": "Rqlf3zNPqgQ_frame_01088.jpg",
+   "type": "rectangle",
+   "points": [
+    83.49,
+    374.82,
+    149.46,
+    489.52
+   ]
+  },
+  {
+   "id": 1484,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 71,
+   "frame_name": "Rqlf3zNPqgQ_frame_01088.jpg",
+   "type": "rectangle",
+   "points": [
+    238.46,
+    128.02,
+    262.86,
+    191.16
+   ]
+  },
+  {
+   "id": 1485,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 71,
+   "frame_name": "Rqlf3zNPqgQ_frame_01088.jpg",
+   "type": "rectangle",
+   "points": [
+    267.82,
+    102.95,
+    295.79,
+    186.23
+   ]
+  },
+  {
+   "id": 1486,
+   "label_id": 18,
+   "label": "explosion",
+   "frame": 73,
+   "frame_name": "Rqlf3zNPqgQ_frame_01119.jpg",
+   "type": "rectangle",
+   "points": [
+    1080.99,
+    102.46,
+    1277.83,
+    598.34
+   ]
+  },
+  {
+   "id": 1487,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 74,
+   "frame_name": "Rqlf3zNPqgQ_frame_01134.jpg",
+   "type": "rectangle",
+   "points": [
+    508.01,
+    169.73,
+    813.3,
+    588.76
+   ]
+  },
+  {
+   "id": 1488,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 75,
+   "frame_name": "Rqlf3zNPqgQ_frame_01150.jpg",
+   "type": "rectangle",
+   "points": [
+    1169.54,
+    209.38,
+    1207.85,
+    243.07
+   ]
+  },
+  {
+   "id": 1489,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 76,
+   "frame_name": "Rqlf3zNPqgQ_frame_01165.jpg",
+   "type": "rectangle",
+   "points": [
+    530.24,
+    208.73,
+    543.94,
+    246.11
+   ]
+  },
+  {
+   "id": 1490,
+   "label_id": 4,
+   "label": "cup",
+   "frame": 76,
+   "frame_name": "Rqlf3zNPqgQ_frame_01165.jpg",
+   "type": "rectangle",
+   "points": [
+    352.94,
+    563.95,
+    394.84,
+    614.51
+   ]
+  },
+  {
+   "id": 1491,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 78,
+   "frame_name": "Rqlf3zNPqgQ_frame_01195.jpg",
+   "type": "rectangle",
+   "points": [
+    1034.7,
+    380.54,
+    1058.23,
+    447.02
+   ]
+  },
+  {
+   "id": 1492,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 78,
+   "frame_name": "Rqlf3zNPqgQ_frame_01195.jpg",
+   "type": "rectangle",
+   "points": [
+    1025.62,
+    305.8,
+    1044.5,
+    342.49
+   ]
+  },
+  {
+   "id": 1493,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 78,
+   "frame_name": "Rqlf3zNPqgQ_frame_01195.jpg",
+   "type": "rectangle",
+   "points": [
+    1001.8,
+    311.06,
+    1021.91,
+    345.37
+   ]
+  },
+  {
+   "id": 1494,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 78,
+   "frame_name": "Rqlf3zNPqgQ_frame_01195.jpg",
+   "type": "rectangle",
+   "points": [
+    981.59,
+    382.32,
+    1002.65,
+    444.59
+   ]
+  },
+  {
+   "id": 1495,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 84,
+   "frame_name": "Rqlf3zNPqgQ_frame_01287.jpg",
+   "type": "rectangle",
+   "points": [
+    1.98,
+    101.63,
+    188.13,
+    616.13
+   ]
+  },
+  {
+   "id": 1496,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 85,
+   "frame_name": "Rqlf3zNPqgQ_frame_01303.jpg",
+   "type": "rectangle",
+   "points": [
+    1125.88,
+    326.94,
+    1142.98,
+    366.27
+   ]
+  },
+  {
+   "id": 1497,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 90,
+   "frame_name": "Rqlf3zNPqgQ_frame_01379.jpg",
+   "type": "rectangle",
+   "points": [
+    336.29,
+    183.65,
+    826.58,
+    617.08
+   ]
+  },
+  {
+   "id": 1498,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 90,
+   "frame_name": "Rqlf3zNPqgQ_frame_01379.jpg",
+   "type": "rectangle",
+   "points": [
+    609.78,
+    252.46,
+    632.03,
+    273.47
+   ]
+  },
+  {
+   "id": 1499,
+   "label_id": 3,
+   "label": "bottle",
+   "frame": 91,
+   "frame_name": "Rqlf3zNPqgQ_frame_01395.jpg",
+   "type": "rectangle",
+   "points": [
+    587.28,
+    380.97,
+    651.73,
+    609.81
+   ]
+  },
+  {
+   "id": 1500,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 93,
+   "frame_name": "Rqlf3zNPqgQ_frame_01425.jpg",
+   "type": "rectangle",
+   "points": [
+    555.26,
+    304.22,
+    1275.22,
+    614.45
+   ]
+  },
+  {
+   "id": 1501,
+   "label_id": 11,
+   "label": "weapon_gun",
+   "frame": 93,
+   "frame_name": "Rqlf3zNPqgQ_frame_01425.jpg",
+   "type": "rectangle",
+   "points": [
+    558.13,
+    306.43,
+    1272.52,
+    448.34
+   ]
+  },
+  {
+   "id": 1502,
+   "label_id": 16,
+   "label": "riot",
+   "frame": 95,
+   "frame_name": "Rqlf3zNPqgQ_frame_01456.jpg",
+   "type": "rectangle",
+   "points": [
+    261.54,
+    101.05,
+    931.7,
+    601.03
+   ]
+  },
+  {
+   "id": 1503,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 97,
+   "frame_name": "Rqlf3zNPqgQ_frame_01487.jpg",
+   "type": "rectangle",
+   "points": [
+    1238.51,
+    410.48,
+    1264.19,
+    447.62
+   ]
+  },
+  {
+   "id": 1504,
+   "label_id": 9,
+   "label": "unknown",
+   "frame": 97,
+   "frame_name": "Rqlf3zNPqgQ_frame_01487.jpg",
+   "type": "rectangle",
+   "points": [
+    455.11,
+    308.49,
+    468.42,
+    329.39
+   ]
+  }
+ ]
+}

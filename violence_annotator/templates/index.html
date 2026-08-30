@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>물리폭력 구간 어노테이터</title>
+<style>
+  :root { --vio:#e60049; --hard:#ffa300; --bg:#1e1e1e; --panel:#2a2a2a; --fg:#eee; --mut:#999; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, sans-serif; background:var(--bg); color:var(--fg); }
+  header { padding:10px 16px; background:var(--panel); display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
+  header input[type=text], header input[type=number] { padding:6px; background:#333; border:1px solid #444; color:#eee; border-radius:4px; }
+  button { padding:6px 12px; background:#3a3a3a; color:#eee; border:1px solid #555; border-radius:4px; cursor:pointer; }
+  button:hover { background:#484848; }
+  button.primary { background:#0a84ff; border-color:#0a84ff; }
+  #main { display:none; padding:16px; }
+  #stage { display:flex; gap:16px; }
+  #viewer { flex:1; min-width:0; }
+  #frameImg { width:100%; max-height:62vh; object-fit:contain; background:#000; border-radius:6px; }
+  #nav { display:flex; gap:8px; align-items:center; margin-top:8px; }
+  #slider { flex:1; }
+  #counter { font-variant-numeric:tabular-nums; min-width:130px; text-align:center; }
+  .legend { display:flex; gap:12px; align-items:center; margin-top:10px; font-size:12px; }
+  #timeline { position:relative; height:30px; background:#333; border-radius:4px; margin-top:6px; overflow:hidden; cursor:pointer; }
+  #timeline .seg { position:absolute; top:0; bottom:0; cursor:pointer; opacity:0.85; }
+  #timeline .seg.violence { background:var(--vio); }
+  #timeline .seg.neg_hard { background:var(--hard); }
+  #timeline .seg:hover { opacity:1; outline:1px solid #fff; }
+  #playhead { position:absolute; top:0; bottom:0; width:3px; background:#fff; box-shadow:0 0 4px #fff; pointer-events:none; left:0; }
+  #side { width:340px; flex-shrink:0; }
+  #status { padding:8px; background:var(--panel); border-radius:6px; min-height:38px; margin-bottom:10px; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th, td { padding:4px 6px; border-bottom:1px solid #3a3a3a; text-align:left; }
+  .pill { padding:1px 7px; border-radius:10px; color:#111; font-weight:600; font-size:11px; }
+  .pill.violence { background:var(--vio); color:#fff; }
+  .pill.neg_hard { background:var(--hard); }
+  .help { color:var(--mut); font-size:12px; line-height:1.7; margin-top:10px; }
+  kbd { background:#333; border:1px solid #555; border-radius:3px; padding:1px 6px; }
+  a.del { color:#ff6b6b; cursor:pointer; }
+  a.jump { color:#5ac8fa; cursor:pointer; }
+</style>
+</head>
+<body>
+<header>
+  <strong>물리폭력 어노테이터</strong>
+  <label class="primary" style="padding:6px 12px; border-radius:4px; cursor:pointer;">
+    📂 mp4 선택 → 자동 추출
+    <input type="file" id="fileInput" accept="video/mp4" style="display:none;">
+  </label>
+  <span style="color:var(--mut)">또는</span>
+  <input type="text" id="pathInput" placeholder="로컬 mp4 경로 후 Enter (예: C:\videos\movie.mp4)" size="36">
+  <button id="extractBtn">경로로 추출</button>
+  <select id="movieSelect"><option value="">— 추출된 영화 불러오기 —</option></select>
+  <progress id="prog" max="100" value="0" style="display:none; width:180px; vertical-align:middle;"></progress>
+  <span id="progText" style="color:var(--mut)"></span>
+  <span id="hdrInfo" style="color:var(--mut)"></span>
+</header>
+
+<div id="main">
+  <div id="stage">
+    <div id="viewer">
+      <img id="frameImg" alt="frame">
+      <div id="nav">
+        <button id="prevBtn">◀ 이전 (←)</button>
+        <input type="range" id="slider" min="0" value="0">
+        <button id="nextBtn">다음 (→) ▶</button>
+        <span id="counter">frame 0 / 0</span>
+      </div>
+      <div class="legend">
+        <span class="pill violence">violence</span>
+        <span class="pill neg_hard">neg_hard</span>
+        <span style="color:var(--mut)">↓ 밑 바 = 표시 위치 (흰 선=현재 프레임) · 블록 클릭하면 삭제</span>
+      </div>
+      <div id="timeline"><div id="playhead"></div></div>
+    </div>
+    <div id="side">
+      <div id="status">대기 중</div>
+      <div style="margin-bottom:8px;">
+        <button class="primary" id="saveBtn">저장 (txt 생성)</button>
+        <span id="saveInfo" style="color:var(--mut); font-size:12px;"></span>
+      </div>
+      <div class="help">
+        <kbd>←</kbd> / <kbd>→</kbd> 프레임 이동 · <kbd>Shift</kbd>+화살표 10프레임<br>
+        <kbd>1</kbd> violence 시작 → 다시 <kbd>1</kbd> 끝<br>
+        <kbd>2</kbd> neg_hard 시작 → 다시 <kbd>2</kbd> 끝<br>
+        <kbd>Esc</kbd> 진행 중 구간 취소 · <kbd>Ctrl</kbd>+<kbd>Z</kbd> 실행취소 · <kbd>Ctrl</kbd>+<kbd>S</kbd> 저장<br>
+        밑 <b>타임라인 바</b>: 색블록=표시구간(클릭 삭제) · <b>빈 곳 클릭/드래그 = 위치 이동</b><br>
+        표시 안 한 구간은 저장 시 <b>neg_easy 자동</b> 채움.
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const LABEL_KEY = { "1": "violence", "2": "neg_hard" };
+let movieId = "", nFrames = 0, cur = 0;
+let segments = [];           // {start_frame, end_frame, label}
+let pending = null;          // {label, start}
+let history = [];            // segments 스냅샷 스택 (Ctrl+Z용)
+let saveTimer = null;        // 자동저장 디바운스 타이머
+let tlDown = false, tlDragging = false;  // 타임라인 드래그(스크럽) 상태
+
+const $ = (id) => document.getElementById(id);
+
+function setStatus(msg) { $("status").innerHTML = msg; }
+
+function loadFrame(i) {
+  cur = Math.max(0, Math.min(nFrames - 1, i));
+  const name = "frame_" + String(cur).padStart(6, "0") + ".jpg";
+  $("frameImg").src = "/images/" + encodeURIComponent(movieId) + "/" + name;
+  $("slider").value = cur;
+  $("counter").textContent = "frame " + cur + " / " + (nFrames - 1);
+  updatePlayhead();
+}
+
+function updatePlayhead() {
+  $("playhead").style.left = (100 * cur / Math.max(1, nFrames - 1)) + "%";
+}
+
+function renderTimeline() {
+  const tl = $("timeline");
+  tl.querySelectorAll(".seg").forEach((e) => e.remove());  // playhead는 남김
+  segments.sort((a, b) => a.start_frame - b.start_frame);
+  segments.forEach((s) => {
+    const d = document.createElement("div");
+    d.className = "seg " + s.label;
+    d.style.left = (100 * s.start_frame / nFrames) + "%";
+    d.style.width = Math.max(0.3, 100 * (s.end_frame - s.start_frame + 1) / nFrames) + "%";
+    d.title = s.label + " " + s.start_frame + "~" + s.end_frame + " (클릭=삭제)";
+    d.onclick = () => {
+      if (tlDragging) return;   // 드래그(스크럽)였으면 삭제하지 않음
+      const k = segments.indexOf(s);
+      if (k >= 0) { pushHistory(); segments.splice(k, 1); scheduleSave(); renderAll(); }
+    };
+    tl.appendChild(d);
+  });
+}
+
+function renderAll() {
+  renderTimeline();
+  const n = segments.length;
+  if (pending) {
+    setStatus("<span class='pill " + pending.label + "'>" + pending.label +
+      "</span> 시작 = frame " + pending.start + " → 다시 같은 키로 <b>끝</b> · 표시 " + n + "개");
+  } else {
+    setStatus("<kbd>1</kbd> violence / <kbd>2</kbd> neg_hard 로 구간 표시 · 현재 " + n + "개");
+  }
+}
+
+function pushHistory() {
+  history.push(segments.map((s) => ({ ...s })));
+  if (history.length > 200) history.shift();
+}
+
+function undo() {
+  if (pending) { pending = null; renderAll(); return; }  // 진행 중 시작점부터 취소
+  if (!history.length) return;
+  segments = history.pop();
+  scheduleSave();
+  renderAll();
+}
+
+function mark(label) {
+  if (pending && pending.label === label) {
+    const a = Math.min(pending.start, cur), b = Math.max(pending.start, cur);
+    pushHistory();
+    segments.push({ start_frame: a, end_frame: b, label });
+    pending = null;
+    scheduleSave();
+  } else if (pending && pending.label !== label) {
+    setStatus("먼저 진행 중인 <b>" + pending.label + "</b> 끝점을 찍어 (시작=" + pending.start + ", <kbd>Esc</kbd>로 취소)");
+    return;
+  } else {
+    pending = { label, start: cur };
+  }
+  renderAll();
+}
+
+async function openMovie(mid, n) {
+  if (saveTimer) { clearTimeout(saveTimer); await autoSave(); }  // 이전 영화 미저장분 먼저 저장
+  movieId = mid; nFrames = n;
+  pending = null; history = []; segments = [];
+  try {
+    const j = await (await fetch("/load/" + encodeURIComponent(mid))).json();
+    if (j.segments) segments = j.segments;   // 기존 txt에서 라벨 복원
+  } catch (e) { /* 기존 라벨 없음 → 빈 상태 */ }
+  $("main").style.display = "block";
+  $("hdrInfo").textContent = movieId + " · " + nFrames + " frames · 불러온 라벨 " + segments.length + "개";
+  $("slider").max = nFrames - 1;
+  loadFrame(0); renderAll();
+}
+
+// ---- 추출 ----
+function resetProg() {
+  $("prog").style.display = "none";
+  $("progText").textContent = "";
+  $("extractBtn").disabled = false;
+  $("fileInput").value = "";   // 같은 파일 다시 선택해도 onchange 뜨게
+}
+
+async function doExtract(useFile) {
+  const path = $("pathInput").value.trim();
+  const file = $("fileInput").files[0];
+  if (useFile && !file) return;
+  if (!useFile && !path) { alert("경로를 넣거나 파일을 선택해"); return; }
+  const fd = new FormData();
+  if (useFile) fd.append("file", file); else fd.append("path", path);
+  $("extractBtn").disabled = true;
+  $("hdrInfo").textContent = "";
+  $("prog").style.display = "inline-block";
+  $("prog").value = 0;
+  $("progText").textContent = useFile ? "업로드 중..." : "추출 준비 중...";
+  let res;
+  try {
+    res = await (await fetch("/extract", { method: "POST", body: fd })).json();
+  } catch (e) { alert("추출 시작 실패: " + e); resetProg(); return; }
+  if (res.error) { alert("추출 실패: " + res.error); resetProg(); return; }
+  pollProgress(res.movie_id);
+}
+
+function pollProgress(mid) {
+  const timer = setInterval(async () => {
+    let p;
+    try { p = await (await fetch("/progress/" + encodeURIComponent(mid))).json(); }
+    catch (e) { return; }  // 일시 실패는 무시하고 다음 폴링
+    const pct = p.total ? Math.min(100, Math.round(100 * p.saved / p.total)) : 0;
+    $("prog").value = pct;
+    $("progText").textContent = "프레임 추출 " + p.saved + " / " + p.total + " (" + pct + "%)";
+    if (p.error) { clearInterval(timer); alert("추출 오류: " + p.error); resetProg(); return; }
+    if (p.done) {
+      clearInterval(timer);
+      resetProg();
+      openMovie(mid, p.saved); loadMovieList();
+    }
+  }, 400);
+}
+
+$("fileInput").onchange = () => doExtract(true);          // 파일 선택 즉시 추출
+$("extractBtn").onclick = () => doExtract(false);
+$("pathInput").onkeydown = (e) => { if (e.key === "Enter") doExtract(false); };
+
+// ---- 기존 영화 불러오기 ----
+async function loadMovieList() {
+  const r = await fetch("/movies");
+  const list = await r.json();
+  const sel = $("movieSelect");
+  sel.innerHTML = "<option value=''>— 추출된 영화 불러오기 —</option>";
+  for (const m of list) {
+    const o = document.createElement("option");
+    o.value = m.movie_id; o.dataset.n = m.n_frames;
+    o.textContent = m.movie_id + " (" + m.n_frames + ")";
+    sel.appendChild(o);
+  }
+}
+$("movieSelect").onchange = (e) => {
+  const opt = e.target.selectedOptions[0];
+  if (!opt.value) return;
+  openMovie(opt.value, parseInt(opt.dataset.n, 10));
+};
+
+// ---- 저장 ----
+async function doSave() {
+  if (!movieId) return;
+  if (pending) { alert("진행 중인 구간을 끝내거나 Esc로 취소해"); return; }
+  const r = await fetch("/save", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ movie_id: movieId, n_frames: nFrames, segments }),
+  });
+  const j = await r.json();
+  if (!r.ok) { alert("저장 실패: " + j.error); return; }
+  $("saveInfo").textContent = "✔ " + j.scenes + " scenes 저장됨 → " + j.saved;
+}
+$("saveBtn").onclick = doSave;
+
+async function autoSave() {
+  if (!movieId || pending) return;
+  try {
+    const j = await (await fetch("/save", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ movie_id: movieId, n_frames: nFrames, segments }),
+    })).json();
+    if (j.scenes !== undefined) $("saveInfo").textContent = "자동저장됨 · " + j.scenes + " scenes";
+  } catch (e) { /* 무시, 다음 변경 때 재시도 */ }
+}
+
+function scheduleSave() {
+  if (!movieId) return;
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(autoSave, 400);
+}
+
+// ---- 네비게이션 ----
+$("prevBtn").onclick = () => loadFrame(cur - 1);
+$("nextBtn").onclick = () => loadFrame(cur + 1);
+$("slider").oninput = (e) => loadFrame(parseInt(e.target.value, 10));
+
+// ---- 타임라인 클릭/드래그로 위치 이동(스크럽) ----
+function frameFromEvent(e) {
+  const rect = $("timeline").getBoundingClientRect();
+  const x = Math.min(rect.width, Math.max(0, e.clientX - rect.left));
+  return Math.round((x / rect.width) * Math.max(1, nFrames - 1));
+}
+let rafQueued = false, pendingFrame = null;
+function seekTo(f) {
+  pendingFrame = f;
+  if (rafQueued) return;
+  rafQueued = true;
+  requestAnimationFrame(() => { rafQueued = false; if (pendingFrame !== null) loadFrame(pendingFrame); });
+}
+$("timeline").addEventListener("mousedown", () => {
+  if (!movieId) return;
+  tlDown = true; tlDragging = false;
+});
+document.addEventListener("mousemove", (e) => {
+  if (!tlDown) return;
+  tlDragging = true;
+  seekTo(frameFromEvent(e));   // 드래그 중 흰선이 따라옴
+});
+document.addEventListener("mouseup", () => {
+  if (!tlDown) return;
+  tlDown = false;
+  setTimeout(() => { tlDragging = false; }, 0);  // click 핸들러가 본 뒤 리셋
+});
+$("timeline").addEventListener("click", (e) => {
+  if (tlDragging) return;                          // 드래그였으면 무시
+  if (e.target.classList.contains("seg")) return;  // seg 클릭 = 삭제(별도 핸들러)
+  seekTo(frameFromEvent(e));                        // 빈 곳 클릭 = 이동
+});
+
+document.addEventListener("keydown", (e) => {
+  if ($("main").style.display === "none") return;
+  if (e.ctrlKey || e.metaKey) {
+    const k = e.key.toLowerCase();
+    if (k === "s") { e.preventDefault(); doSave(); return; }
+    if (k === "z") { e.preventDefault(); undo(); return; }
+    return;
+  }
+  if (e.target.tagName === "INPUT" && e.target.type === "text") return;
+  const big = e.shiftKey ? 10 : 1;
+  if (e.key === "ArrowLeft") { loadFrame(cur - big); e.preventDefault(); }
+  else if (e.key === "ArrowRight") { loadFrame(cur + big); e.preventDefault(); }
+  else if (e.key === "Escape") { pending = null; renderAll(); }
+  else if (LABEL_KEY[e.key]) { mark(LABEL_KEY[e.key]); }
+});
+
+loadMovieList();
+</script>
+</body>
+</html>

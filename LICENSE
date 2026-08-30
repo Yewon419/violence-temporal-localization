@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 Yewon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+이 라이선스는 이 저장소의 **코드에만** 적용됩니다.
+
+라벨(`labels/`, `violence_annotator/output/`)이 파생된 원 데이터셋은 각자의 라이선스를 따릅니다.
+
+- XD-Violence test split: research only
+- HOD (Harmful Object Detection): research only
+- Roboflow Harmful Objects: CC BY 4.0
+- Roboflow Smoking and Drinking Detection: CC BY 4.0
+- Mendeley Smoker Detection (Khan et al., Sensors 2022, doi:10.17632/j45dj8bgfc.1): CC BY 4.0, 인용 의무
+
+영화 프레임과 영상은 이 저장소에 포함되어 있지 않습니다.

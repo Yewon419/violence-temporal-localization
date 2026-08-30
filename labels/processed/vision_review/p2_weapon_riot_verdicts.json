@@ -1,0 +1,902 @@
+[
+ {
+  "idx": 0,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00264.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3378,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   458.8,
+   12.4,
+   112.4,
+   620.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\000_3auH8hGUezI_00264_weapon_gun.jpg",
+  "recommendation": "relabel",
+  "observed": "→weapon_knife: 내부자들 칼(검) 뽑는 장면 (총 아님, borderline)"
+ },
+ {
+  "idx": 1,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00264.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3375,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   458.2,
+   13.6,
+   115.8,
+   690.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\001_3auH8hGUezI_00264_weapon_gun.jpg",
+  "recommendation": "relabel",
+  "observed": "→weapon_knife: 위와 동일 frame 중복 박스 (검)"
+ },
+ {
+  "idx": 2,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00295.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.54,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   703.8,
+   135.8,
+   75.0,
+   331.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\002_3auH8hGUezI_00295_weapon_gun.jpg",
+  "recommendation": "relabel",
+  "observed": "→weapon_knife: 빗속 장검 명확 (총 아님)"
+ },
+ {
+  "idx": 3,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00477.jpg",
+  "cvat_label": "riot",
+  "score": 0.3421,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   495.2,
+   97.8,
+   402.6,
+   471.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\003_3auH8hGUezI_00477_riot.jpg",
+  "recommendation": "delete",
+  "observed": "롤렉스 시계(상자 안)"
+ },
+ {
+  "idx": 4,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00518.jpg",
+  "cvat_label": "riot",
+  "score": 0.3877,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   188.3,
+   282.1,
+   891.8,
+   308.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\004_3auH8hGUezI_00518_riot.jpg",
+  "recommendation": "delete",
+  "observed": "롤렉스 시계(서랍 안)"
+ },
+ {
+  "idx": 5,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00812.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3074,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   578.9,
+   538.8,
+   110.7,
+   30.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\005_3auH8hGUezI_00812_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식탁 상추/음식"
+ },
+ {
+  "idx": 6,
+  "vid": "3auH8hGUezI",
+  "frame": "3auH8hGUezI_frame_00822.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3099,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   564.8,
+   621.1,
+   55.8,
+   36.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\006_3auH8hGUezI_00822_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식탁 그릇"
+ },
+ {
+  "idx": 7,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_00705.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3232,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   1063.2,
+   653.7,
+   95.9,
+   30.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\007_69RJZ7TwDrQ_00705_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식탁 반찬"
+ },
+ {
+  "idx": 8,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01233.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3805,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   442.6,
+   584.1,
+   85.1,
+   20.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\008_69RJZ7TwDrQ_01233_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식탁 소주병/젓가락"
+ },
+ {
+  "idx": 9,
+  "vid": "69RJZ7TwDrQ",
+  "frame": "69RJZ7TwDrQ_frame_01445.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3198,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   606.6,
+   679.7,
+   71.9,
+   26.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\009_69RJZ7TwDrQ_01445_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "연회 식탁"
+ },
+ {
+  "idx": 10,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00010.jpg",
+  "cvat_label": "riot",
+  "score": 0.3274,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   335.3,
+   106.2,
+   760.8,
+   525.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\010_LkSY-EuTb1E_00010_riot.jpg",
+  "recommendation": "delete",
+  "observed": "채널 인트로 영화관 의자 일러스트"
+ },
+ {
+  "idx": 11,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00019.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4583,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   497.9,
+   354.8,
+   283.4,
+   37.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\011_LkSY-EuTb1E_00019_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장식 장총(라이플) — 근접 명확"
+ },
+ {
+  "idx": 12,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00019.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4202,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   508.0,
+   235.7,
+   273.6,
+   34.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\012_LkSY-EuTb1E_00019_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장식 장총 — 근접 명확"
+ },
+ {
+  "idx": 13,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00019.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3117,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   582.5,
+   408.9,
+   196.8,
+   34.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\013_LkSY-EuTb1E_00019_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장식 장총 — 근접 명확"
+ },
+ {
+  "idx": 14,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00019.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3884,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   518.1,
+   290.7,
+   264.7,
+   33.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\014_LkSY-EuTb1E_00019_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장식 장총 — 근접 명확"
+ },
+ {
+  "idx": 15,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00019.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3611,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   506.9,
+   408.5,
+   272.6,
+   36.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\015_LkSY-EuTb1E_00019_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장식 장총 — 근접 명확"
+ },
+ {
+  "idx": 16,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00023.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3776,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   584.8,
+   91.6,
+   196.5,
+   32.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\016_LkSY-EuTb1E_00023_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(와이드샷, 원거리·작음·저품질)"
+ },
+ {
+  "idx": 17,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00023.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3326,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   506.4,
+   141.6,
+   272.7,
+   37.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\017_LkSY-EuTb1E_00023_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(와이드샷, 원거리·저품질)"
+ },
+ {
+  "idx": 18,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00023.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.32,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   497.7,
+   91.0,
+   284.2,
+   34.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\018_LkSY-EuTb1E_00023_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(와이드샷, 원거리·저품질)"
+ },
+ {
+  "idx": 19,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00023.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3282,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   582.7,
+   142.3,
+   196.1,
+   34.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\019_LkSY-EuTb1E_00023_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(와이드샷, 원거리·저품질)"
+ },
+ {
+  "idx": 20,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00143.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.4392,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   805.4,
+   315.0,
+   150.5,
+   92.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\020_LkSY-EuTb1E_00143_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "마약왕 폐허신 — 박스는 잔해 벽(칼 안 보임)"
+ },
+ {
+  "idx": 21,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00322.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4868,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   490.6,
+   215.5,
+   271.0,
+   37.5
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\021_LkSY-EuTb1E_00322_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 쌍열 산탄총 — 명확"
+ },
+ {
+  "idx": 22,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00322.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4385,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   510.3,
+   156.9,
+   251.0,
+   30.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\022_LkSY-EuTb1E_00322_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(박스 약간 위로 헐거움)"
+ },
+ {
+  "idx": 23,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00322.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.486,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   498.8,
+   268.3,
+   261.1,
+   35.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\023_LkSY-EuTb1E_00322_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 산탄총 — 명확"
+ },
+ {
+  "idx": 24,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00322.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4172,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   500.7,
+   103.7,
+   260.7,
+   33.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\024_LkSY-EuTb1E_00322_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(박스 약간 위로 헐거움)"
+ },
+ {
+  "idx": 25,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00326.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4826,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   490.7,
+   214.8,
+   270.6,
+   38.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\025_LkSY-EuTb1E_00326_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 쌍열 산탄총 — 명확"
+ },
+ {
+  "idx": 26,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00326.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4692,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   498.7,
+   268.4,
+   261.2,
+   35.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\026_LkSY-EuTb1E_00326_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총 — 명확"
+ },
+ {
+  "idx": 27,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00326.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3848,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   510.0,
+   156.9,
+   251.2,
+   30.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\027_LkSY-EuTb1E_00326_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(박스 약간 위로 헐거움)"
+ },
+ {
+  "idx": 28,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00326.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3695,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   500.5,
+   103.6,
+   260.2,
+   33.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\028_LkSY-EuTb1E_00326_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "마약왕 저택 벽 장총(박스 약간 위로 헐거움)"
+ },
+ {
+  "idx": 29,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00349.jpg",
+  "cvat_label": "riot",
+  "score": 0.3217,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   554.5,
+   121.2,
+   276.3,
+   332.7
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\029_LkSY-EuTb1E_00349_riot.jpg",
+  "recommendation": "delete",
+  "observed": "어선"
+ },
+ {
+  "idx": 30,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00441.jpg",
+  "cvat_label": "riot",
+  "score": 0.3119,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   422.8,
+   91.2,
+   435.9,
+   531.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\030_LkSY-EuTb1E_00441_riot.jpg",
+  "recommendation": "delete",
+  "observed": "'남산의 부장들' 포스터"
+ },
+ {
+  "idx": 31,
+  "vid": "LkSY-EuTb1E",
+  "frame": "LkSY-EuTb1E_frame_00446.jpg",
+  "cvat_label": "riot",
+  "score": 0.3047,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   195.8,
+   111.5,
+   719.7,
+   511.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\031_LkSY-EuTb1E_00446_riot.jpg",
+  "recommendation": "delete",
+  "observed": "불티 날리는 배"
+ },
+ {
+  "idx": 32,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01425.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.5736,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   558.1,
+   306.4,
+   714.4,
+   141.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\032_Rqlf3zNPqgQ_01425_weapon_gun.jpg",
+  "recommendation": "keep",
+  "observed": "★ AK-47 소총 명확 (달콤한 인생)"
+ },
+ {
+  "idx": 33,
+  "vid": "Rqlf3zNPqgQ",
+  "frame": "Rqlf3zNPqgQ_frame_01456.jpg",
+  "cvat_label": "riot",
+  "score": 0.3044,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   261.5,
+   101.0,
+   670.2,
+   500.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\033_Rqlf3zNPqgQ_01456_riot.jpg",
+  "recommendation": "delete",
+  "observed": "폴더폰(흑백)"
+ },
+ {
+  "idx": 34,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00404.jpg",
+  "cvat_label": "riot",
+  "score": 0.3514,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   284.2,
+   222.3,
+   394.2,
+   207.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\034_vyXEi00PVrw_00404_riot.jpg",
+  "recommendation": "delete",
+  "observed": "아시아나 비행기"
+ },
+ {
+  "idx": 35,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00413.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.2973,
+  "verdict": "uncertain",
+  "category": "low_score",
+  "bbox_xywh": [
+   986.2,
+   537.4,
+   80.0,
+   45.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\035_vyXEi00PVrw_00413_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식탁 커틀러리(식사용 나이프, 무기 아님)"
+ },
+ {
+  "idx": 36,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00646.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.4106,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   643.6,
+   484.0,
+   116.6,
+   77.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\036_vyXEi00PVrw_00646_weapon_gun.jpg",
+  "recommendation": "delete",
+  "observed": "문서 속 흑백 사진(총 확인 불가, 저해상)"
+ },
+ {
+  "idx": 37,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00681.jpg",
+  "cvat_label": "riot",
+  "score": 0.4139,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   371.7,
+   284.0,
+   649.7,
+   254.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\037_vyXEi00PVrw_00681_riot.jpg",
+  "recommendation": "delete",
+  "observed": "인화 사진들"
+ },
+ {
+  "idx": 38,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00807.jpg",
+  "cvat_label": "riot",
+  "score": 0.3003,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   332.8,
+   87.3,
+   614.5,
+   539.9
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\038_vyXEi00PVrw_00807_riot.jpg",
+  "recommendation": "delete",
+  "observed": "장례식 영정"
+ },
+ {
+  "idx": 39,
+  "vid": "vyXEi00PVrw",
+  "frame": "vyXEi00PVrw_frame_00834.jpg",
+  "cvat_label": "riot",
+  "score": 0.343,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   6.0,
+   83.3,
+   520.5,
+   549.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\039_vyXEi00PVrw_00834_riot.jpg",
+  "recommendation": "delete",
+  "observed": "건설 철탑/크레인"
+ },
+ {
+  "idx": 40,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00001.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3127,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   472.3,
+   275.7,
+   45.3,
+   131.3
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\040_wBr3f72w-fg_00001_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "타이틀 글자 'f'"
+ },
+ {
+  "idx": 41,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00568.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3387,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   718.6,
+   518.0,
+   126.1,
+   29.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\041_wBr3f72w-fg_00568_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식탁 그릇/숟가락"
+ },
+ {
+  "idx": 42,
+  "vid": "wBr3f72w-fg",
+  "frame": "wBr3f72w-fg_frame_00792.jpg",
+  "cvat_label": "riot",
+  "score": 0.3073,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   238.2,
+   84.2,
+   815.2,
+   545.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\042_wBr3f72w-fg_00792_riot.jpg",
+  "recommendation": "delete",
+  "observed": "서류"
+ },
+ {
+  "idx": 43,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00252.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3687,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   309.2,
+   568.1,
+   99.6,
+   28.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\043_x2PjLCMrfTk_00252_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식당 숟가락"
+ },
+ {
+  "idx": 44,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00252.jpg",
+  "cvat_label": "weapon_knife",
+  "score": 0.3634,
+  "verdict": "positive",
+  "category": "weapon_knife",
+  "bbox_xywh": [
+   304.6,
+   570.1,
+   36.6,
+   38.1
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\044_x2PjLCMrfTk_00252_weapon_knife.jpg",
+  "recommendation": "delete",
+  "observed": "식당 숟가락"
+ },
+ {
+  "idx": 45,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00754.jpg",
+  "cvat_label": "riot",
+  "score": 0.3647,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   3.3,
+   85.4,
+   651.8,
+   544.0
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\045_x2PjLCMrfTk_00754_riot.jpg",
+  "recommendation": "delete",
+  "observed": "공중전화 키패드"
+ },
+ {
+  "idx": 46,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_00862.jpg",
+  "cvat_label": "weapon_gun",
+  "score": 0.3212,
+  "verdict": "positive",
+  "category": "weapon_gun",
+  "bbox_xywh": [
+   955.7,
+   89.6,
+   164.4,
+   536.6
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\046_x2PjLCMrfTk_00862_weapon_gun.jpg",
+  "recommendation": "delete",
+  "observed": "눈밭 나뭇가지/막대기(총 아님)"
+ },
+ {
+  "idx": 47,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01274.jpg",
+  "cvat_label": "riot",
+  "score": 0.3231,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   270.8,
+   130.6,
+   886.6,
+   500.4
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\047_x2PjLCMrfTk_01274_riot.jpg",
+  "recommendation": "delete",
+  "observed": "빗속 주행 차"
+ },
+ {
+  "idx": 48,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01633.jpg",
+  "cvat_label": "riot",
+  "score": 0.3166,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   320.9,
+   399.7,
+   754.8,
+   231.2
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\048_x2PjLCMrfTk_01633_riot.jpg",
+  "recommendation": "delete",
+  "observed": "자막 텍스트 오버레이"
+ },
+ {
+  "idx": 49,
+  "vid": "x2PjLCMrfTk",
+  "frame": "x2PjLCMrfTk_frame_01741.jpg",
+  "cvat_label": "riot",
+  "score": 0.4568,
+  "verdict": "positive",
+  "category": "riot",
+  "bbox_xywh": [
+   344.7,
+   139.3,
+   681.1,
+   368.8
+  ],
+  "image_out": "data\\processed\\vision_review\\p2_weapon_riot\\049_x2PjLCMrfTk_01741_riot.jpg",
+  "recommendation": "delete",
+  "observed": "야간 어선"
+ }
+]

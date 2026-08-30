@@ -1,0 +1,1026 @@
+{
+  "info": {
+    "description": "GD pre-annotation for Tj7Doyo8XdQ",
+    "version": "1.0",
+    "year": 2026,
+    "contributor": "yewon",
+    "date_created": ""
+  },
+  "licenses": [
+    {
+      "id": 0,
+      "name": "Unknown",
+      "url": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "Tj7Doyo8XdQ_frame_00001.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 2,
+      "file_name": "Tj7Doyo8XdQ_frame_00005.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 3,
+      "file_name": "Tj7Doyo8XdQ_frame_00010.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 4,
+      "file_name": "Tj7Doyo8XdQ_frame_00014.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 5,
+      "file_name": "Tj7Doyo8XdQ_frame_00019.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 6,
+      "file_name": "Tj7Doyo8XdQ_frame_00023.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 7,
+      "file_name": "Tj7Doyo8XdQ_frame_00028.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 8,
+      "file_name": "Tj7Doyo8XdQ_frame_00033.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 9,
+      "file_name": "Tj7Doyo8XdQ_frame_00037.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 10,
+      "file_name": "Tj7Doyo8XdQ_frame_00042.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 11,
+      "file_name": "Tj7Doyo8XdQ_frame_00046.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 12,
+      "file_name": "Tj7Doyo8XdQ_frame_00051.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 13,
+      "file_name": "Tj7Doyo8XdQ_frame_00056.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 14,
+      "file_name": "Tj7Doyo8XdQ_frame_00060.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 15,
+      "file_name": "Tj7Doyo8XdQ_frame_00065.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 16,
+      "file_name": "Tj7Doyo8XdQ_frame_00069.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 17,
+      "file_name": "Tj7Doyo8XdQ_frame_00074.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 18,
+      "file_name": "Tj7Doyo8XdQ_frame_00079.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 19,
+      "file_name": "Tj7Doyo8XdQ_frame_00083.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 20,
+      "file_name": "Tj7Doyo8XdQ_frame_00088.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 21,
+      "file_name": "Tj7Doyo8XdQ_frame_00092.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 22,
+      "file_name": "Tj7Doyo8XdQ_frame_00097.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 23,
+      "file_name": "Tj7Doyo8XdQ_frame_00101.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 24,
+      "file_name": "Tj7Doyo8XdQ_frame_00106.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 25,
+      "file_name": "Tj7Doyo8XdQ_frame_00111.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 26,
+      "file_name": "Tj7Doyo8XdQ_frame_00115.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 27,
+      "file_name": "Tj7Doyo8XdQ_frame_00120.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 28,
+      "file_name": "Tj7Doyo8XdQ_frame_00124.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 29,
+      "file_name": "Tj7Doyo8XdQ_frame_00129.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 30,
+      "file_name": "Tj7Doyo8XdQ_frame_00134.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 31,
+      "file_name": "Tj7Doyo8XdQ_frame_00138.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 32,
+      "file_name": "Tj7Doyo8XdQ_frame_00143.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 33,
+      "file_name": "Tj7Doyo8XdQ_frame_00147.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 34,
+      "file_name": "Tj7Doyo8XdQ_frame_00152.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 35,
+      "file_name": "Tj7Doyo8XdQ_frame_00157.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 36,
+      "file_name": "Tj7Doyo8XdQ_frame_00161.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 37,
+      "file_name": "Tj7Doyo8XdQ_frame_00166.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 38,
+      "file_name": "Tj7Doyo8XdQ_frame_00170.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 39,
+      "file_name": "Tj7Doyo8XdQ_frame_00175.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 40,
+      "file_name": "Tj7Doyo8XdQ_frame_00180.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 41,
+      "file_name": "Tj7Doyo8XdQ_frame_00184.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 42,
+      "file_name": "Tj7Doyo8XdQ_frame_00189.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 43,
+      "file_name": "Tj7Doyo8XdQ_frame_00193.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 44,
+      "file_name": "Tj7Doyo8XdQ_frame_00198.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 45,
+      "file_name": "Tj7Doyo8XdQ_frame_00202.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 46,
+      "file_name": "Tj7Doyo8XdQ_frame_00207.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 47,
+      "file_name": "Tj7Doyo8XdQ_frame_00212.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 48,
+      "file_name": "Tj7Doyo8XdQ_frame_00216.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 49,
+      "file_name": "Tj7Doyo8XdQ_frame_00221.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 50,
+      "file_name": "Tj7Doyo8XdQ_frame_00225.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 51,
+      "file_name": "Tj7Doyo8XdQ_frame_00230.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 52,
+      "file_name": "Tj7Doyo8XdQ_frame_00235.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 53,
+      "file_name": "Tj7Doyo8XdQ_frame_00239.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 54,
+      "file_name": "Tj7Doyo8XdQ_frame_00244.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 55,
+      "file_name": "Tj7Doyo8XdQ_frame_00248.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 56,
+      "file_name": "Tj7Doyo8XdQ_frame_00253.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 57,
+      "file_name": "Tj7Doyo8XdQ_frame_00258.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 58,
+      "file_name": "Tj7Doyo8XdQ_frame_00262.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 59,
+      "file_name": "Tj7Doyo8XdQ_frame_00267.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 60,
+      "file_name": "Tj7Doyo8XdQ_frame_00271.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 61,
+      "file_name": "Tj7Doyo8XdQ_frame_00276.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 62,
+      "file_name": "Tj7Doyo8XdQ_frame_00280.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 63,
+      "file_name": "Tj7Doyo8XdQ_frame_00285.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 64,
+      "file_name": "Tj7Doyo8XdQ_frame_00290.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 65,
+      "file_name": "Tj7Doyo8XdQ_frame_00294.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 66,
+      "file_name": "Tj7Doyo8XdQ_frame_00299.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 67,
+      "file_name": "Tj7Doyo8XdQ_frame_00303.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 68,
+      "file_name": "Tj7Doyo8XdQ_frame_00308.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 69,
+      "file_name": "Tj7Doyo8XdQ_frame_00313.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 70,
+      "file_name": "Tj7Doyo8XdQ_frame_00317.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 71,
+      "file_name": "Tj7Doyo8XdQ_frame_00322.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 72,
+      "file_name": "Tj7Doyo8XdQ_frame_00326.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 73,
+      "file_name": "Tj7Doyo8XdQ_frame_00331.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 74,
+      "file_name": "Tj7Doyo8XdQ_frame_00336.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 75,
+      "file_name": "Tj7Doyo8XdQ_frame_00340.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 76,
+      "file_name": "Tj7Doyo8XdQ_frame_00345.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 77,
+      "file_name": "Tj7Doyo8XdQ_frame_00349.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 78,
+      "file_name": "Tj7Doyo8XdQ_frame_00354.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 79,
+      "file_name": "Tj7Doyo8XdQ_frame_00359.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 80,
+      "file_name": "Tj7Doyo8XdQ_frame_00363.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 81,
+      "file_name": "Tj7Doyo8XdQ_frame_00368.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 82,
+      "file_name": "Tj7Doyo8XdQ_frame_00372.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 83,
+      "file_name": "Tj7Doyo8XdQ_frame_00377.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 84,
+      "file_name": "Tj7Doyo8XdQ_frame_00381.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 85,
+      "file_name": "Tj7Doyo8XdQ_frame_00386.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 86,
+      "file_name": "Tj7Doyo8XdQ_frame_00391.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 87,
+      "file_name": "Tj7Doyo8XdQ_frame_00395.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 88,
+      "file_name": "Tj7Doyo8XdQ_frame_00400.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 89,
+      "file_name": "Tj7Doyo8XdQ_frame_00404.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 90,
+      "file_name": "Tj7Doyo8XdQ_frame_00409.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 91,
+      "file_name": "Tj7Doyo8XdQ_frame_00414.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 92,
+      "file_name": "Tj7Doyo8XdQ_frame_00418.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 93,
+      "file_name": "Tj7Doyo8XdQ_frame_00423.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 94,
+      "file_name": "Tj7Doyo8XdQ_frame_00427.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 95,
+      "file_name": "Tj7Doyo8XdQ_frame_00432.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 96,
+      "file_name": "Tj7Doyo8XdQ_frame_00437.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 97,
+      "file_name": "Tj7Doyo8XdQ_frame_00441.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 98,
+      "file_name": "Tj7Doyo8XdQ_frame_00446.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 99,
+      "file_name": "Tj7Doyo8XdQ_frame_00450.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 100,
+      "file_name": "Tj7Doyo8XdQ_frame_00455.jpg",
+      "width": 1280,
+      "height": 720,
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "unknown",
+      "supercategory": ""
+    }
+  ]
+}

@@ -1,0 +1,4402 @@
+[
+{
+"cat": "Abuse",
+"name": "Taken.2.UNRATED.EXTENDED.2012__#00-13-42_00-14-16_seg000_kf0003.jpg",
+"blur": 15.45,
+"mean": 27.42,
+"std": 29.97,
+"min_side": 268
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0002.jpg",
+"blur": 19.97,
+"mean": 28.41,
+"std": 35.77,
+"min_side": 272
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0007.jpg",
+"blur": 18.96,
+"mean": 32.15,
+"std": 35.68,
+"min_side": 272
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0009.jpg",
+"blur": 19.55,
+"mean": 61.45,
+"std": 46.19,
+"min_side": 272
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0010.jpg",
+"blur": 4.08,
+"mean": 38.24,
+"std": 20.42,
+"min_side": 272
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0012.jpg",
+"blur": 15.41,
+"mean": 27.73,
+"std": 29.22,
+"min_side": 272
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0013.jpg",
+"blur": 14.63,
+"mean": 44.59,
+"std": 48.22,
+"min_side": 272
+},
+{
+"cat": "Abuse",
+"name": "Yellow.Sea.2010__#01-58-30_01-59-27_seg000_kf0015.jpg",
+"blur": 14.82,
+"mean": 35.76,
+"std": 39.43,
+"min_side": 272
+},
+{
+"cat": "Car Accident",
+"name": "Casino.Royale.2006__#01-46-40_01-47-14_seg000_kf0001.jpg",
+"blur": 18.18,
+"mean": 18.65,
+"std": 13.68,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Casino.Royale.2006__#01-46-40_01-47-14_seg000_kf0002.jpg",
+"blur": 5.31,
+"mean": 38.83,
+"std": 33.61,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Five.2011__#00-01-41_00-01-57_seg000_kf0001.jpg",
+"blur": 3.23,
+"mean": 95.31,
+"std": 43.37,
+"min_side": 272
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Five.2011__#00-01-41_00-01-57_seg000_kf0002.jpg",
+"blur": 19.47,
+"mean": 83.62,
+"std": 63.32,
+"min_side": 272
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Furious.2009__#00-21-06_00-21-57_seg000_kf0002.jpg",
+"blur": 19.12,
+"mean": 21.27,
+"std": 26.12,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Furious.2009__#00-21-06_00-21-57_seg000_kf0005.jpg",
+"blur": 12.63,
+"mean": 37.86,
+"std": 44.37,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Furious.2009__#00-21-06_00-21-57_seg001_kf0000.jpg",
+"blur": 0.88,
+"mean": 185.72,
+"std": 16.13,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Furious.2009__#00-42-10_00-42-41_seg000_kf0000.jpg",
+"blur": 9.63,
+"mean": 57.32,
+"std": 35.25,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Furious.2009__#00-42-10_00-42-41_seg000_kf0003.jpg",
+"blur": 19.97,
+"mean": 21.57,
+"std": 21.01,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "Fast.Furious.2009__#00-42-10_00-42-41_seg000_kf0009.jpg",
+"blur": 9.18,
+"mean": 27.79,
+"std": 31.93,
+"min_side": 266
+},
+{
+"cat": "Car Accident",
+"name": "The.Fast.and.the.Furious.2001__#01-24-18_01-25-05_seg000_kf0002.jpg",
+"blur": 9.29,
+"mean": 91.9,
+"std": 64.66,
+"min_side": 272
+},
+{
+"cat": "Car Accident",
+"name": "v=5Tnl7_8RqlA__#00-11-00_00-12-45_seg002_kf0004.jpg",
+"blur": 13.47,
+"mean": 140.04,
+"std": 72.52,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=5Tnl7_8RqlA__#00-11-00_00-12-45_seg003_kf0000.jpg",
+"blur": 5.54,
+"mean": 191.57,
+"std": 59.5,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=5Tnl7_8RqlA__#00-11-00_00-12-45_seg003_kf0001.jpg",
+"blur": 10.25,
+"mean": 167.9,
+"std": 64.08,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=EOAfl8yMiN8__#00-00-00_00-00-51_seg002_kf0000.jpg",
+"blur": 4.5,
+"mean": 3.15,
+"std": 5.98,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=iHuggczItBk__#00-01-00_00-02-45_seg005_kf0000.jpg",
+"blur": 9.51,
+"mean": 153.86,
+"std": 67.69,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=iHuggczItBk__#00-04-00_00-04-55_seg000_kf0000.jpg",
+"blur": 13.46,
+"mean": 93.8,
+"std": 54.27,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=iHuggczItBk__#00-04-00_00-04-55_seg000_kf0001.jpg",
+"blur": 12.56,
+"mean": 84.3,
+"std": 57.72,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=nLAapCIlr-o__#00-16-10_00-18-09_seg002_kf0000.jpg",
+"blur": 11.06,
+"mean": 162.09,
+"std": 45.7,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=nLAapCIlr-o__#00-16-10_00-18-09_seg002_kf0001.jpg",
+"blur": 6.53,
+"mean": 204.94,
+"std": 55.39,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=nLAapCIlr-o__#00-16-10_00-18-09_seg002_kf0002.jpg",
+"blur": 1.84,
+"mean": 18.2,
+"std": 24.02,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=qmsQ-obL1Z4__#00-03-26_00-04-04_seg000_kf0000.jpg",
+"blur": 8.24,
+"mean": 100.34,
+"std": 38.12,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=qmsQ-obL1Z4__#00-03-26_00-04-04_seg000_kf0001.jpg",
+"blur": 5.6,
+"mean": 100.11,
+"std": 38.0,
+"min_side": 360
+},
+{
+"cat": "Car Accident",
+"name": "v=vhACO_m5pH0__#00-10-42_00-11-40_seg000_kf0000.jpg",
+"blur": 19.74,
+"mean": 173.02,
+"std": 41.48,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "Bad.Boys.1995__#01-11-55_01-12-40_seg000_kf0000.jpg",
+"blur": 15.24,
+"mean": 23.85,
+"std": 21.43,
+"min_side": 346
+},
+{
+"cat": "Explosion",
+"name": "Fury.2014__#00-07-30_00-07-58_seg001_kf0000.jpg",
+"blur": 8.94,
+"mean": 42.4,
+"std": 36.75,
+"min_side": 268
+},
+{
+"cat": "Explosion",
+"name": "GoldenEye.1995__#02-03-40_02-04-13_seg000_kf0002.jpg",
+"blur": 9.5,
+"mean": 31.4,
+"std": 38.83,
+"min_side": 272
+},
+{
+"cat": "Explosion",
+"name": "GoldenEye.1995__#02-03-40_02-04-13_seg000_kf0006.jpg",
+"blur": 17.62,
+"mean": 165.56,
+"std": 43.44,
+"min_side": 272
+},
+{
+"cat": "Explosion",
+"name": "GoldenEye.1995__#02-03-40_02-04-13_seg000_kf0008.jpg",
+"blur": 6.24,
+"mean": 53.01,
+"std": 31.82,
+"min_side": 272
+},
+{
+"cat": "Explosion",
+"name": "GoldenEye.1995__#02-03-40_02-04-13_seg000_kf0010.jpg",
+"blur": 10.34,
+"mean": 53.55,
+"std": 68.81,
+"min_side": 272
+},
+{
+"cat": "Explosion",
+"name": "Salt.2010__#01-06-27_01-07-07_seg003_kf0000.jpg",
+"blur": 7.86,
+"mean": 38.36,
+"std": 33.87,
+"min_side": 266
+},
+{
+"cat": "Explosion",
+"name": "Salt.2010__#01-06-27_01-07-07_seg003_kf0001.jpg",
+"blur": 15.44,
+"mean": 35.2,
+"std": 24.27,
+"min_side": 266
+},
+{
+"cat": "Explosion",
+"name": "Salt.2010__#01-06-27_01-07-07_seg003_kf0002.jpg",
+"blur": 10.56,
+"mean": 27.5,
+"std": 22.8,
+"min_side": 266
+},
+{
+"cat": "Explosion",
+"name": "Salt.2010__#01-06-27_01-07-07_seg004_kf0000.jpg",
+"blur": 3.18,
+"mean": 14.35,
+"std": 10.21,
+"min_side": 266
+},
+{
+"cat": "Explosion",
+"name": "The.Hurt.Locker.2008__#01-27-42_01-28-09_seg000_kf0000.jpg",
+"blur": 3.14,
+"mean": 28.37,
+"std": 25.06,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "The.Hurt.Locker.2008__#01-27-42_01-28-09_seg000_kf0001.jpg",
+"blur": 9.37,
+"mean": 71.69,
+"std": 51.7,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "The.World.Is.Not.Enough.1999__#00-07-04_00-07-45_seg000_kf0001.jpg",
+"blur": 14.08,
+"mean": 45.21,
+"std": 13.49,
+"min_side": 272
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg000_kf0002.jpg",
+"blur": 5.5,
+"mean": 121.49,
+"std": 23.87,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg000_kf0005.jpg",
+"blur": 5.85,
+"mean": 186.3,
+"std": 65.19,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg001_kf0001.jpg",
+"blur": 10.4,
+"mean": 178.41,
+"std": 31.09,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg001_kf0002.jpg",
+"blur": 6.19,
+"mean": 119.55,
+"std": 11.88,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg001_kf0004.jpg",
+"blur": 7.32,
+"mean": 48.36,
+"std": 11.88,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg001_kf0005.jpg",
+"blur": 7.94,
+"mean": 62.65,
+"std": 21.82,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=3wxWNAM8Cso__#1_seg001_kf0011.jpg",
+"blur": 15.5,
+"mean": 152.63,
+"std": 30.71,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg000_kf0000.jpg",
+"blur": 7.94,
+"mean": 119.18,
+"std": 46.72,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg001_kf0000.jpg",
+"blur": 15.2,
+"mean": 118.72,
+"std": 46.59,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg001_kf0001.jpg",
+"blur": 13.63,
+"mean": 119.24,
+"std": 42.7,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg001_kf0002.jpg",
+"blur": 4.52,
+"mean": 136.71,
+"std": 41.7,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg001_kf0003.jpg",
+"blur": 7.97,
+"mean": 124.1,
+"std": 39.83,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg001_kf0004.jpg",
+"blur": 8.73,
+"mean": 124.92,
+"std": 47.74,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=9Jk2sIp5MRQ__#1_seg001_kf0005.jpg",
+"blur": 4.54,
+"mean": 125.95,
+"std": 37.71,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=DRGMajXo_PI__#00-02-15_00-03-02_seg000_kf0010.jpg",
+"blur": 16.33,
+"mean": 35.48,
+"std": 49.83,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=DRGMajXo_PI__#00-02-15_00-03-02_seg000_kf0015.jpg",
+"blur": 14.81,
+"mean": 39.32,
+"std": 68.46,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=GN-7_ye5k4E__#1_seg000_kf0000.jpg",
+"blur": 6.34,
+"mean": 141.23,
+"std": 38.41,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=GN-7_ye5k4E__#1_seg000_kf0005.jpg",
+"blur": 16.37,
+"mean": 136.67,
+"std": 49.4,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=GN-7_ye5k4E__#1_seg000_kf0006.jpg",
+"blur": 4.75,
+"mean": 148.48,
+"std": 22.31,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=GN-7_ye5k4E__#1_seg000_kf0010.jpg",
+"blur": 15.05,
+"mean": 148.92,
+"std": 48.51,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=GN-7_ye5k4E__#1_seg000_kf0013.jpg",
+"blur": 12.53,
+"mean": 144.05,
+"std": 27.9,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0000.jpg",
+"blur": 10.84,
+"mean": 143.28,
+"std": 33.02,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0001.jpg",
+"blur": 6.8,
+"mean": 146.99,
+"std": 24.13,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0002.jpg",
+"blur": 4.73,
+"mean": 149.87,
+"std": 16.54,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0003.jpg",
+"blur": 13.72,
+"mean": 141.39,
+"std": 28.93,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0005.jpg",
+"blur": 6.06,
+"mean": 150.15,
+"std": 19.06,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0006.jpg",
+"blur": 8.3,
+"mean": 141.2,
+"std": 19.91,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0007.jpg",
+"blur": 8.33,
+"mean": 148.32,
+"std": 28.25,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0008.jpg",
+"blur": 6.75,
+"mean": 144.39,
+"std": 26.6,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0010.jpg",
+"blur": 7.56,
+"mean": 149.61,
+"std": 22.8,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=J67oj92maC0__#1_seg005_kf0013.jpg",
+"blur": 13.25,
+"mean": 138.99,
+"std": 36.65,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=k98yVPXiYoU__#1_seg000_kf0000.jpg",
+"blur": 10.73,
+"mean": 123.29,
+"std": 48.43,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=k98yVPXiYoU__#1_seg000_kf0001.jpg",
+"blur": 4.34,
+"mean": 128.32,
+"std": 31.4,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=k98yVPXiYoU__#1_seg000_kf0002.jpg",
+"blur": 17.85,
+"mean": 151.92,
+"std": 63.07,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg001_kf0001.jpg",
+"blur": 11.53,
+"mean": 71.86,
+"std": 28.27,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg002_kf0001.jpg",
+"blur": 15.12,
+"mean": 174.26,
+"std": 61.26,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg002_kf0008.jpg",
+"blur": 8.69,
+"mean": 129.89,
+"std": 44.05,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg002_kf0012.jpg",
+"blur": 17.54,
+"mean": 178.18,
+"std": 61.39,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg002_kf0013.jpg",
+"blur": 8.2,
+"mean": 151.07,
+"std": 57.1,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg002_kf0014.jpg",
+"blur": 11.31,
+"mean": 168.03,
+"std": 61.29,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=lcBUb7EOQ4o__#1_seg002_kf0017.jpg",
+"blur": 7.86,
+"mean": 157.79,
+"std": 59.69,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0005.jpg",
+"blur": 18.09,
+"mean": 128.25,
+"std": 60.21,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0008.jpg",
+"blur": 15.82,
+"mean": 120.9,
+"std": 41.21,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0012.jpg",
+"blur": 6.25,
+"mean": 163.98,
+"std": 43.63,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0017.jpg",
+"blur": 8.07,
+"mean": 150.72,
+"std": 48.12,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0021.jpg",
+"blur": 19.52,
+"mean": 118.97,
+"std": 42.1,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0024.jpg",
+"blur": 18.5,
+"mean": 156.46,
+"std": 53.8,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0028.jpg",
+"blur": 6.17,
+"mean": 143.52,
+"std": 53.69,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=ONsmJAyFAAw__#1_seg000_kf0030.jpg",
+"blur": 17.06,
+"mean": 133.02,
+"std": 48.52,
+"min_side": 198
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0000.jpg",
+"blur": 4.31,
+"mean": 166.46,
+"std": 34.25,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0001.jpg",
+"blur": 3.62,
+"mean": 158.1,
+"std": 23.34,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0002.jpg",
+"blur": 6.03,
+"mean": 162.42,
+"std": 32.06,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0003.jpg",
+"blur": 4.42,
+"mean": 157.95,
+"std": 30.56,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0004.jpg",
+"blur": 6.48,
+"mean": 179.79,
+"std": 38.38,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0005.jpg",
+"blur": 7.01,
+"mean": 158.28,
+"std": 43.18,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0006.jpg",
+"blur": 2.18,
+"mean": 157.53,
+"std": 16.06,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0007.jpg",
+"blur": 8.48,
+"mean": 163.86,
+"std": 42.61,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0008.jpg",
+"blur": 7.74,
+"mean": 153.67,
+"std": 22.01,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0009.jpg",
+"blur": 2.53,
+"mean": 180.72,
+"std": 25.73,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0010.jpg",
+"blur": 5.39,
+"mean": 170.34,
+"std": 34.28,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0011.jpg",
+"blur": 6.22,
+"mean": 171.84,
+"std": 34.74,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0012.jpg",
+"blur": 7.91,
+"mean": 171.49,
+"std": 32.71,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0013.jpg",
+"blur": 3.25,
+"mean": 150.38,
+"std": 20.13,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0014.jpg",
+"blur": 8.66,
+"mean": 168.13,
+"std": 29.09,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0015.jpg",
+"blur": 4.73,
+"mean": 151.61,
+"std": 24.71,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0016.jpg",
+"blur": 6.11,
+"mean": 161.01,
+"std": 35.53,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q7NpJXOTiMY__#1_seg000_kf0017.jpg",
+"blur": 10.4,
+"mean": 159.99,
+"std": 23.32,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=Q9Re4CnFJRg__#00-01-21_00-01-47_seg001_kf0001.jpg",
+"blur": 17.0,
+"mean": 182.86,
+"std": 43.64,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=V7FtjJStY1M__#1_seg000_kf0000.jpg",
+"blur": 10.55,
+"mean": 134.16,
+"std": 73.65,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=V7FtjJStY1M__#1_seg000_kf0004.jpg",
+"blur": 15.33,
+"mean": 107.58,
+"std": 79.45,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=V7FtjJStY1M__#1_seg000_kf0005.jpg",
+"blur": 11.93,
+"mean": 52.4,
+"std": 61.27,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0001.jpg",
+"blur": 18.46,
+"mean": 108.93,
+"std": 39.12,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0002.jpg",
+"blur": 19.04,
+"mean": 135.21,
+"std": 42.1,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0003.jpg",
+"blur": 7.64,
+"mean": 152.99,
+"std": 40.34,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0004.jpg",
+"blur": 14.9,
+"mean": 116.63,
+"std": 44.91,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0005.jpg",
+"blur": 17.4,
+"mean": 132.04,
+"std": 41.29,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0006.jpg",
+"blur": 18.83,
+"mean": 135.2,
+"std": 43.99,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0008.jpg",
+"blur": 15.66,
+"mean": 130.23,
+"std": 42.7,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0010.jpg",
+"blur": 11.0,
+"mean": 118.62,
+"std": 40.0,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0011.jpg",
+"blur": 18.66,
+"mean": 153.66,
+"std": 41.81,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0012.jpg",
+"blur": 11.83,
+"mean": 105.62,
+"std": 36.37,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0013.jpg",
+"blur": 18.21,
+"mean": 130.04,
+"std": 41.33,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=v_LxqgpRouM__#1_seg000_kf0014.jpg",
+"blur": 17.82,
+"mean": 118.13,
+"std": 43.89,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0001.jpg",
+"blur": 14.9,
+"mean": 139.3,
+"std": 37.93,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0003.jpg",
+"blur": 6.37,
+"mean": 50.55,
+"std": 29.72,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0004.jpg",
+"blur": 8.47,
+"mean": 131.13,
+"std": 39.75,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0005.jpg",
+"blur": 15.29,
+"mean": 121.76,
+"std": 43.97,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0007.jpg",
+"blur": 11.47,
+"mean": 113.78,
+"std": 36.41,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0008.jpg",
+"blur": 11.15,
+"mean": 81.32,
+"std": 32.39,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0010.jpg",
+"blur": 14.06,
+"mean": 110.9,
+"std": 50.83,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0011.jpg",
+"blur": 7.67,
+"mean": 151.85,
+"std": 39.18,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0012.jpg",
+"blur": 9.69,
+"mean": 125.19,
+"std": 36.04,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0013.jpg",
+"blur": 15.69,
+"mean": 111.95,
+"std": 34.48,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0014.jpg",
+"blur": 10.4,
+"mean": 150.33,
+"std": 32.95,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0015.jpg",
+"blur": 8.68,
+"mean": 119.58,
+"std": 36.17,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0018.jpg",
+"blur": 17.9,
+"mean": 111.7,
+"std": 51.97,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0020.jpg",
+"blur": 15.89,
+"mean": 124.96,
+"std": 36.57,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=vaSOMEIe1Bg__#1_seg000_kf0021.jpg",
+"blur": 9.76,
+"mean": 136.37,
+"std": 32.6,
+"min_side": 360
+},
+{
+"cat": "Explosion",
+"name": "v=YANmwpkuWRo__#1_seg000_kf0000.jpg",
+"blur": 2.14,
+"mean": 27.99,
+"std": 8.44,
+"min_side": 406
+},
+{
+"cat": "Explosion",
+"name": "v=YANmwpkuWRo__#1_seg000_kf0001.jpg",
+"blur": 1.69,
+"mean": 25.97,
+"std": 6.18,
+"min_side": 406
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#00-56-30_00-57-20_seg000_kf0002.jpg",
+"blur": 12.93,
+"mean": 16.5,
+"std": 15.87,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0006.jpg",
+"blur": 19.46,
+"mean": 210.88,
+"std": 68.64,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0008.jpg",
+"blur": 19.37,
+"mean": 134.92,
+"std": 71.86,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0009.jpg",
+"blur": 11.56,
+"mean": 90.15,
+"std": 38.69,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0019.jpg",
+"blur": 1.29,
+"mean": 17.24,
+"std": 7.59,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0024.jpg",
+"blur": 5.42,
+"mean": 111.16,
+"std": 30.95,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0025.jpg",
+"blur": 2.57,
+"mean": 94.37,
+"std": 23.16,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0035.jpg",
+"blur": 2.1,
+"mean": 47.71,
+"std": 19.6,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0045.jpg",
+"blur": 6.77,
+"mean": 47.16,
+"std": 12.36,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0049.jpg",
+"blur": 1.88,
+"mean": 114.27,
+"std": 20.47,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0055.jpg",
+"blur": 14.67,
+"mean": 58.3,
+"std": 64.37,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0071.jpg",
+"blur": 19.32,
+"mean": 72.05,
+"std": 42.16,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0074.jpg",
+"blur": 9.2,
+"mean": 40.27,
+"std": 19.11,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0080.jpg",
+"blur": 13.54,
+"mean": 36.83,
+"std": 24.45,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0085.jpg",
+"blur": 3.47,
+"mean": 40.24,
+"std": 16.57,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0086.jpg",
+"blur": 9.19,
+"mean": 66.95,
+"std": 46.05,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0105.jpg",
+"blur": 16.44,
+"mean": 39.4,
+"std": 24.27,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0114.jpg",
+"blur": 7.14,
+"mean": 77.83,
+"std": 54.36,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0121.jpg",
+"blur": 11.16,
+"mean": 59.49,
+"std": 39.82,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#01-26-50_01-32-30_seg000_kf0128.jpg",
+"blur": 9.69,
+"mean": 94.31,
+"std": 36.67,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0002.jpg",
+"blur": 18.15,
+"mean": 28.18,
+"std": 47.4,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0004.jpg",
+"blur": 17.23,
+"mean": 93.82,
+"std": 50.11,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0005.jpg",
+"blur": 4.24,
+"mean": 22.85,
+"std": 24.98,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0008.jpg",
+"blur": 5.89,
+"mean": 59.45,
+"std": 38.81,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0014.jpg",
+"blur": 7.45,
+"mean": 46.06,
+"std": 39.88,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0015.jpg",
+"blur": 12.81,
+"mean": 88.73,
+"std": 76.24,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0016.jpg",
+"blur": 6.54,
+"mean": 52.19,
+"std": 48.97,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0017.jpg",
+"blur": 5.47,
+"mean": 68.64,
+"std": 37.58,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0018.jpg",
+"blur": 14.23,
+"mean": 61.33,
+"std": 43.34,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0020.jpg",
+"blur": 4.84,
+"mean": 121.08,
+"std": 39.95,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0021.jpg",
+"blur": 13.74,
+"mean": 53.59,
+"std": 29.26,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0022.jpg",
+"blur": 3.82,
+"mean": 28.21,
+"std": 31.67,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Braveheart.1995__#02-05-34_02-06-40_seg000_kf0026.jpg",
+"blur": 5.28,
+"mean": 50.08,
+"std": 18.6,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Brick.Mansions.2014__#00-16-26_00-17-12_seg000_kf0000.jpg",
+"blur": 6.32,
+"mean": 141.09,
+"std": 36.39,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Brick.Mansions.2014__#00-16-26_00-17-12_seg000_kf0002.jpg",
+"blur": 15.1,
+"mean": 54.33,
+"std": 56.23,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Brick.Mansions.2014__#00-16-26_00-17-12_seg000_kf0013.jpg",
+"blur": 16.09,
+"mean": 34.34,
+"std": 29.15,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Bullet.in.the.Head.1990__#00-17-20_00-18-55_seg001_kf0004.jpg",
+"blur": 16.1,
+"mean": 58.14,
+"std": 32.43,
+"min_side": 338
+},
+{
+"cat": "Fighting",
+"name": "Bullet.in.the.Head.1990__#00-17-20_00-18-55_seg001_kf0024.jpg",
+"blur": 10.99,
+"mean": 83.45,
+"std": 37.03,
+"min_side": 338
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#00-50-05_00-51-16_seg001_kf0000.jpg",
+"blur": 4.66,
+"mean": 23.36,
+"std": 22.94,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#00-50-05_00-51-16_seg001_kf0004.jpg",
+"blur": 3.88,
+"mean": 24.93,
+"std": 23.3,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#00-50-05_00-51-16_seg002_kf0000.jpg",
+"blur": 11.37,
+"mean": 25.88,
+"std": 23.71,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#00-51-16_00-52-41_seg000_kf0005.jpg",
+"blur": 5.13,
+"mean": 46.53,
+"std": 40.33,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#00-51-16_00-52-41_seg001_kf0003.jpg",
+"blur": 17.65,
+"mean": 35.49,
+"std": 20.68,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#00-51-16_00-52-41_seg002_kf0000.jpg",
+"blur": 4.28,
+"mean": 29.72,
+"std": 19.82,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Casino.Royale.2006__#01-17-29_01-17-46_seg000_kf0001.jpg",
+"blur": 7.24,
+"mean": 120.52,
+"std": 103.85,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Crank.Dircut.2006__#0-27-42_0-29-01_seg001_kf0002.jpg",
+"blur": 8.55,
+"mean": 25.31,
+"std": 23.13,
+"min_side": 344
+},
+{
+"cat": "Fighting",
+"name": "Crank.Dircut.2006__#0-27-42_0-29-01_seg001_kf0005.jpg",
+"blur": 17.85,
+"mean": 71.05,
+"std": 34.06,
+"min_side": 344
+},
+{
+"cat": "Fighting",
+"name": "Desperado.1995__#00-16-48_00-18-52_seg003_kf0011.jpg",
+"blur": 12.39,
+"mean": 120.35,
+"std": 69.12,
+"min_side": 346
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0000.jpg",
+"blur": 16.67,
+"mean": 24.09,
+"std": 17.19,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0002.jpg",
+"blur": 8.0,
+"mean": 24.65,
+"std": 23.08,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0003.jpg",
+"blur": 17.5,
+"mean": 32.68,
+"std": 32.52,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0006.jpg",
+"blur": 3.55,
+"mean": 24.82,
+"std": 13.7,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0007.jpg",
+"blur": 4.71,
+"mean": 20.74,
+"std": 24.07,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0012.jpg",
+"blur": 1.88,
+"mean": 18.18,
+"std": 16.95,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0015.jpg",
+"blur": 11.36,
+"mean": 36.26,
+"std": 27.34,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0017.jpg",
+"blur": 3.28,
+"mean": 24.79,
+"std": 17.94,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0018.jpg",
+"blur": 11.88,
+"mean": 27.97,
+"std": 16.24,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0019.jpg",
+"blur": 4.41,
+"mean": 21.66,
+"std": 19.81,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0020.jpg",
+"blur": 8.02,
+"mean": 23.16,
+"std": 14.99,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0021.jpg",
+"blur": 9.83,
+"mean": 23.11,
+"std": 19.94,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0023.jpg",
+"blur": 16.17,
+"mean": 21.65,
+"std": 12.02,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0026.jpg",
+"blur": 9.15,
+"mean": 19.9,
+"std": 12.73,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0027.jpg",
+"blur": 5.22,
+"mean": 31.01,
+"std": 25.63,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0028.jpg",
+"blur": 9.16,
+"mean": 56.78,
+"std": 39.0,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0035.jpg",
+"blur": 8.67,
+"mean": 34.53,
+"std": 25.49,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0036.jpg",
+"blur": 12.73,
+"mean": 20.92,
+"std": 9.35,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0037.jpg",
+"blur": 6.79,
+"mean": 21.1,
+"std": 19.34,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0040.jpg",
+"blur": 5.34,
+"mean": 21.86,
+"std": 23.3,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0041.jpg",
+"blur": 13.28,
+"mean": 18.87,
+"std": 20.8,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0048.jpg",
+"blur": 6.16,
+"mean": 43.02,
+"std": 63.51,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0053.jpg",
+"blur": 2.32,
+"mean": 22.22,
+"std": 15.44,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0054.jpg",
+"blur": 19.16,
+"mean": 42.79,
+"std": 42.87,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0055.jpg",
+"blur": 9.67,
+"mean": 33.56,
+"std": 30.83,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Five.2011__#01-29-27_01-32-05_seg000_kf0056.jpg",
+"blur": 6.81,
+"mean": 22.31,
+"std": 19.49,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0000.jpg",
+"blur": 11.19,
+"mean": 43.34,
+"std": 20.32,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0001.jpg",
+"blur": 12.33,
+"mean": 28.74,
+"std": 19.69,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0003.jpg",
+"blur": 17.29,
+"mean": 36.67,
+"std": 17.54,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0005.jpg",
+"blur": 6.31,
+"mean": 44.59,
+"std": 22.43,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0006.jpg",
+"blur": 6.71,
+"mean": 30.68,
+"std": 14.68,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0008.jpg",
+"blur": 11.49,
+"mean": 41.43,
+"std": 19.36,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0010.jpg",
+"blur": 13.37,
+"mean": 51.79,
+"std": 20.27,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0014.jpg",
+"blur": 5.18,
+"mean": 36.51,
+"std": 20.99,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0015.jpg",
+"blur": 4.15,
+"mean": 29.03,
+"std": 19.42,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0017.jpg",
+"blur": 5.53,
+"mean": 37.96,
+"std": 13.93,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0018.jpg",
+"blur": 19.56,
+"mean": 36.8,
+"std": 19.0,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg000_kf0020.jpg",
+"blur": 14.21,
+"mean": 43.35,
+"std": 21.25,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg001_kf0003.jpg",
+"blur": 19.69,
+"mean": 31.01,
+"std": 24.08,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg001_kf0005.jpg",
+"blur": 8.34,
+"mean": 44.66,
+"std": 38.02,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fast.Furious.6.2013__#01-03-25_01-04-59_seg001_kf0007.jpg",
+"blur": 10.31,
+"mean": 35.3,
+"std": 18.14,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Fury.2014__#00-39-36_00-40-44_seg000_kf0020.jpg",
+"blur": 18.12,
+"mean": 35.15,
+"std": 26.28,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Fury.2014__#00-39-36_00-40-44_seg000_kf0023.jpg",
+"blur": 14.79,
+"mean": 53.17,
+"std": 42.53,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "GoldenEye.1995__#00-24-53_00-25-06_seg000_kf0001.jpg",
+"blur": 6.25,
+"mean": 22.25,
+"std": 19.7,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "GoldenEye.1995__#02-02-15_02-02-47_seg000_kf0000.jpg",
+"blur": 14.0,
+"mean": 46.55,
+"std": 41.43,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "GoldenEye.1995__#02-02-15_02-02-47_seg000_kf0002.jpg",
+"blur": 8.92,
+"mean": 72.38,
+"std": 44.05,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "GoldenEye.1995__#02-02-15_02-02-47_seg001_kf0000.jpg",
+"blur": 12.45,
+"mean": 73.24,
+"std": 45.27,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "GoldenEye.1995__#02-02-15_02-02-47_seg001_kf0004.jpg",
+"blur": 12.69,
+"mean": 76.4,
+"std": 75.81,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-16-07_00-16-49_seg000_kf0003.jpg",
+"blur": 19.65,
+"mean": 53.42,
+"std": 45.95,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg000_kf0002.jpg",
+"blur": 12.73,
+"mean": 16.55,
+"std": 17.68,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg000_kf0013.jpg",
+"blur": 11.68,
+"mean": 40.84,
+"std": 34.91,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg000_kf0019.jpg",
+"blur": 19.01,
+"mean": 25.54,
+"std": 20.42,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg000_kf0020.jpg",
+"blur": 16.71,
+"mean": 24.58,
+"std": 20.91,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg001_kf0001.jpg",
+"blur": 12.15,
+"mean": 38.82,
+"std": 28.49,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg001_kf0002.jpg",
+"blur": 19.01,
+"mean": 33.47,
+"std": 32.79,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg001_kf0003.jpg",
+"blur": 17.83,
+"mean": 21.44,
+"std": 25.66,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg001_kf0009.jpg",
+"blur": 19.05,
+"mean": 21.23,
+"std": 21.19,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg001_kf0010.jpg",
+"blur": 8.29,
+"mean": 24.93,
+"std": 14.35,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#00-39-07_00-41-48_seg001_kf0012.jpg",
+"blur": 12.4,
+"mean": 22.07,
+"std": 16.43,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#01-20-20_01-21-57_seg000_kf0012.jpg",
+"blur": 18.35,
+"mean": 100.41,
+"std": 64.13,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#01-20-20_01-21-57_seg000_kf0016.jpg",
+"blur": 19.26,
+"mean": 78.74,
+"std": 40.96,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#01-20-20_01-21-57_seg000_kf0021.jpg",
+"blur": 15.69,
+"mean": 40.82,
+"std": 45.42,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Haywire.2011__#01-20-20_01-21-57_seg000_kf0026.jpg",
+"blur": 17.22,
+"mean": 80.08,
+"std": 60.76,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "IP.Man.2.2010__#01-35-55_01-39-11_seg002_kf0022.jpg",
+"blur": 11.44,
+"mean": 33.97,
+"std": 34.48,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Ip.Man.2008__#00-46-51_00-47-30_seg000_kf0002.jpg",
+"blur": 19.82,
+"mean": 112.55,
+"std": 64.62,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Ip.Man.3.2015__#00-46-08_00-54-20_seg003_kf0077.jpg",
+"blur": 15.46,
+"mean": 65.14,
+"std": 32.95,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Kill.Bill.Vol.1.2003__#01-17-20_01-20-20_seg000_kf0003.jpg",
+"blur": 12.86,
+"mean": 19.6,
+"std": 29.5,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Kill.Bill.Vol.1.2003__#01-17-20_01-20-20_seg000_kf0037.jpg",
+"blur": 18.97,
+"mean": 62.64,
+"std": 40.73,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Kill.Bill.Vol.1.2003__#01-26-56_01-28-18_seg000_kf0007.jpg",
+"blur": 9.3,
+"mean": 23.7,
+"std": 18.68,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Kill.Bill.Vol.1.2003__#01-26-56_01-28-18_seg000_kf0009.jpg",
+"blur": 17.17,
+"mean": 37.09,
+"std": 34.15,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Kill.Bill.Vol.1.2003__#01-26-56_01-28-18_seg000_kf0013.jpg",
+"blur": 12.99,
+"mean": 35.55,
+"std": 30.95,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Kill.Bill.Vol.1.2003__#01-26-56_01-28-18_seg000_kf0019.jpg",
+"blur": 17.48,
+"mean": 30.58,
+"std": 26.76,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Kingsman.The.Golden.Circle.2017__#00-35-55_00-36-35_seg000_kf0003.jpg",
+"blur": 18.99,
+"mean": 27.22,
+"std": 22.0,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.Fallout.2018__#02-03-50_02-04-35_seg000_kf0010.jpg",
+"blur": 15.32,
+"mean": 21.75,
+"std": 22.45,
+"min_side": 338
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.Ghost.Protocol.2011__#01-12-38_01-13-43_seg000_kf0007.jpg",
+"blur": 16.94,
+"mean": 63.62,
+"std": 32.8,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0000.jpg",
+"blur": 18.35,
+"mean": 16.17,
+"std": 22.83,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0001.jpg",
+"blur": 12.34,
+"mean": 31.38,
+"std": 32.43,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0002.jpg",
+"blur": 12.97,
+"mean": 22.46,
+"std": 25.86,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0006.jpg",
+"blur": 16.12,
+"mean": 18.53,
+"std": 27.83,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0014.jpg",
+"blur": 19.09,
+"mean": 19.85,
+"std": 24.78,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0020.jpg",
+"blur": 14.39,
+"mean": 20.34,
+"std": 24.26,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0021.jpg",
+"blur": 19.02,
+"mean": 39.08,
+"std": 23.08,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0024.jpg",
+"blur": 13.37,
+"mean": 34.49,
+"std": 21.89,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0026.jpg",
+"blur": 8.05,
+"mean": 23.39,
+"std": 25.75,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0028.jpg",
+"blur": 8.3,
+"mean": 32.2,
+"std": 28.37,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0030.jpg",
+"blur": 18.45,
+"mean": 30.3,
+"std": 39.3,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0031.jpg",
+"blur": 3.0,
+"mean": 23.86,
+"std": 16.28,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0032.jpg",
+"blur": 11.89,
+"mean": 19.97,
+"std": 19.34,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0035.jpg",
+"blur": 10.1,
+"mean": 42.0,
+"std": 43.48,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_seg003_kf0036.jpg",
+"blur": 14.37,
+"mean": 18.47,
+"std": 23.98,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Rush.Hour.3.2007.BluRay__#01-12-16_01-12-36_seg000_kf0000.jpg",
+"blur": 5.65,
+"mean": 18.33,
+"std": 13.72,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Rush.Hour.3.2007.BluRay__#01-12-16_01-12-36_seg000_kf0006.jpg",
+"blur": 18.62,
+"mean": 28.25,
+"std": 26.59,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Salt.2010__#00-17-40_00-18-16_seg000_kf0003.jpg",
+"blur": 13.51,
+"mean": 65.51,
+"std": 32.72,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Saving.Private.Ryan.1998__#02-24-18_02-25-42_seg000_kf0001.jpg",
+"blur": 4.05,
+"mean": 35.54,
+"std": 34.05,
+"min_side": 344
+},
+{
+"cat": "Fighting",
+"name": "Saving.Private.Ryan.1998__#02-24-18_02-25-42_seg000_kf0004.jpg",
+"blur": 16.39,
+"mean": 106.05,
+"std": 87.57,
+"min_side": 344
+},
+{
+"cat": "Fighting",
+"name": "Saving.Private.Ryan.1998__#02-24-18_02-25-42_seg001_kf0003.jpg",
+"blur": 19.12,
+"mean": 28.72,
+"std": 39.99,
+"min_side": 344
+},
+{
+"cat": "Fighting",
+"name": "Skyfall.2012__#02-08-44_02-09-17_seg000_kf0010.jpg",
+"blur": 11.65,
+"mean": 14.5,
+"std": 26.2,
+"min_side": 266
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#00-44-05_00-44-40_seg002_kf0001.jpg",
+"blur": 14.19,
+"mean": 18.95,
+"std": 20.64,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg001_kf0000.jpg",
+"blur": 7.94,
+"mean": 59.03,
+"std": 18.22,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0004.jpg",
+"blur": 11.52,
+"mean": 23.11,
+"std": 21.2,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0005.jpg",
+"blur": 13.58,
+"mean": 42.16,
+"std": 24.5,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0011.jpg",
+"blur": 9.99,
+"mean": 28.57,
+"std": 27.29,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0013.jpg",
+"blur": 7.32,
+"mean": 37.33,
+"std": 32.73,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0016.jpg",
+"blur": 15.91,
+"mean": 33.36,
+"std": 31.41,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0019.jpg",
+"blur": 17.35,
+"mean": 47.47,
+"std": 35.86,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0023.jpg",
+"blur": 10.3,
+"mean": 36.83,
+"std": 28.4,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0024.jpg",
+"blur": 4.79,
+"mean": 42.57,
+"std": 28.48,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0027.jpg",
+"blur": 11.61,
+"mean": 27.75,
+"std": 30.02,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0037.jpg",
+"blur": 14.38,
+"mean": 27.07,
+"std": 23.13,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0040.jpg",
+"blur": 13.96,
+"mean": 44.39,
+"std": 25.86,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0041.jpg",
+"blur": 19.28,
+"mean": 94.25,
+"std": 44.72,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0044.jpg",
+"blur": 7.29,
+"mean": 37.55,
+"std": 35.19,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0045.jpg",
+"blur": 16.04,
+"mean": 59.27,
+"std": 44.47,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0046.jpg",
+"blur": 7.67,
+"mean": 46.4,
+"std": 36.07,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0049.jpg",
+"blur": 11.36,
+"mean": 38.45,
+"std": 28.18,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0053.jpg",
+"blur": 13.59,
+"mean": 115.7,
+"std": 49.54,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg002_kf0055.jpg",
+"blur": 9.67,
+"mean": 30.18,
+"std": 23.17,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg004_kf0003.jpg",
+"blur": 9.9,
+"mean": 27.32,
+"std": 24.39,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg004_kf0007.jpg",
+"blur": 17.47,
+"mean": 47.02,
+"std": 28.41,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "Spectre.2015__#01-32-55_01-35-40_seg004_kf0008.jpg",
+"blur": 14.59,
+"mean": 36.27,
+"std": 22.47,
+"min_side": 268
+},
+{
+"cat": "Fighting",
+"name": "The.Bourne.Identity.2002__#01-45-00_01-45-46_seg000_kf0000.jpg",
+"blur": 6.59,
+"mean": 10.89,
+"std": 8.45,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "The.Bourne.Identity.2002__#01-45-00_01-45-46_seg001_kf0000.jpg",
+"blur": 2.03,
+"mean": 9.65,
+"std": 13.4,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "The.Bourne.Identity.2002__#01-45-00_01-45-46_seg002_kf0000.jpg",
+"blur": 1.78,
+"mean": 10.67,
+"std": 8.02,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "The.Fast.and.the.Furious.2001__#00-52-18_00-53-36_seg000_kf0003.jpg",
+"blur": 17.3,
+"mean": 20.78,
+"std": 19.58,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "v=gENp4SyNxkI__#1_seg000_kf0002.jpg",
+"blur": 4.5,
+"mean": 138.54,
+"std": 23.71,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=gENp4SyNxkI__#1_seg000_kf0006.jpg",
+"blur": 8.06,
+"mean": 146.83,
+"std": 16.17,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=gENp4SyNxkI__#1_seg000_kf0010.jpg",
+"blur": 16.64,
+"mean": 142.15,
+"std": 31.11,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=gENp4SyNxkI__#1_seg000_kf0011.jpg",
+"blur": 12.07,
+"mean": 151.85,
+"std": 43.1,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=gENp4SyNxkI__#1_seg000_kf0020.jpg",
+"blur": 17.94,
+"mean": 151.88,
+"std": 54.89,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=zQbnQBCTSiA__#1_seg000_kf0011.jpg",
+"blur": 10.08,
+"mean": 43.26,
+"std": 26.6,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=zQbnQBCTSiA__#1_seg000_kf0013.jpg",
+"blur": 14.64,
+"mean": 39.21,
+"std": 33.68,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=zQbnQBCTSiA__#1_seg000_kf0017.jpg",
+"blur": 11.82,
+"mean": 44.21,
+"std": 28.72,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=zQbnQBCTSiA__#1_seg001_kf0005.jpg",
+"blur": 18.97,
+"mean": 53.88,
+"std": 46.57,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=zQbnQBCTSiA__#1_seg001_kf0008.jpg",
+"blur": 6.71,
+"mean": 48.81,
+"std": 34.26,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "v=zQbnQBCTSiA__#1_seg002_kf0004.jpg",
+"blur": 4.9,
+"mean": 25.28,
+"std": 36.43,
+"min_side": 360
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-04-00_01-04-50_seg000_kf0000.jpg",
+"blur": 9.83,
+"mean": 68.19,
+"std": 62.58,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-04-00_01-04-50_seg000_kf0001.jpg",
+"blur": 6.32,
+"mean": 115.9,
+"std": 48.38,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-04-00_01-04-50_seg000_kf0002.jpg",
+"blur": 6.66,
+"mean": 45.05,
+"std": 58.1,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-04-00_01-04-50_seg000_kf0003.jpg",
+"blur": 15.3,
+"mean": 66.88,
+"std": 49.15,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-04-00_01-04-50_seg000_kf0004.jpg",
+"blur": 1.9,
+"mean": 25.72,
+"std": 23.0,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-04-00_01-04-50_seg000_kf0005.jpg",
+"blur": 13.81,
+"mean": 79.33,
+"std": 63.92,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-05-40_01-06-47_seg001_kf0000.jpg",
+"blur": 12.24,
+"mean": 70.77,
+"std": 68.74,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-05-40_01-06-47_seg001_kf0001.jpg",
+"blur": 12.24,
+"mean": 115.47,
+"std": 45.16,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-05-40_01-06-47_seg001_kf0004.jpg",
+"blur": 7.24,
+"mean": 68.79,
+"std": 47.59,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-05-40_01-06-47_seg001_kf0006.jpg",
+"blur": 10.15,
+"mean": 74.14,
+"std": 64.48,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Yellow.Sea.2010__#01-05-40_01-06-47_seg001_kf0008.jpg",
+"blur": 10.07,
+"mean": 78.89,
+"std": 60.65,
+"min_side": 272
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0000.jpg",
+"blur": 11.58,
+"mean": 64.77,
+"std": 40.06,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0009.jpg",
+"blur": 11.94,
+"mean": 54.75,
+"std": 27.62,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0010.jpg",
+"blur": 10.98,
+"mean": 58.68,
+"std": 20.24,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0012.jpg",
+"blur": 14.96,
+"mean": 63.36,
+"std": 26.9,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0023.jpg",
+"blur": 9.88,
+"mean": 65.56,
+"std": 28.79,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0024.jpg",
+"blur": 15.7,
+"mean": 66.28,
+"std": 31.26,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0027.jpg",
+"blur": 12.45,
+"mean": 44.01,
+"std": 23.6,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0029.jpg",
+"blur": 12.85,
+"mean": 75.09,
+"std": 21.6,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0032.jpg",
+"blur": 10.53,
+"mean": 48.71,
+"std": 28.31,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0033.jpg",
+"blur": 16.93,
+"mean": 42.44,
+"std": 13.0,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0042.jpg",
+"blur": 16.61,
+"mean": 61.75,
+"std": 24.03,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0045.jpg",
+"blur": 13.06,
+"mean": 93.59,
+"std": 31.29,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0046.jpg",
+"blur": 14.4,
+"mean": 56.03,
+"std": 25.92,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_seg000_kf0049.jpg",
+"blur": 10.26,
+"mean": 58.14,
+"std": 27.22,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0005.jpg",
+"blur": 6.25,
+"mean": 122.24,
+"std": 23.62,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0008.jpg",
+"blur": 5.82,
+"mean": 81.3,
+"std": 30.08,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0018.jpg",
+"blur": 17.79,
+"mean": 163.18,
+"std": 33.3,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0028.jpg",
+"blur": 17.75,
+"mean": 92.17,
+"std": 25.01,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0030.jpg",
+"blur": 18.24,
+"mean": 55.36,
+"std": 44.25,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0032.jpg",
+"blur": 18.32,
+"mean": 62.02,
+"std": 36.09,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0034.jpg",
+"blur": 18.31,
+"mean": 64.39,
+"std": 36.99,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0035.jpg",
+"blur": 14.35,
+"mean": 39.62,
+"std": 31.44,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_seg000_kf0036.jpg",
+"blur": 9.98,
+"mean": 52.33,
+"std": 37.27,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-32-04_01-32-58_seg000_kf0001.jpg",
+"blur": 17.41,
+"mean": 89.13,
+"std": 71.95,
+"min_side": 354
+},
+{
+"cat": "Fighting",
+"name": "Young.And.Dangerous.IV.1997__#01-32-04_01-32-58_seg000_kf0004.jpg",
+"blur": 17.45,
+"mean": 134.01,
+"std": 48.96,
+"min_side": 354
+},
+{
+"cat": "Riot",
+"name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_seg000_kf0010.jpg",
+"blur": 14.13,
+"mean": 111.99,
+"std": 61.3,
+"min_side": 338
+},
+{
+"cat": "Riot",
+"name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_seg000_kf0018.jpg",
+"blur": 11.77,
+"mean": 109.94,
+"std": 16.81,
+"min_side": 338
+},
+{
+"cat": "Riot",
+"name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_seg000_kf0042.jpg",
+"blur": 12.8,
+"mean": 118.14,
+"std": 31.0,
+"min_side": 338
+},
+{
+"cat": "Riot",
+"name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_seg000_kf0043.jpg",
+"blur": 12.04,
+"mean": 105.86,
+"std": 37.46,
+"min_side": 338
+},
+{
+"cat": "Riot",
+"name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_seg000_kf0046.jpg",
+"blur": 19.94,
+"mean": 98.8,
+"std": 64.39,
+"min_side": 338
+},
+{
+"cat": "Riot",
+"name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_seg000_kf0062.jpg",
+"blur": 13.3,
+"mean": 121.09,
+"std": 54.44,
+"min_side": 338
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg001_kf0003.jpg",
+"blur": 5.98,
+"mean": 20.12,
+"std": 20.55,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg001_kf0004.jpg",
+"blur": 15.8,
+"mean": 24.8,
+"std": 25.68,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg001_kf0005.jpg",
+"blur": 15.13,
+"mean": 24.81,
+"std": 25.06,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg001_kf0010.jpg",
+"blur": 15.75,
+"mean": 29.62,
+"std": 27.58,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg002_kf0000.jpg",
+"blur": 4.91,
+"mean": 74.75,
+"std": 48.95,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg002_kf0002.jpg",
+"blur": 5.25,
+"mean": 25.17,
+"std": 16.2,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-17-25_0-18-53_seg002_kf0005.jpg",
+"blur": 10.61,
+"mean": 56.76,
+"std": 55.92,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "Jason.Bourne.2016__#0-29-48_0-30-29_seg000_kf0002.jpg",
+"blur": 11.39,
+"mean": 31.96,
+"std": 16.77,
+"min_side": 268
+},
+{
+"cat": "Riot",
+"name": "v=2jwO15SMyuo__#1_seg000_kf0006.jpg",
+"blur": 16.64,
+"mean": 39.7,
+"std": 55.91,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=2jwO15SMyuo__#1_seg000_kf0011.jpg",
+"blur": 13.78,
+"mean": 35.64,
+"std": 49.4,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=2jwO15SMyuo__#1_seg000_kf0021.jpg",
+"blur": 8.14,
+"mean": 24.62,
+"std": 24.65,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3WmMhircZOc__#1_seg000_kf0000.jpg",
+"blur": 14.14,
+"mean": 99.39,
+"std": 65.36,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3WmMhircZOc__#1_seg000_kf0027.jpg",
+"blur": 13.88,
+"mean": 103.32,
+"std": 56.08,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3WmMhircZOc__#1_seg000_kf0030.jpg",
+"blur": 12.48,
+"mean": 63.5,
+"std": 48.91,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3WmMhircZOc__#1_seg000_kf0031.jpg",
+"blur": 11.63,
+"mean": 108.86,
+"std": 59.88,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3WmMhircZOc__#1_seg000_kf0058.jpg",
+"blur": 16.09,
+"mean": 92.76,
+"std": 48.81,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3WmMhircZOc__#1_seg000_kf0065.jpg",
+"blur": 15.34,
+"mean": 112.38,
+"std": 52.54,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=3xkwZk44VQs__#1_seg000_kf0005.jpg",
+"blur": 8.88,
+"mean": 195.03,
+"std": 30.23,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=8oJMGgaww70__#1_seg000_kf0007.jpg",
+"blur": 6.31,
+"mean": 145.86,
+"std": 25.29,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=8oJMGgaww70__#1_seg000_kf0012.jpg",
+"blur": 18.73,
+"mean": 114.45,
+"std": 29.69,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=8oJMGgaww70__#1_seg000_kf0020.jpg",
+"blur": 11.99,
+"mean": 116.22,
+"std": 49.95,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=8oJMGgaww70__#1_seg000_kf0024.jpg",
+"blur": 14.21,
+"mean": 135.09,
+"std": 45.25,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=8oJMGgaww70__#1_seg000_kf0053.jpg",
+"blur": 15.44,
+"mean": 122.78,
+"std": 38.16,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=8oJMGgaww70__#1_seg000_kf0068.jpg",
+"blur": 14.4,
+"mean": 116.31,
+"std": 46.3,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=_tsSKAsVZfo__#1_seg000_kf0011.jpg",
+"blur": 17.76,
+"mean": 60.49,
+"std": 47.09,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=_tsSKAsVZfo__#1_seg001_kf0006.jpg",
+"blur": 7.44,
+"mean": 126.28,
+"std": 70.65,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=_tsSKAsVZfo__#1_seg001_kf0014.jpg",
+"blur": 11.02,
+"mean": 86.76,
+"std": 44.63,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=_tsSKAsVZfo__#1_seg001_kf0017.jpg",
+"blur": 11.38,
+"mean": 93.92,
+"std": 48.65,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=ADQNFs9bfFk__#00-00-00_00-00-58_seg000_kf0002.jpg",
+"blur": 4.15,
+"mean": 114.5,
+"std": 67.97,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=aQ3qMpgZjwg__#00-00-00_00-01-48_seg000_kf0016.jpg",
+"blur": 6.32,
+"mean": 99.0,
+"std": 54.49,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0000.jpg",
+"blur": 3.56,
+"mean": 69.23,
+"std": 24.75,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0004.jpg",
+"blur": 8.79,
+"mean": 108.92,
+"std": 72.17,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0006.jpg",
+"blur": 17.93,
+"mean": 72.96,
+"std": 55.49,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0007.jpg",
+"blur": 8.72,
+"mean": 40.58,
+"std": 34.47,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0008.jpg",
+"blur": 6.65,
+"mean": 104.6,
+"std": 17.04,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0009.jpg",
+"blur": 13.16,
+"mean": 58.01,
+"std": 55.74,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0010.jpg",
+"blur": 7.22,
+"mean": 91.83,
+"std": 77.53,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0011.jpg",
+"blur": 11.62,
+"mean": 77.92,
+"std": 69.4,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0014.jpg",
+"blur": 3.89,
+"mean": 166.96,
+"std": 51.89,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0015.jpg",
+"blur": 5.31,
+"mean": 53.81,
+"std": 34.6,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0017.jpg",
+"blur": 2.68,
+"mean": 27.11,
+"std": 18.62,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0018.jpg",
+"blur": 7.11,
+"mean": 62.84,
+"std": 34.4,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0019.jpg",
+"blur": 6.71,
+"mean": 48.6,
+"std": 36.67,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0020.jpg",
+"blur": 9.73,
+"mean": 125.79,
+"std": 60.71,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0025.jpg",
+"blur": 8.02,
+"mean": 99.77,
+"std": 72.42,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=aWPWHU8x6kE__#1_seg000_kf0026.jpg",
+"blur": 4.05,
+"mean": 98.01,
+"std": 41.48,
+"min_side": 264
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-00-00_00-04-33_seg000_kf0002.jpg",
+"blur": 11.06,
+"mean": 58.45,
+"std": 45.16,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0005.jpg",
+"blur": 6.61,
+"mean": 143.59,
+"std": 34.64,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0007.jpg",
+"blur": 5.45,
+"mean": 146.73,
+"std": 14.94,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0012.jpg",
+"blur": 13.23,
+"mean": 129.0,
+"std": 48.7,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0014.jpg",
+"blur": 6.34,
+"mean": 125.15,
+"std": 50.85,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0015.jpg",
+"blur": 11.39,
+"mean": 101.13,
+"std": 21.06,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0021.jpg",
+"blur": 4.33,
+"mean": 119.84,
+"std": 11.25,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_seg000_kf0030.jpg",
+"blur": 19.63,
+"mean": 151.02,
+"std": 44.5,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=CoxsDkB-rWU__#00-07-06_00-10-30_seg000_kf0021.jpg",
+"blur": 18.29,
+"mean": 167.1,
+"std": 25.68,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=CoxsDkB-rWU__#00-07-06_00-10-30_seg000_kf0033.jpg",
+"blur": 16.58,
+"mean": 188.72,
+"std": 55.28,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0007.jpg",
+"blur": 4.51,
+"mean": 30.09,
+"std": 17.28,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0015.jpg",
+"blur": 1.81,
+"mean": 17.99,
+"std": 13.42,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0019.jpg",
+"blur": 2.15,
+"mean": 19.53,
+"std": 11.34,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0049.jpg",
+"blur": 12.79,
+"mean": 44.56,
+"std": 45.48,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0073.jpg",
+"blur": 10.63,
+"mean": 123.12,
+"std": 88.78,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0075.jpg",
+"blur": 6.95,
+"mean": 42.58,
+"std": 20.55,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_seg001_kf0084.jpg",
+"blur": 17.85,
+"mean": 41.9,
+"std": 38.54,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=FRj2K0ulD8Q__#00-06-05_00-08-25_seg000_kf0020.jpg",
+"blur": 19.55,
+"mean": 92.42,
+"std": 36.72,
+"min_side": 240
+},
+{
+"cat": "Riot",
+"name": "v=FRj2K0ulD8Q__#00-06-05_00-08-25_seg000_kf0046.jpg",
+"blur": 4.39,
+"mean": 77.79,
+"std": 25.66,
+"min_side": 240
+},
+{
+"cat": "Riot",
+"name": "v=GbMQ2CxeNHU__#1_seg000_kf0032.jpg",
+"blur": 17.23,
+"mean": 69.05,
+"std": 13.55,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0014.jpg",
+"blur": 11.94,
+"mean": 113.89,
+"std": 22.91,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0036.jpg",
+"blur": 17.69,
+"mean": 61.72,
+"std": 51.11,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0042.jpg",
+"blur": 17.85,
+"mean": 48.26,
+"std": 38.12,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0064.jpg",
+"blur": 17.41,
+"mean": 156.69,
+"std": 50.6,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0068.jpg",
+"blur": 8.32,
+"mean": 112.84,
+"std": 41.2,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0069.jpg",
+"blur": 13.54,
+"mean": 79.47,
+"std": 41.59,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m5Ya6z6qroo__#1_seg000_kf0076.jpg",
+"blur": 4.77,
+"mean": 189.02,
+"std": 21.23,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m8EkFsaGPzU__#1_seg000_kf0010.jpg",
+"blur": 3.16,
+"mean": 45.63,
+"std": 32.28,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m8EkFsaGPzU__#1_seg000_kf0035.jpg",
+"blur": 13.18,
+"mean": 139.2,
+"std": 42.6,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m8EkFsaGPzU__#1_seg000_kf0036.jpg",
+"blur": 13.6,
+"mean": 107.27,
+"std": 52.71,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m8EkFsaGPzU__#1_seg000_kf0037.jpg",
+"blur": 17.85,
+"mean": 153.45,
+"std": 43.32,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m8EkFsaGPzU__#1_seg000_kf0041.jpg",
+"blur": 15.23,
+"mean": 150.08,
+"std": 40.25,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=m8EkFsaGPzU__#1_seg000_kf0060.jpg",
+"blur": 12.34,
+"mean": 129.09,
+"std": 62.42,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=rJz4NXm6vis__#1_seg000_kf0005.jpg",
+"blur": 14.63,
+"mean": 30.59,
+"std": 37.98,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=rJz4NXm6vis__#1_seg000_kf0009.jpg",
+"blur": 12.99,
+"mean": 87.67,
+"std": 80.9,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=rJz4NXm6vis__#1_seg000_kf0018.jpg",
+"blur": 17.21,
+"mean": 116.34,
+"std": 68.11,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=TfS-MJoVNjM__#1_seg000_kf0016.jpg",
+"blur": 12.25,
+"mean": 100.02,
+"std": 39.95,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=TfS-MJoVNjM__#1_seg000_kf0024.jpg",
+"blur": 13.39,
+"mean": 105.63,
+"std": 73.94,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0000.jpg",
+"blur": 17.75,
+"mean": 48.61,
+"std": 42.51,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0002.jpg",
+"blur": 15.7,
+"mean": 34.73,
+"std": 31.8,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0004.jpg",
+"blur": 14.45,
+"mean": 28.14,
+"std": 27.04,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0009.jpg",
+"blur": 10.07,
+"mean": 34.17,
+"std": 25.39,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0010.jpg",
+"blur": 9.19,
+"mean": 34.84,
+"std": 27.53,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0021.jpg",
+"blur": 15.5,
+"mean": 53.87,
+"std": 46.18,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0027.jpg",
+"blur": 17.48,
+"mean": 26.27,
+"std": 22.27,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0033.jpg",
+"blur": 19.58,
+"mean": 41.71,
+"std": 37.43,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0041.jpg",
+"blur": 11.85,
+"mean": 41.89,
+"std": 38.5,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0044.jpg",
+"blur": 9.17,
+"mean": 33.21,
+"std": 25.55,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0048.jpg",
+"blur": 12.62,
+"mean": 39.95,
+"std": 38.1,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0050.jpg",
+"blur": 16.76,
+"mean": 25.34,
+"std": 21.25,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0052.jpg",
+"blur": 19.97,
+"mean": 33.97,
+"std": 22.15,
+"min_side": 360
+},
+{
+"cat": "Riot",
+"name": "v=tv0rI-5ycBU__#1_seg001_kf0054.jpg",
+"blur": 15.53,
+"mean": 35.1,
+"std": 26.51,
+"min_side": 360
+},
+{
+"cat": "Shooting",
+"name": "Bad.Boys.1995__#01-33-51_01-34-37_seg000_kf0001.jpg",
+"blur": 16.11,
+"mean": 60.06,
+"std": 42.23,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Bad.Boys.1995__#01-33-51_01-34-37_seg000_kf0004.jpg",
+"blur": 8.14,
+"mean": 32.95,
+"std": 11.65,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Bad.Boys.1995__#01-33-51_01-34-37_seg000_kf0008.jpg",
+"blur": 4.9,
+"mean": 67.58,
+"std": 32.57,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Bad.Boys.1995__#01-33-51_01-34-37_seg000_kf0009.jpg",
+"blur": 10.97,
+"mean": 55.36,
+"std": 10.19,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Bad.Boys.1995__#01-33-51_01-34-37_seg000_kf0010.jpg",
+"blur": 17.38,
+"mean": 52.06,
+"std": 14.77,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Bad.Boys.1995__#01-33-51_01-34-37_seg000_kf0011.jpg",
+"blur": 7.48,
+"mean": 69.68,
+"std": 46.01,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Black.Hawk.Down.2001__#02-00-12_02-01-29_seg000_kf0007.jpg",
+"blur": 19.81,
+"mean": 27.45,
+"std": 48.03,
+"min_side": 270
+},
+{
+"cat": "Shooting",
+"name": "Brick.Mansions.2014__#01-02-00_01-02-43_seg000_kf0001.jpg",
+"blur": 3.47,
+"mean": 61.61,
+"std": 16.55,
+"min_side": 268
+},
+{
+"cat": "Shooting",
+"name": "Bullet.in.the.Head.1990__#01-45-21_01-46-20_seg000_kf0001.jpg",
+"blur": 10.67,
+"mean": 40.82,
+"std": 25.15,
+"min_side": 338
+},
+{
+"cat": "Shooting",
+"name": "Bullet.in.the.Head.1990__#02-02-00_02-05-22_seg004_kf0001.jpg",
+"blur": 19.38,
+"mean": 126.0,
+"std": 21.94,
+"min_side": 338
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#00-40-16_00-41-30_seg001_kf0000.jpg",
+"blur": 4.53,
+"mean": 69.47,
+"std": 69.62,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0000.jpg",
+"blur": 9.14,
+"mean": 45.39,
+"std": 45.22,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0001.jpg",
+"blur": 7.57,
+"mean": 29.57,
+"std": 40.52,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0004.jpg",
+"blur": 5.25,
+"mean": 21.4,
+"std": 27.96,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0006.jpg",
+"blur": 4.99,
+"mean": 63.23,
+"std": 32.74,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0007.jpg",
+"blur": 16.95,
+"mean": 66.56,
+"std": 95.51,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0008.jpg",
+"blur": 16.34,
+"mean": 30.38,
+"std": 51.5,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0009.jpg",
+"blur": 16.34,
+"mean": 19.67,
+"std": 35.94,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-24-10_01-25-10_seg000_kf0010.jpg",
+"blur": 13.72,
+"mean": 68.02,
+"std": 56.03,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "City.of.God.2002__#01-52-20_01-54-32_seg001_kf0000.jpg",
+"blur": 12.83,
+"mean": 214.85,
+"std": 40.3,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg000_kf0001.jpg",
+"blur": 6.64,
+"mean": 51.92,
+"std": 27.61,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg000_kf0004.jpg",
+"blur": 13.53,
+"mean": 30.09,
+"std": 29.61,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg000_kf0005.jpg",
+"blur": 6.96,
+"mean": 33.53,
+"std": 15.08,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg000_kf0006.jpg",
+"blur": 7.06,
+"mean": 58.07,
+"std": 23.53,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg000_kf0007.jpg",
+"blur": 13.76,
+"mean": 20.91,
+"std": 14.63,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg000_kf0008.jpg",
+"blur": 17.49,
+"mean": 44.91,
+"std": 24.25,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Desperado.1995__#01-14-11_01-17-28_seg001_kf0001.jpg",
+"blur": 6.8,
+"mean": 72.44,
+"std": 32.64,
+"min_side": 346
+},
+{
+"cat": "Shooting",
+"name": "Fast.Furious.2009__#01-18-00_01-19-00_seg001_kf0000.jpg",
+"blur": 12.59,
+"mean": 59.38,
+"std": 44.03,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "God.Bless.America.2011__#00-38-25_00-39-37_seg001_kf0000.jpg",
+"blur": 5.94,
+"mean": 24.73,
+"std": 31.32,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "God.Bless.America.2011__#00-38-25_00-39-37_seg001_kf0003.jpg",
+"blur": 13.75,
+"mean": 41.12,
+"std": 38.04,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "GoldenEye.1995__#01-17-05_01-19-57_seg001_kf0000.jpg",
+"blur": 10.62,
+"mean": 31.57,
+"std": 18.51,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "GoldenEye.1995__#01-17-05_01-19-57_seg002_kf0000.jpg",
+"blur": 19.66,
+"mean": 171.08,
+"std": 78.57,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "GoldenEye.1995__#01-17-05_01-19-57_seg002_kf0001.jpg",
+"blur": 10.79,
+"mean": 22.82,
+"std": 20.22,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "GoldenEye.1995__#01-17-05_01-19-57_seg002_kf0005.jpg",
+"blur": 1.89,
+"mean": 34.73,
+"std": 8.88,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Law.Abiding.Citizen.2009__#01-26-34_01-27-25_seg000_kf0002.jpg",
+"blur": 9.02,
+"mean": 77.09,
+"std": 14.62,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Law.Abiding.Citizen.2009__#01-26-34_01-27-25_seg000_kf0003.jpg",
+"blur": 4.99,
+"mean": 180.3,
+"std": 55.64,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Law.Abiding.Citizen.2009__#01-26-34_01-27-25_seg000_kf0004.jpg",
+"blur": 5.38,
+"mean": 111.96,
+"std": 13.83,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Mindhunters.2004__#01-19-00_01-20-05_seg000_kf0000.jpg",
+"blur": 5.37,
+"mean": 43.49,
+"std": 27.04,
+"min_side": 274
+},
+{
+"cat": "Shooting",
+"name": "Mindhunters.2004__#01-19-00_01-20-05_seg000_kf0003.jpg",
+"blur": 12.75,
+"mean": 54.14,
+"std": 55.51,
+"min_side": 274
+},
+{
+"cat": "Shooting",
+"name": "Mindhunters.2004__#01-19-00_01-20-05_seg000_kf0005.jpg",
+"blur": 14.24,
+"mean": 33.65,
+"std": 41.49,
+"min_side": 274
+},
+{
+"cat": "Shooting",
+"name": "Mission.Impossible.II.2000__#01-38-25_01-38-41_seg000_kf0000.jpg",
+"blur": 17.12,
+"mean": 29.56,
+"std": 15.47,
+"min_side": 264
+},
+{
+"cat": "Shooting",
+"name": "Mission.Impossible.III.2006__#00-19-56_00-20-26_seg000_kf0002.jpg",
+"blur": 3.69,
+"mean": 217.66,
+"std": 56.35,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Mission.Impossible.III.2006__#00-19-56_00-20-26_seg000_kf0006.jpg",
+"blur": 16.22,
+"mean": 116.83,
+"std": 93.71,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Rush.Hour.1998.BluRay__#00-08-08_00-09-15_seg005_kf0001.jpg",
+"blur": 16.84,
+"mean": 33.43,
+"std": 28.13,
+"min_side": 260
+},
+{
+"cat": "Shooting",
+"name": "Rush.Hour.1998.BluRay__#00-11-05_00-12-10_seg001_kf0003.jpg",
+"blur": 18.26,
+"mean": 82.41,
+"std": 63.17,
+"min_side": 260
+},
+{
+"cat": "Shooting",
+"name": "Rush.Hour.1998.BluRay__#01-20-28_01-21-38_seg006_kf0002.jpg",
+"blur": 6.39,
+"mean": 66.69,
+"std": 22.22,
+"min_side": 260
+},
+{
+"cat": "Shooting",
+"name": "Salt.2010__#01-12-05_01-12-32_seg000_kf0000.jpg",
+"blur": 14.61,
+"mean": 53.73,
+"std": 29.99,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Salt.2010__#01-12-05_01-12-32_seg000_kf0001.jpg",
+"blur": 3.07,
+"mean": 68.68,
+"std": 28.07,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Salt.2010__#01-12-05_01-12-32_seg000_kf0002.jpg",
+"blur": 8.52,
+"mean": 96.74,
+"std": 33.46,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Salt.2010__#01-12-05_01-12-32_seg001_kf0001.jpg",
+"blur": 5.73,
+"mean": 102.18,
+"std": 80.36,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_seg006_kf0006.jpg",
+"blur": 7.94,
+"mean": 54.78,
+"std": 58.92,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_seg006_kf0007.jpg",
+"blur": 9.86,
+"mean": 48.75,
+"std": 41.34,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_seg009_kf0005.jpg",
+"blur": 17.06,
+"mean": 28.62,
+"std": 21.85,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_seg009_kf0008.jpg",
+"blur": 12.25,
+"mean": 52.35,
+"std": 31.84,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_seg009_kf0010.jpg",
+"blur": 8.69,
+"mean": 76.61,
+"std": 42.21,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_seg009_kf0012.jpg",
+"blur": 18.29,
+"mean": 40.26,
+"std": 32.27,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-53-25_00-56-47_seg005_kf0002.jpg",
+"blur": 18.88,
+"mean": 93.55,
+"std": 69.23,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Shoot.Em.Up.2007__#00-53-25_00-56-47_seg005_kf0003.jpg",
+"blur": 19.39,
+"mean": 109.29,
+"std": 80.68,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "Skyfall.2012__#01-55-44_01-56-57_seg000_kf0001.jpg",
+"blur": 8.78,
+"mean": 191.06,
+"std": 48.63,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Skyfall.2012__#01-55-44_01-56-57_seg001_kf0000.jpg",
+"blur": 5.28,
+"mean": 26.06,
+"std": 37.05,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Skyfall.2012__#01-57-40_01-58-00_seg000_kf0000.jpg",
+"blur": 8.58,
+"mean": 28.47,
+"std": 19.49,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Skyfall.2012__#01-57-40_01-58-00_seg000_kf0001.jpg",
+"blur": 2.41,
+"mean": 18.45,
+"std": 8.62,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "Taken.2.UNRATED.EXTENDED.2012__#01-18-25_01-18-40_seg000_kf0001.jpg",
+"blur": 8.49,
+"mean": 34.61,
+"std": 49.5,
+"min_side": 268
+},
+{
+"cat": "Shooting",
+"name": "Taken.3.2014__#01-12-48_01-14-30_seg000_kf0002.jpg",
+"blur": 8.69,
+"mean": 111.96,
+"std": 71.63,
+"min_side": 268
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg000_kf0000.jpg",
+"blur": 8.61,
+"mean": 65.75,
+"std": 38.24,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg000_kf0012.jpg",
+"blur": 6.6,
+"mean": 73.57,
+"std": 41.38,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg000_kf0013.jpg",
+"blur": 17.5,
+"mean": 72.21,
+"std": 34.51,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg000_kf0014.jpg",
+"blur": 10.38,
+"mean": 65.86,
+"std": 43.46,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg006_kf0000.jpg",
+"blur": 12.49,
+"mean": 31.49,
+"std": 39.05,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg006_kf0001.jpg",
+"blur": 5.21,
+"mean": 18.38,
+"std": 19.53,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg006_kf0003.jpg",
+"blur": 13.77,
+"mean": 43.45,
+"std": 38.65,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_seg006_kf0004.jpg",
+"blur": 15.47,
+"mean": 29.41,
+"std": 32.95,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Ultimatum.2007__#01-26-27_01-28-03_seg001_kf0001.jpg",
+"blur": 6.28,
+"mean": 167.53,
+"std": 87.4,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Ultimatum.2007__#01-26-27_01-28-03_seg002_kf0000.jpg",
+"blur": 17.95,
+"mean": 106.48,
+"std": 54.87,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Ultimatum.2007__#01-26-27_01-28-03_seg002_kf0002.jpg",
+"blur": 9.5,
+"mean": 85.29,
+"std": 66.82,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Ultimatum.2007__#01-26-27_01-28-03_seg002_kf0003.jpg",
+"blur": 13.92,
+"mean": 121.86,
+"std": 45.18,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Bourne.Ultimatum.2007__#01-26-27_01-28-03_seg004_kf0001.jpg",
+"blur": 14.2,
+"mean": 22.98,
+"std": 20.78,
+"min_side": 266
+},
+{
+"cat": "Shooting",
+"name": "The.Fast.and.the.Furious.2001__#00-29-00_00-29-52_seg000_kf0001.jpg",
+"blur": 4.85,
+"mean": 120.44,
+"std": 90.47,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "The.Fast.and.the.Furious.2001__#00-29-00_00-29-52_seg000_kf0002.jpg",
+"blur": 8.63,
+"mean": 36.94,
+"std": 27.26,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "The.Fast.and.the.Furious.2001__#00-29-00_00-29-52_seg000_kf0003.jpg",
+"blur": 14.79,
+"mean": 47.26,
+"std": 19.74,
+"min_side": 272
+},
+{
+"cat": "Shooting",
+"name": "The.Hurt.Locker.2008__#01-02-10_01-03-55_seg002_kf0000.jpg",
+"blur": 3.99,
+"mean": 68.38,
+"std": 16.86,
+"min_side": 360
+},
+{
+"cat": "Shooting",
+"name": "The.Hurt.Locker.2008__#01-02-10_01-03-55_seg003_kf0000.jpg",
+"blur": 6.8,
+"mean": 111.59,
+"std": 18.97,
+"min_side": 360
+}
+]

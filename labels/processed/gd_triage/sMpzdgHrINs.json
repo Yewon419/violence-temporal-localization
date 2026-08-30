@@ -1,0 +1,2346 @@
+[
+  {
+    "frame": "sMpzdgHrINs_frame_00001.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          942.7381591796875,
+          268.36663818359375,
+          977.2503662109375,
+          289.0697021484375
+        ],
+        "score": 0.3816887438297272,
+        "raw_label": "cigarette",
+        "verdict": "positive",
+        "category": "smoking",
+        "reason": "cigarette object, score 0.38"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00012.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00023.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          903.7371215820312,
+          547.3291015625,
+          941.5491333007812,
+          596.5975952148438
+        ],
+        "score": 0.5080208778381348,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.51"
+      },
+      {
+        "bbox": [
+          795.1795654296875,
+          487.18572998046875,
+          834.3634033203125,
+          607.4776000976562
+        ],
+        "score": 0.39013102650642395,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.39"
+      },
+      {
+        "bbox": [
+          1042.318603515625,
+          545.2976684570312,
+          1065.160400390625,
+          595.2313232421875
+        ],
+        "score": 0.4369480013847351,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.44"
+      },
+      {
+        "bbox": [
+          710.4129028320312,
+          545.76904296875,
+          743.3740234375,
+          626.8719482421875
+        ],
+        "score": 0.359390527009964,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.36"
+      },
+      {
+        "bbox": [
+          830.6295776367188,
+          474.833984375,
+          873.2388305664062,
+          597.971923828125
+        ],
+        "score": 0.3710305094718933,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.37"
+      },
+      {
+        "bbox": [
+          688.0401000976562,
+          487.5169677734375,
+          716.5606079101562,
+          576.3743286132812
+        ],
+        "score": 0.3692428767681122,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.37"
+      },
+      {
+        "bbox": [
+          770.51171875,
+          512.2340087890625,
+          807.4017944335938,
+          556.9981079101562
+        ],
+        "score": 0.4143572449684143,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.41"
+      },
+      {
+        "bbox": [
+          939.753662109375,
+          523.8668823242188,
+          976.6869506835938,
+          593.2353515625
+        ],
+        "score": 0.33304136991500854,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.33"
+      },
+      {
+        "bbox": [
+          310.9620056152344,
+          298.0772399902344,
+          333.60784912109375,
+          345.2492370605469
+        ],
+        "score": 0.32095062732696533,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.32"
+      },
+      {
+        "bbox": [
+          741.9688720703125,
+          527.9086303710938,
+          760.0452880859375,
+          561.6854248046875
+        ],
+        "score": 0.3464471399784088,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.35"
+      },
+      {
+        "bbox": [
+          863.7127685546875,
+          483.629150390625,
+          895.4598999023438,
+          543.1729125976562
+        ],
+        "score": 0.3138440251350403,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.31"
+      },
+      {
+        "bbox": [
+          767.3214721679688,
+          543.9116821289062,
+          799.62109375,
+          627.4312133789062
+        ],
+        "score": 0.33831799030303955,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.34"
+      },
+      {
+        "bbox": [
+          689.4176635742188,
+          549.4215087890625,
+          720.3856811523438,
+          629.2198486328125
+        ],
+        "score": 0.3202217221260071,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.32"
+      },
+      {
+        "bbox": [
+          651.2816162109375,
+          488.6156921386719,
+          685.5653076171875,
+          594.878662109375
+        ],
+        "score": 0.3028642237186432,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.30"
+      },
+      {
+        "bbox": [
+          659.145751953125,
+          488.54119873046875,
+          692.1219482421875,
+          593.2797241210938
+        ],
+        "score": 0.2896568477153778,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          222.20767211914062,
+          350.5718078613281,
+          252.47622680664062,
+          415.6163635253906
+        ],
+        "score": 0.26345622539520264,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          650.2926025390625,
+          524.953125,
+          681.8323364257812,
+          625.7486572265625
+        ],
+        "score": 0.2944803237915039,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00035.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00046.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          562.6366577148438,
+          319.1100769042969,
+          716.8729248046875,
+          584.7518920898438
+        ],
+        "score": 0.3407398462295532,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.34"
+      },
+      {
+        "bbox": [
+          563.57470703125,
+          388.54058837890625,
+          691.9910278320312,
+          585.0853271484375
+        ],
+        "score": 0.28357821702957153,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00058.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          508.9212341308594,
+          236.8187713623047,
+          772.6471557617188,
+          498.7255554199219
+        ],
+        "score": 0.327297180891037,
+        "raw_label": "bottle cup",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'bottle cup'"
+      },
+      {
+        "bbox": [
+          508.14410400390625,
+          236.41818237304688,
+          773.8719482421875,
+          498.8380432128906
+        ],
+        "score": 0.4217343330383301,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00069.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00081.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          271.4354553222656,
+          358.612548828125,
+          293.7514343261719,
+          382.724609375
+        ],
+        "score": 0.2920129895210266,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          244.16424560546875,
+          503.10601806640625,
+          309.9302673339844,
+          579.7594604492188
+        ],
+        "score": 0.29564058780670166,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      },
+      {
+        "bbox": [
+          295.74591064453125,
+          355.5353698730469,
+          321.80120849609375,
+          382.8474426269531
+        ],
+        "score": 0.266038715839386,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00092.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1058.3470458984375,
+          333.724609375,
+          1098.2957763671875,
+          446.8224182128906
+        ],
+        "score": 0.33524858951568604,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.34"
+      },
+      {
+        "bbox": [
+          1018.5924072265625,
+          257.7812805175781,
+          1037.51708984375,
+          294.8104553222656
+        ],
+        "score": 0.2579885721206665,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          807.9553833007812,
+          341.49847412109375,
+          817.5098266601562,
+          364.9904479980469
+        ],
+        "score": 0.2784339189529419,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00104.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          573.5668334960938,
+          532.549072265625,
+          614.1566162109375,
+          616.8775634765625
+        ],
+        "score": 0.553615927696228,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.55"
+      },
+      {
+        "bbox": [
+          606.083740234375,
+          568.55322265625,
+          634.4124145507812,
+          614.3668212890625
+        ],
+        "score": 0.3995625972747803,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.40"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00115.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00126.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00138.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00149.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1123.7664794921875,
+          484.3011474609375,
+          1155.4248046875,
+          563.1991577148438
+        ],
+        "score": 0.3485543727874756,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.35"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00161.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1185.24951171875,
+          514.4652709960938,
+          1243.0191650390625,
+          629.2953491210938
+        ],
+        "score": 0.5154501795768738,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.52"
+      },
+      {
+        "bbox": [
+          856.9002685546875,
+          502.9791564941406,
+          952.8536376953125,
+          630.4405517578125
+        ],
+        "score": 0.2638031542301178,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          532.1951904296875,
+          379.22503662109375,
+          577.440673828125,
+          459.5239562988281
+        ],
+        "score": 0.3010551631450653,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.30"
+      },
+      {
+        "bbox": [
+          885.561767578125,
+          504.6294860839844,
+          952.8502807617188,
+          629.98486328125
+        ],
+        "score": 0.26268482208251953,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00172.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          651.7449951171875,
+          446.26019287109375,
+          706.160888671875,
+          627.8530883789062
+        ],
+        "score": 0.4711093008518219,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.47"
+      },
+      {
+        "bbox": [
+          381.75347900390625,
+          543.6683959960938,
+          422.90167236328125,
+          606.8716430664062
+        ],
+        "score": 0.48036885261535645,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.48"
+      },
+      {
+        "bbox": [
+          90.04472351074219,
+          513.0254516601562,
+          143.89686584472656,
+          628.4884033203125
+        ],
+        "score": 0.4667571485042572,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.47"
+      },
+      {
+        "bbox": [
+          636.7098999023438,
+          464.3936462402344,
+          670.316650390625,
+          611.7119750976562
+        ],
+        "score": 0.40770187973976135,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.41"
+      },
+      {
+        "bbox": [
+          29.860965728759766,
+          526.2908935546875,
+          88.99969482421875,
+          629.37353515625
+        ],
+        "score": 0.4073520004749298,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.41"
+      },
+      {
+        "bbox": [
+          462.31048583984375,
+          473.4074401855469,
+          505.77813720703125,
+          535.063720703125
+        ],
+        "score": 0.27426838874816895,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      },
+      {
+        "bbox": [
+          238.74667358398438,
+          464.8434753417969,
+          303.0305480957031,
+          628.0433349609375
+        ],
+        "score": 0.3491690754890442,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.35"
+      },
+      {
+        "bbox": [
+          301.3634033203125,
+          460.1827087402344,
+          367.5558166503906,
+          629.3014526367188
+        ],
+        "score": 0.3601774275302887,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.36"
+      },
+      {
+        "bbox": [
+          529.02197265625,
+          495.4373779296875,
+          580.4771728515625,
+          626.480712890625
+        ],
+        "score": 0.28411751985549927,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      },
+      {
+        "bbox": [
+          569.7966918945312,
+          501.5937194824219,
+          619.2969360351562,
+          609.3757934570312
+        ],
+        "score": 0.28634244203567505,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          499.72259521484375,
+          465.6484680175781,
+          538.6107177734375,
+          628.06640625
+        ],
+        "score": 0.3213639259338379,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.32"
+      },
+      {
+        "bbox": [
+          120.3214340209961,
+          600.637939453125,
+          171.9409942626953,
+          629.0608520507812
+        ],
+        "score": 0.2521294057369232,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      },
+      {
+        "bbox": [
+          426.6562194824219,
+          519.1182250976562,
+          465.5709533691406,
+          604.5846557617188
+        ],
+        "score": 0.40346071124076843,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.40"
+      },
+      {
+        "bbox": [
+          215.85328674316406,
+          453.56964111328125,
+          265.0666198730469,
+          623.5462036132812
+        ],
+        "score": 0.2706505060195923,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00184.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          85.01533508300781,
+          87.08433532714844,
+          891.677734375,
+          631.1522216796875
+        ],
+        "score": 0.3001389801502228,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00195.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          439.82208251953125,
+          160.31016540527344,
+          489.827880859375,
+          209.32858276367188
+        ],
+        "score": 0.3036215007305145,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.30"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00207.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00218.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00230.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00241.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          462.60882568359375,
+          386.0687561035156,
+          523.1373291015625,
+          497.7601318359375
+        ],
+        "score": 0.3069166839122772,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.31"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00252.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00264.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00275.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1006.6190185546875,
+          318.5989685058594,
+          1015.1727905273438,
+          331.0063171386719
+        ],
+        "score": 0.3013996481895447,
+        "raw_label": "cigarette",
+        "verdict": "positive",
+        "category": "smoking",
+        "reason": "cigarette object, score 0.30"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00287.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00298.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          426.50665283203125,
+          522.726806640625,
+          448.4687805175781,
+          550.9332275390625
+        ],
+        "score": 0.33905425667762756,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.34"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00310.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00321.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          886.8401489257812,
+          447.7342529296875,
+          958.14599609375,
+          585.4185180664062
+        ],
+        "score": 0.5555517673492432,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.56"
+      },
+      {
+        "bbox": [
+          720.4785766601562,
+          553.23583984375,
+          772.107177734375,
+          596.25
+        ],
+        "score": 0.36469215154647827,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.36"
+      },
+      {
+        "bbox": [
+          738.99462890625,
+          555.5288696289062,
+          772.2747802734375,
+          595.1109008789062
+        ],
+        "score": 0.2972252666950226,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00333.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00344.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1060.222900390625,
+          316.86029052734375,
+          1231.9813232421875,
+          594.7676391601562
+        ],
+        "score": 0.47549527883529663,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.48"
+      },
+      {
+        "bbox": [
+          207.26513671875,
+          271.88702392578125,
+          285.9273986816406,
+          364.77716064453125
+        ],
+        "score": 0.2995881736278534,
+        "raw_label": "bottle cup",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'bottle cup'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00355.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00367.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00378.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          177.5035858154297,
+          91.93597412109375,
+          769.0072631835938,
+          630.6726684570312
+        ],
+        "score": 0.2565615177154541,
+        "raw_label": "drinking",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00390.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          491.36981201171875,
+          480.59942626953125,
+          549.5955200195312,
+          510.4849853515625
+        ],
+        "score": 0.38118600845336914,
+        "raw_label": "cigarette",
+        "verdict": "positive",
+        "category": "smoking",
+        "reason": "cigarette object, score 0.38"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00401.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00413.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00424.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          36.296844482421875,
+          89.5511703491211,
+          750.6076049804688,
+          630.0044555664062
+        ],
+        "score": 0.25697869062423706,
+        "raw_label": "drinking",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00436.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          980.4691162109375,
+          478.5330505371094,
+          1129.453857421875,
+          575.9451904296875
+        ],
+        "score": 0.4748266041278839,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.47"
+      },
+      {
+        "bbox": [
+          795.2210693359375,
+          354.41766357421875,
+          815.3671264648438,
+          409.6221618652344
+        ],
+        "score": 0.2507877051830292,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00447.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00459.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          899.2632446289062,
+          274.6372375488281,
+          914.3860473632812,
+          311.9690246582031
+        ],
+        "score": 0.2658257782459259,
+        "raw_label": "cigarette",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00470.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00481.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          193.0372314453125,
+          259.11895751953125,
+          236.15829467773438,
+          317.18365478515625
+        ],
+        "score": 0.4365329444408417,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.44"
+      },
+      {
+        "bbox": [
+          451.6273498535156,
+          569.5944213867188,
+          517.3495483398438,
+          632.0328369140625
+        ],
+        "score": 0.26650378108024597,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00493.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1012.460205078125,
+          310.6998596191406,
+          1086.4991455078125,
+          412.3499755859375
+        ],
+        "score": 0.3732183575630188,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.37"
+      },
+      {
+        "bbox": [
+          384.5075988769531,
+          406.4529113769531,
+          528.0843505859375,
+          484.44879150390625
+        ],
+        "score": 0.25474342703819275,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      },
+      {
+        "bbox": [
+          203.57102966308594,
+          326.7015686035156,
+          351.2674560546875,
+          415.9337158203125
+        ],
+        "score": 0.3041549324989319,
+        "raw_label": "bottle cup",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'bottle cup'"
+      },
+      {
+        "bbox": [
+          203.3912353515625,
+          326.4664306640625,
+          351.51007080078125,
+          416.3167419433594
+        ],
+        "score": 0.2897658944129944,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00504.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00516.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          338.7951965332031,
+          481.124267578125,
+          372.2816162109375,
+          555.10498046875
+        ],
+        "score": 0.2862946093082428,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00527.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00539.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00550.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          560.7109375,
+          312.6388244628906,
+          676.417724609375,
+          452.10455322265625
+        ],
+        "score": 0.26530444622039795,
+        "raw_label": "smoking",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00562.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00573.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          234.122314453125,
+          181.67498779296875,
+          320.74615478515625,
+          293.6973876953125
+        ],
+        "score": 0.27155423164367676,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00584.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00596.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00607.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00619.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00630.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00642.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00653.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          519.7363891601562,
+          101.5367202758789,
+          1136.30322265625,
+          518.6464233398438
+        ],
+        "score": 0.28442543745040894,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00665.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          985.3768920898438,
+          522.7062377929688,
+          1013.577880859375,
+          572.5455322265625
+        ],
+        "score": 0.2658880949020386,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00676.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1049.349853515625,
+          89.38075256347656,
+          1278.7108154296875,
+          630.8278198242188
+        ],
+        "score": 0.2975299656391144,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00688.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          460.11358642578125,
+          488.4566955566406,
+          524.5031127929688,
+          553.3831787109375
+        ],
+        "score": 0.6536405086517334,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.65"
+      },
+      {
+        "bbox": [
+          560.1636352539062,
+          503.2584228515625,
+          598.918212890625,
+          554.2379150390625
+        ],
+        "score": 0.6282683610916138,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.63"
+      },
+      {
+        "bbox": [
+          890.69775390625,
+          590.2923583984375,
+          927.5262451171875,
+          629.8583374023438
+        ],
+        "score": 0.33298006653785706,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.33"
+      },
+      {
+        "bbox": [
+          890.227783203125,
+          586.7340087890625,
+          951.3154296875,
+          629.8290405273438
+        ],
+        "score": 0.2721419334411621,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00699.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00710.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00722.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00733.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00745.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          218.47259521484375,
+          88.87677764892578,
+          954.108642578125,
+          653.3209228515625
+        ],
+        "score": 0.29358750581741333,
+        "raw_label": "drinking",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00756.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00768.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          834.17578125,
+          567.5015258789062,
+          883.0849609375,
+          594.768798828125
+        ],
+        "score": 0.5942839980125427,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.59"
+      },
+      {
+        "bbox": [
+          1129.0419921875,
+          572.6615600585938,
+          1196.7484130859375,
+          611.404296875
+        ],
+        "score": 0.6182527542114258,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.62"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00779.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          269.03692626953125,
+          89.17475891113281,
+          1235.5701904296875,
+          630.706787109375
+        ],
+        "score": 0.33668285608291626,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.34"
+      },
+      {
+        "bbox": [
+          264.4741516113281,
+          89.24151611328125,
+          1236.578125,
+          632.7099609375
+        ],
+        "score": 0.3911440372467041,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00791.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00802.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00813.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          552.2119750976562,
+          92.50164031982422,
+          1012.5164184570312,
+          585.5913696289062
+        ],
+        "score": 0.2711685299873352,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      },
+      {
+        "bbox": [
+          551.9912109375,
+          93.07357788085938,
+          1013.198486328125,
+          586.676513671875
+        ],
+        "score": 0.2921169400215149,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00825.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          616.2386474609375,
+          103.4463882446289,
+          1117.6317138671875,
+          634.2994384765625
+        ],
+        "score": 0.2626056969165802,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00836.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00848.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          51.25239562988281,
+          107.54228973388672,
+          364.8767395019531,
+          553.4508056640625
+        ],
+        "score": 0.268267959356308,
+        "raw_label": "drinking",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00859.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          419.268798828125,
+          117.46442413330078,
+          980.7264404296875,
+          627.19189453125
+        ],
+        "score": 0.2613566219806671,
+        "raw_label": "smoking drinking",
+        "verdict": "unknown",
+        "category": "concat_label",
+        "reason": "label is concat 'smoking drinking'"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00871.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          685.2789306640625,
+          356.2501220703125,
+          702.8270263671875,
+          394.83026123046875
+        ],
+        "score": 0.3224632143974304,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.32"
+      },
+      {
+        "bbox": [
+          660.9798583984375,
+          274.0496826171875,
+          678.5787353515625,
+          321.7970275878906
+        ],
+        "score": 0.25653764605522156,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          676.273681640625,
+          393.3072814941406,
+          694.486572265625,
+          428.77166748046875
+        ],
+        "score": 0.2518598139286041,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      },
+      {
+        "bbox": [
+          629.3273315429688,
+          287.6356506347656,
+          645.1718139648438,
+          319.1770935058594
+        ],
+        "score": 0.25196367502212524,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      },
+      {
+        "bbox": [
+          645.6128540039062,
+          355.45062255859375,
+          658.56591796875,
+          414.0950927734375
+        ],
+        "score": 0.2511109709739685,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      },
+      {
+        "bbox": [
+          674.8414306640625,
+          253.48558044433594,
+          708.2445068359375,
+          321.060302734375
+        ],
+        "score": 0.25275376439094543,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.25 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00882.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          517.3106689453125,
+          422.8622741699219,
+          572.87548828125,
+          469.5691833496094
+        ],
+        "score": 0.2999453544616699,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00894.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00905.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          399.87432861328125,
+          474.05010986328125,
+          421.5861511230469,
+          499.3084411621094
+        ],
+        "score": 0.46666890382766724,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.47"
+      },
+      {
+        "bbox": [
+          318.4797668457031,
+          443.3534851074219,
+          340.73883056640625,
+          467.8893127441406
+        ],
+        "score": 0.3566482365131378,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.36"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00917.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00928.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00939.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1183.078369140625,
+          290.2459716796875,
+          1235.85791015625,
+          376.5018615722656
+        ],
+        "score": 0.3225463330745697,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.32"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00951.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          1021.2139892578125,
+          558.9718627929688,
+          1065.154296875,
+          631.0763549804688
+        ],
+        "score": 0.28651151061058044,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00962.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          403.63787841796875,
+          307.3174133300781,
+          454.6999816894531,
+          375.63568115234375
+        ],
+        "score": 0.3425997793674469,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.34"
+      },
+      {
+        "bbox": [
+          127.96393585205078,
+          365.1283264160156,
+          174.82223510742188,
+          411.0893859863281
+        ],
+        "score": 0.2923199236392975,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.29 < 0.3"
+      },
+      {
+        "bbox": [
+          67.68731689453125,
+          214.13677978515625,
+          148.36228942871094,
+          258.0234069824219
+        ],
+        "score": 0.29821234941482544,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.30 < 0.3"
+      },
+      {
+        "bbox": [
+          403.15118408203125,
+          307.2931213378906,
+          455.34393310546875,
+          389.2420959472656
+        ],
+        "score": 0.31278470158576965,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.31"
+      },
+      {
+        "bbox": [
+          123.28204345703125,
+          365.13714599609375,
+          175.29010009765625,
+          449.4001159667969
+        ],
+        "score": 0.25996705889701843,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      },
+      {
+        "bbox": [
+          403.93609619140625,
+          307.24273681640625,
+          451.9960021972656,
+          361.850341796875
+        ],
+        "score": 0.28057077527046204,
+        "raw_label": "cup",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.28 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00974.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00985.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_00997.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01008.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01020.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01031.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01042.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          104.54000854492188,
+          193.6691131591797,
+          127.59095764160156,
+          272.1397705078125
+        ],
+        "score": 0.3434087038040161,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.34"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01054.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01065.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          304.7143859863281,
+          99.89559173583984,
+          400.84088134765625,
+          418.22698974609375
+        ],
+        "score": 0.6418203115463257,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.64"
+      },
+      {
+        "bbox": [
+          159.39236450195312,
+          238.48391723632812,
+          346.6265563964844,
+          622.3252563476562
+        ],
+        "score": 0.4718940854072571,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.47"
+      },
+      {
+        "bbox": [
+          159.30960083007812,
+          238.28431701660156,
+          346.2659912109375,
+          557.3713989257812
+        ],
+        "score": 0.26071804761886597,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.26 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01077.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          46.72582244873047,
+          246.55331420898438,
+          89.96881103515625,
+          375.86370849609375
+        ],
+        "score": 0.26608404517173767,
+        "raw_label": "bottle",
+        "verdict": "uncertain",
+        "category": "low_score",
+        "reason": "score 0.27 < 0.3"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01088.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01100.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          273.5094909667969,
+          422.9444885253906,
+          318.1148681640625,
+          541.5160522460938
+        ],
+        "score": 0.4947245121002197,
+        "raw_label": "cup",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "cup object, score 0.49"
+      }
+    ]
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01111.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01123.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": []
+  },
+  {
+    "frame": "sMpzdgHrINs_frame_01134.jpg",
+    "image_size": [
+      1280,
+      720
+    ],
+    "boxes": [
+      {
+        "bbox": [
+          662.17822265625,
+          374.1591796875,
+          701.912353515625,
+          450.7422180175781
+        ],
+        "score": 0.5274103283882141,
+        "raw_label": "bottle",
+        "verdict": "positive",
+        "category": "drinking",
+        "reason": "bottle object, score 0.53"
+      }
+    ]
+  }
+]

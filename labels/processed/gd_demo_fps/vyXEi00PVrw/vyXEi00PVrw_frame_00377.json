@@ -1,0 +1,18 @@
+{
+  "frame": "vyXEi00PVrw_frame_00377.jpg",
+  "prompt": "cigarette. smoking. drinking. bottle. cup.",
+  "boxes": [
+    [
+      477.8302307128906,
+      81.88252258300781,
+      1277.6915283203125,
+      632.883544921875
+    ]
+  ],
+  "scores": [
+    0.2539456784725189
+  ],
+  "labels": [
+    "drinking"
+  ]
+}

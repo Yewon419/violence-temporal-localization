@@ -1,0 +1,49 @@
+# ── 저작권 소재: 영화 프레임·영상은 어떤 경우에도 커밋 금지 ──
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# ── 대용량 산출물: GitHub Release로 배포 ──
+*.pth
+*.npy
+*.npz
+*.pkl
+*.zip
+
+# 실행 환경
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 로컬 DB
+*.sqlite
+*.sqlite-journal
+*.db
+
+# 시크릿
+.env
+.env.*
+!.env.example
+*token*.txt
+*credential*
+
+# 에디터·OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store

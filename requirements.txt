@@ -1,0 +1,11 @@
+# 데모 앱 실행용 (CPU 추론)
+torch==2.12.0
+torchvision
+opencv-python
+scikit-learn
+numpy
+pillow
+streamlit==1.58.0
+matplotlib==3.10.0
+
+# 어노테이션 도구는 violence_annotator/requirements.txt 참조
